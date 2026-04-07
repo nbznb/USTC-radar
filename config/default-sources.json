@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "id": "ustc-notices",
+      "name": "中国科大通知公告",
+      "category": "campus_notices",
+      "type": "html",
+      "url": "https://www.ustc.edu.cn/tzgg.htm",
+      "listUrl": "https://www.ustc.edu.cn/tzgg.htm",
+      "lookbackHours": 720,
+      "fallbackMinItems": 3,
+      "enabled": true
+    },
+    {
+      "id": "ustc-news",
+      "name": "中国科大新闻网",
+      "category": "community",
+      "type": "html",
+      "url": "https://news.ustc.edu.cn/",
+      "listUrl": "https://news.ustc.edu.cn/",
+      "enabled": true
+    },
+    {
+      "id": "qbitai-news",
+      "name": "量子位",
+      "category": "tech_news",
+      "type": "rss",
+      "url": "https://www.qbitai.com/feed",
+      "listUrl": "https://www.qbitai.com/feed",
+      "enabled": true
+    },
+    {
+      "id": "aiera-news",
+      "name": "新智元",
+      "category": "tech_news",
+      "type": "html",
+      "url": "https://aiera.com.cn/",
+      "listUrl": "https://aiera.com.cn/",
+      "lookbackHours": 168,
+      "fallbackMinItems": 2,
+      "enabled": true
+    }
+  ]
+}
