@@ -1,146 +1,168 @@
 {
-  "generatedAt": "2026-04-08T07:14:11.167Z",
+  "generatedAt": "2026-04-09T07:17:42.494Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89338/%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%ba%a4%e7%a8%8e%e5%85%bb%e6%89%93%e5%b7%a5%e4%ba%ba%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bcai%e6%96%b0%e6%94%bf%e6%9b%9d%e5%85%89%ef%bc%8c%e4%b8%8a4%e4%bc%913%e8%a6%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "机器人交税养打工人！奥特曼AI新政曝光，上4休3要成真？",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89338/%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%ba%a4%e7%a8%8e%e5%85%bb%e6%89%93%e5%b7%a5%e4%ba%ba%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bcai%e6%96%b0%e6%94%bf%e6%9b%9d%e5%85%89%ef%bc%8c%e4%b8%8a4%e4%bc%913%e8%a6%81/",
-      "publishedAt": "2026-04-08T06:34:51.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89300/%e5%88%9a%e5%88%9aanthropic%e7%a5%ad%e5%87%ba%e6%9c%80%e5%bc%baclaude-mythos%ef%bc%81%e6%9a%b4%e5%87%bbopus-4-6%ef%bc%8c%e8%b7%aa%e6%b1%82%e5%8d%83%e4%b8%87%e5%88%ab%e7%94%a8/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚Anthropic祭出最强Claude Mythos！暴击Opus 4.6，跪求千万别用",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89300/%e5%88%9a%e5%88%9aanthropic%e7%a5%ad%e5%87%ba%e6%9c%80%e5%bc%baclaude-mythos%ef%bc%81%e6%9a%b4%e5%87%bbopus-4-6%ef%bc%8c%e8%b7%aa%e6%b1%82%e5%8d%83%e4%b8%87%e5%88%ab%e7%94%a8/",
-      "publishedAt": "2026-04-08T06:33:07.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89271/claude%e5%a4%a7%e5%ae%95%e6%9c%ba%ef%bc%8c%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e9%9b%86%e4%bd%93%e7%82%b8%e9%94%85%ef%bc%81anthropic%e4%b8%89%e8%bf%9e%e7%bf%bb%e8%bd%a6%e8%a2%ab%e6%80%92/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude大宕机，全球开发者集体炸锅！Anthropic三连翻车被怒喷",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89271/claude%e5%a4%a7%e5%ae%95%e6%9c%ba%ef%bc%8c%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e9%9b%86%e4%bd%93%e7%82%b8%e9%94%85%ef%bc%81anthropic%e4%b8%89%e8%bf%9e%e7%bf%bb%e8%bd%a6%e8%a2%ab%e6%80%92/",
-      "publishedAt": "2026-04-08T06:31:10.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89260/%e3%80%8copenclaw%e4%b9%8b%e7%88%b6%e7%82%b9%e8%b5%9e%e3%80%8d%e7%bb%88%e7%bb%93%e7%99%be%e8%99%be%e5%a4%a7%e6%88%98%ef%bc%9f%e4%b8%80%e5%9c%ba%e5%8d%87%e7%ba%a7%e7%89%88%e7%9a%84ai%e5%8e%9f%e7%94%9f/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "「OpenClaw之父点赞」终结百虾大战？一场升级版的AI原生革命上演",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89260/%e3%80%8copenclaw%e4%b9%8b%e7%88%b6%e7%82%b9%e8%b5%9e%e3%80%8d%e7%bb%88%e7%bb%93%e7%99%be%e8%99%be%e5%a4%a7%e6%88%98%ef%bc%9f%e4%b8%80%e5%9c%ba%e5%8d%87%e7%ba%a7%e7%89%88%e7%9a%84ai%e5%8e%9f%e7%94%9f/",
-      "publishedAt": "2026-04-08T06:29:26.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89232/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e9%a6%96%e8%b6%85openai%ef%bc%81%e6%9a%b4%e4%b9%b0%e8%b0%b7%e6%ad%8ctpu%ef%bc%8cclaude%e6%9d%80%e7%96%af%e4%ba%86/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，Anthropic首超OpenAI！暴买谷歌TPU，Claude杀疯了",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89232/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e9%a6%96%e8%b6%85openai%ef%bc%81%e6%9a%b4%e4%b9%b0%e8%b0%b7%e6%ad%8ctpu%ef%bc%8cclaude%e6%9d%80%e7%96%af%e4%ba%86/",
-      "publishedAt": "2026-04-08T06:27:41.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89187/gpt-6%e6%8a%a2%e5%85%88%e5%8f%91%e5%b8%83%ef%bc%9fmythos%e8%a2%ab%e6%9b%9d%e9%9a%be%e4%ba%a7%ef%bc%8c%e7%ae%97%e5%8a%9b%e6%83%8a%e4%ba%ba%e7%83%a7%e5%9e%aeanthropic/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "GPT",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89187/gpt-6%e6%8a%a2%e5%85%88%e5%8f%91%e5%b8%83%ef%bc%9fmythos%e8%a2%ab%e6%9b%9d%e9%9a%be%e4%ba%a7%ef%bc%8c%e7%ae%97%e5%8a%9b%e6%83%8a%e4%ba%ba%e7%83%a7%e5%9e%aeanthropic/",
-      "publishedAt": "2026-04-08T06:24:14.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89174/%e5%8d%a1%e5%b8%95%e8%a5%bf%e5%bc%95%e7%88%86%e7%a1%85%e8%b0%b7%ef%bc%81%e5%85%ac%e5%bc%80%e3%80%8c%e7%ac%ac%e4%ba%8c%e5%a4%a7%e8%84%91%e3%80%8d%e9%bb%91%e7%a7%91%e6%8a%80%ef%bc%8c1250%e4%b8%87/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "卡帕西引爆硅谷！公开「第二大脑」黑科技，1250万人围观",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89174/%e5%8d%a1%e5%b8%95%e8%a5%bf%e5%bc%95%e7%88%86%e7%a1%85%e8%b0%b7%ef%bc%81%e5%85%ac%e5%bc%80%e3%80%8c%e7%ac%ac%e4%ba%8c%e5%a4%a7%e8%84%91%e3%80%8d%e9%bb%91%e7%a7%91%e6%8a%80%ef%bc%8c1250%e4%b8%87/",
-      "publishedAt": "2026-04-08T06:22:29.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89145/%e5%88%9a%e5%88%9a%ef%bc%8cclaude-4%e5%b0%8f%e6%97%b6%e8%a1%80%e6%b4%97%e5%85%a8%e7%90%83%e6%9c%80%e5%ae%89%e5%85%a8%e7%b3%bb%e7%bb%9f%ef%bc%81%e4%ba%ba%e7%b1%bb%e6%9c%80%e5%90%8e%e9%98%b2%e7%ba%bf/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，Claude 4小时血洗全球最安全系统！人类最后防线失守",
-      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89145/%e5%88%9a%e5%88%9a%ef%bc%8cclaude-4%e5%b0%8f%e6%97%b6%e8%a1%80%e6%b4%97%e5%85%a8%e7%90%83%e6%9c%80%e5%ae%89%e5%85%a8%e7%b3%bb%e7%bb%9f%ef%bc%81%e4%ba%ba%e7%b1%bb%e6%9c%80%e5%90%8e%e9%98%b2%e7%ba%bf/",
-      "publishedAt": "2026-04-08T06:20:45.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/397799.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/398090.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Skill vs App：一场入口范式的争夺",
-      "url": "https://www.qbitai.com/2026/04/397799.html",
-      "publishedAt": "2026-04-08T04:12:58.000Z",
-      "excerpt": "是重构，而非杀死",
-      "content": "是重构，而非杀死"
+      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
+      "url": "https://www.qbitai.com/2026/04/398090.html",
+      "publishedAt": "2026-04-09T05:11:19.000Z",
+      "excerpt": "用上“记忆宫殿”，检索提升34%",
+      "content": "用上“记忆宫殿”，检索提升34%"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/397761.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/398071.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "DeepSeek深夜更新后自曝：我是V4（？！）",
-      "url": "https://www.qbitai.com/2026/04/397761.html",
-      "publishedAt": "2026-04-08T03:58:24.000Z",
-      "excerpt": "DeepSeek V4真的要来了？",
-      "content": "DeepSeek V4真的要来了？"
+      "title": "马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会",
+      "url": "https://www.qbitai.com/2026/04/398071.html",
+      "publishedAt": "2026-04-09T03:41:25.000Z",
+      "excerpt": "Greg Brockman也被要求交出所有股权收益",
+      "content": "Greg Brockman也被要求交出所有股权收益"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/397733.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/398020.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%",
-      "url": "https://www.qbitai.com/2026/04/397733.html",
-      "publishedAt": "2026-04-08T03:28:15.000Z",
-      "excerpt": "啰嗦并不总是更好",
-      "content": "啰嗦并不总是更好"
+      "title": "Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻",
+      "url": "https://www.qbitai.com/2026/04/398020.html",
+      "publishedAt": "2026-04-09T01:49:48.000Z",
+      "excerpt": "主打原生多模态",
+      "content": "主打原生多模态"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/397710.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/398001.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
-      "url": "https://www.qbitai.com/2026/04/397710.html",
-      "publishedAt": "2026-04-08T02:41:54.000Z",
-      "excerpt": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
-      "content": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」"
+      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+      "url": "https://www.qbitai.com/2026/04/398001.html",
+      "publishedAt": "2026-04-08T14:26:19.000Z",
+      "excerpt": "最新发布AI图表智能体，可深度编辑",
+      "content": "最新发布AI图表智能体，可深度编辑"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/397951.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
+      "url": "https://www.qbitai.com/2026/04/397951.html",
+      "publishedAt": "2026-04-08T10:50:51.000Z",
+      "excerpt": "2026年，是具身原生元年",
+      "content": "2026年，是具身原生元年"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/397942.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+      "url": "https://www.qbitai.com/2026/04/397942.html",
+      "publishedAt": "2026-04-08T10:17:47.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89038/%e4%b8%80%e5%a4%9c%e7%bf%bb%e8%84%b8%ef%bc%8canthropic%e6%ad%a3%e5%bc%8f%e5%b0%81%e6%9d%80openclaw%ef%bc%81%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%8524%e5%b0%8f%e6%97%b6%e8%a1%80%e5%b4%a9/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "一夜翻脸，Anthropic正式封杀OpenClaw！全球开发者24小时血崩",
+      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89038/%e4%b8%80%e5%a4%9c%e7%bf%bb%e8%84%b8%ef%bc%8canthropic%e6%ad%a3%e5%bc%8f%e5%b0%81%e6%9d%80openclaw%ef%bc%81%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%8524%e5%b0%8f%e6%97%b6%e8%a1%80%e5%b4%a9/",
+      "publishedAt": "2026-04-08T09:50:02.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/397930.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
+      "url": "https://www.qbitai.com/2026/04/397930.html",
+      "publishedAt": "2026-04-08T09:49:52.000Z",
+      "excerpt": "理想首款人形机器人也要来了",
+      "content": "理想首款人形机器人也要来了"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/88980/%e8%bf%98%e5%9c%a8%e7%86%ac%e5%a4%9c%e6%89%8b%e6%90%93ppt%ef%bc%9f%e8%b1%86%e5%8c%85%e4%b8%80%e5%8f%a5%e8%af%9d%e7%a7%92%e5%87%ba%ef%bc%8c%e6%95%91%e6%b4%bb%e4%ba%86%e6%88%91%e7%9a%84%e5%b9%b4/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "还在熬夜手搓PPT？豆包一句话秒出，救活了我的年终汇报",
+      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/88980/%e8%bf%98%e5%9c%a8%e7%86%ac%e5%a4%9c%e6%89%8b%e6%90%93ppt%ef%bc%9f%e8%b1%86%e5%8c%85%e4%b8%80%e5%8f%a5%e8%af%9d%e7%a7%92%e5%87%ba%ef%bc%8c%e6%95%91%e6%b4%bb%e4%ba%86%e6%88%91%e7%9a%84%e5%b9%b4/",
+      "publishedAt": "2026-04-08T09:49:40.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89082/%e6%9c%ab%e6%97%a5%e6%97%b6%e9%97%b4%e8%a1%a8%e6%8f%90%e5%89%8d%e4%ba%86%ef%bc%81openai%e5%89%8d%e7%a0%94%e7%a9%b6%e5%91%98%e6%8e%a8%e6%bc%94%ef%bc%9aai%e6%8b%90%e7%82%b9%e9%80%bc%e8%bf%91%ef%bc%8c/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "末日时间表提前了！OpenAI前研究员推演：AI拐点逼近，人类成NPC",
+      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89082/%e6%9c%ab%e6%97%a5%e6%97%b6%e9%97%b4%e8%a1%a8%e6%8f%90%e5%89%8d%e4%ba%86%ef%bc%81openai%e5%89%8d%e7%a0%94%e7%a9%b6%e5%91%98%e6%8e%a8%e6%bc%94%ef%bc%9aai%e6%8b%90%e7%82%b9%e9%80%bc%e8%bf%91%ef%bc%8c/",
+      "publishedAt": "2026-04-08T09:49:07.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89121/%e4%b8%80%e5%bc%a0%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%90%88%e7%85%a7%ef%bc%8c%e9%aa%97%e8%bf%87%e5%85%a8%e7%bd%91%ef%bc%81openai%e6%b7%b1%e5%a4%9c%e5%81%b7%e8%b7%91ai%e5%9b%be%e5%83%8f%e6%96%b0%e7%8e%8b/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "一张奥特曼合照，骗过全网！OpenAI深夜偷跑AI图像新王，PS要凉了",
+      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89121/%e4%b8%80%e5%bc%a0%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%90%88%e7%85%a7%ef%bc%8c%e9%aa%97%e8%bf%87%e5%85%a8%e7%bd%91%ef%bc%81openai%e6%b7%b1%e5%a4%9c%e5%81%b7%e8%b7%91ai%e5%9b%be%e5%83%8f%e6%96%b0%e7%8e%8b/",
+      "publishedAt": "2026-04-08T09:48:37.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89209/2010%e7%be%8e%e8%82%a1%e9%97%aa%e5%b4%a9%e9%a2%84%e6%bc%94-claude%e9%bb%91%e8%bf%9b%e5%ba%95%e5%b1%82%ef%bc%8c%e8%b0%b7%e6%ad%8c-ai%e5%b0%86%e8%a1%80%e6%b4%97%e4%ba%ba%e7%b1%bb%e4%b8%87%e4%ba%bf/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "2010美股闪崩预演! Claude黑进底层，谷歌: AI将血洗人类万亿财富",
+      "url": "https://aiera.com.cn/2026/04/08/other/aiera-com-cn/89209/2010%e7%be%8e%e8%82%a1%e9%97%aa%e5%b4%a9%e9%a2%84%e6%bc%94-claude%e9%bb%91%e8%bf%9b%e5%ba%95%e5%b1%82%ef%bc%8c%e8%b0%b7%e6%ad%8c-ai%e5%b0%86%e8%a1%80%e6%b4%97%e4%ba%ba%e7%b1%bb%e4%b8%87%e4%ba%bf/",
+      "publishedAt": "2026-04-08T09:47:44.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/08/other/admin/89357/sentipulse%e6%90%ba%e6%89%8b%e4%ba%ba%e5%a4%a7%e9%ab%98%e7%93%b4%ef%bc%9a%e5%bc%80%e6%ba%90%e4%ba%a4%e4%ba%92%e5%bc%8f3d%e6%95%b0%e5%ad%97%e4%ba%ba%e6%a1%86%e6%9e%b6sentiavatar%ef%bc%8c%e9%a2%86/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
+      "url": "https://aiera.com.cn/2026/04/08/other/admin/89357/sentipulse%e6%90%ba%e6%89%8b%e4%ba%ba%e5%a4%a7%e9%ab%98%e7%93%b4%ef%bc%9a%e5%bc%80%e6%ba%90%e4%ba%a4%e4%ba%92%e5%bc%8f3d%e6%95%b0%e5%ad%97%e4%ba%ba%e6%a1%86%e6%9e%b6sentiavatar%ef%bc%8c%e9%a2%86/",
+      "publishedAt": "2026-04-08T09:45:38.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/397922.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
+      "url": "https://www.qbitai.com/2026/04/397922.html",
+      "publishedAt": "2026-04-08T08:30:38.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 12,
+    "totalItems": 14,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 12
+      "tech_news": 14
     }
   }
 }
