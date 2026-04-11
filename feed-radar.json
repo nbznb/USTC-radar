@@ -1,194 +1,113 @@
 {
-  "generatedAt": "2026-04-10T07:23:43.383Z",
+  "generatedAt": "2026-04-11T06:58:17.102Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398741.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399473.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "大模型能“原地”改参数了！字节Seed&北大新论文：测试时推理无需加层重训练",
-      "url": "https://www.qbitai.com/2026/04/398741.html",
-      "publishedAt": "2026-04-10T06:12:47.000Z",
-      "excerpt": "即插即用",
-      "content": "即插即用"
+      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+      "url": "https://www.qbitai.com/2026/04/399473.html",
+      "publishedAt": "2026-04-11T02:19:13.000Z",
+      "excerpt": "所幸无人受伤",
+      "content": "所幸无人受伤"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398420.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399417.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "马斯克说漏嘴了！Claude Opus参数5T，Sonnet 1T",
-      "url": "https://www.qbitai.com/2026/04/398420.html",
-      "publishedAt": "2026-04-10T06:08:04.000Z",
-      "excerpt": "Grok 4.2总参数量0.5T",
-      "content": "Grok 4.2总参数量0.5T"
+      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+      "url": "https://www.qbitai.com/2026/04/399417.html",
+      "publishedAt": "2026-04-11T02:07:08.000Z",
+      "excerpt": "10万小时数据集，00后创业灵初智能一战成名",
+      "content": "10万小时数据集，00后创业灵初智能一战成名"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89374/%e3%80%8c%e7%94%9f%e5%8c%96%e5%8d%b1%e6%9c%ba%e3%80%8d%e5%a5%b3%e4%b8%bb%e7%94%a8claude%e6%89%8b%e6%90%93%e6%bb%a1%e5%88%86ai%ef%bc%8c%e4%b8%80%e5%b9%b40-7%e7%be%8e%e5%85%83%e5%8f%8d%e6%9d%80%e5%a4%a7/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "「生化危机」女主用Claude手搓满分AI，一年0.7美元反杀大厂！",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89374/%e3%80%8c%e7%94%9f%e5%8c%96%e5%8d%b1%e6%9c%ba%e3%80%8d%e5%a5%b3%e4%b8%bb%e7%94%a8claude%e6%89%8b%e6%90%93%e6%bb%a1%e5%88%86ai%ef%bc%8c%e4%b8%80%e5%b9%b40-7%e7%be%8e%e5%85%83%e5%8f%8d%e6%9d%80%e5%a4%a7/",
-      "publishedAt": "2026-04-10T05:21:46.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89397/%e5%bc%a0%e9%9b%aa%e6%9c%ba%e8%bd%a6%e7%87%83%e7%88%86%e5%b0%81%e7%a5%9e%ef%bc%81%e5%9b%bd%e4%ba%a72b%e8%af%ad%e9%9f%b3%e6%a8%a1%e5%9e%8b%e9%87%8d%e7%a3%85%e5%bc%80%e6%ba%90%ef%bc%8c%e5%85%a8%e7%bd%91/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "张雪机车燃爆封神！国产2B语音模型重磅开源，全网听完起鸡皮疙瘩",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89397/%e5%bc%a0%e9%9b%aa%e6%9c%ba%e8%bd%a6%e7%87%83%e7%88%86%e5%b0%81%e7%a5%9e%ef%bc%81%e5%9b%bd%e4%ba%a72b%e8%af%ad%e9%9f%b3%e6%a8%a1%e5%9e%8b%e9%87%8d%e7%a3%85%e5%bc%80%e6%ba%90%ef%bc%8c%e5%85%a8%e7%bd%91/",
-      "publishedAt": "2026-04-10T05:21:32.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89410/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%b0%8f%e6%89%8e%e7%a0%b8143%e4%ba%bf%e7%9a%84%e7%89%9b%e6%b2%b9%e6%9e%9c%e6%9d%a5%e4%ba%86%ef%bc%81%e7%a1%ac%e5%88%9agpt-5-4%ef%bc%8c%e7%a1%85%e8%b0%b7%e6%9c%80%e8%b4%b5/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，小扎砸143亿的牛油果来了！硬刚GPT",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89410/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%b0%8f%e6%89%8e%e7%a0%b8143%e4%ba%bf%e7%9a%84%e7%89%9b%e6%b2%b9%e6%9e%9c%e6%9d%a5%e4%ba%86%ef%bc%81%e7%a1%ac%e5%88%9agpt-5-4%ef%bc%8c%e7%a1%85%e8%b0%b7%e6%9c%80%e8%b4%b5/",
-      "publishedAt": "2026-04-10T05:21:13.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89483/%e7%8b%82%e6%8f%bd4%e4%b8%87%e6%98%9f%ef%bc%81%e6%8d%a2%e6%8e%89openclaw%e5%a4%aa%e7%88%bd%e4%ba%86%ef%bc%8c5%e7%be%8e%e5%85%83%e5%b0%b1%e8%83%bd%e5%85%bb%e4%b8%aaai%e6%89%93%e5%b7%a5%e4%ba%ba/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "狂揽4万星！换掉OpenClaw太爽了，5美元就能养个AI打工人",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89483/%e7%8b%82%e6%8f%bd4%e4%b8%87%e6%98%9f%ef%bc%81%e6%8d%a2%e6%8e%89openclaw%e5%a4%aa%e7%88%bd%e4%ba%86%ef%bc%8c5%e7%be%8e%e5%85%83%e5%b0%b1%e8%83%bd%e5%85%bb%e4%b8%aaai%e6%89%93%e5%b7%a5%e4%ba%ba/",
-      "publishedAt": "2026-04-10T04:33:21.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89464/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b1%86%e5%8c%85%e3%80%8c%e6%88%90%e7%b2%be%e3%80%8d%e4%ba%86%ef%bc%81%e4%b8%80%e5%a4%9c%e5%91%8a%e5%88%ab%e6%9c%ba%e6%a2%b0%e6%84%9f%ef%bc%8c%e4%b8%8a%e4%ba%bf%e4%ba%ba/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，豆包「成精」了！一夜告别机械感，上亿人手机全量上线",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89464/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b1%86%e5%8c%85%e3%80%8c%e6%88%90%e7%b2%be%e3%80%8d%e4%ba%86%ef%bc%81%e4%b8%80%e5%a4%9c%e5%91%8a%e5%88%ab%e6%9c%ba%e6%a2%b0%e6%84%9f%ef%bc%8c%e4%b8%8a%e4%ba%bf%e4%ba%ba/",
-      "publishedAt": "2026-04-10T04:31:36.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89451/%e9%bb%84%e4%bb%81%e5%8b%8b%e5%88%9a%e8%ae%b2%e5%ae%8cai%e3%80%8c%e4%ba%94%e5%b1%82%e8%9b%8b%e7%b3%95%e3%80%8d%ef%bc%8c%e4%bb%96%e4%bb%ac%e5%b0%b1%e8%b7%91%e9%80%9a%e4%ba%86%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "黄仁勋刚讲完AI「五层蛋糕」，他们就跑通了！",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89451/%e9%bb%84%e4%bb%81%e5%8b%8b%e5%88%9a%e8%ae%b2%e5%ae%8cai%e3%80%8c%e4%ba%94%e5%b1%82%e8%9b%8b%e7%b3%95%e3%80%8d%ef%bc%8c%e4%bb%96%e4%bb%ac%e5%b0%b1%e8%b7%91%e9%80%9a%e4%ba%86%ef%bc%81/",
-      "publishedAt": "2026-04-10T04:29:51.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89418/claude-mythos%e6%95%b2%e5%93%8d%e6%9c%ab%e6%97%a5%e8%ad%a6%e9%92%9f%ef%bc%81%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e5%b7%b2%e5%9c%a8%e6%82%ac%e5%b4%96%ef%bc%8chassabis%e6%b7%b1%e6%84%9f%e6%81%90/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude Mythos敲响末日警钟！超级智能已在悬崖，Hassabis深感恐惧",
-      "url": "https://aiera.com.cn/2026/04/10/other/aiera-com-cn/89418/claude-mythos%e6%95%b2%e5%93%8d%e6%9c%ab%e6%97%a5%e8%ad%a6%e9%92%9f%ef%bc%81%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e5%b7%b2%e5%9c%a8%e6%82%ac%e5%b4%96%ef%bc%8chassabis%e6%b7%b1%e6%84%9f%e6%81%90/",
-      "publishedAt": "2026-04-10T04:26:19.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/10/other/admin/89369/%e7%94%9f%e6%95%b0%e7%a7%91%e6%8a%80%e5%ae%8c%e6%88%90%e8%bf%9120-%e4%ba%bf%e5%85%83b-%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e4%bb%a5%e9%80%9a%e7%94%a8%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e5%ae%9a/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "生数科技完成近20 亿元B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座",
-      "url": "https://aiera.com.cn/2026/04/10/other/admin/89369/%e7%94%9f%e6%95%b0%e7%a7%91%e6%8a%80%e5%ae%8c%e6%88%90%e8%bf%9120-%e4%ba%bf%e5%85%83b-%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e4%bb%a5%e9%80%9a%e7%94%a8%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e5%ae%9a/",
-      "publishedAt": "2026-04-10T04:14:56.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398385.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399393.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
-      "url": "https://www.qbitai.com/2026/04/398385.html",
-      "publishedAt": "2026-04-10T04:12:29.000Z",
-      "excerpt": "“这是我见过最严重的bug”",
-      "content": "“这是我见过最严重的bug”"
+      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+      "url": "https://www.qbitai.com/2026/04/399393.html",
+      "publishedAt": "2026-04-11T01:23:42.000Z",
+      "excerpt": "广泛的数据是视觉推理强化学习Scaling的主要驱动力",
+      "content": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398181.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399370.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
-      "url": "https://www.qbitai.com/2026/04/398181.html",
-      "publishedAt": "2026-04-10T02:20:00.000Z",
-      "excerpt": "真正成为品牌增长的共生大脑",
-      "content": "真正成为品牌增长的共生大脑"
+      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+      "url": "https://www.qbitai.com/2026/04/399370.html",
+      "publishedAt": "2026-04-10T12:07:15.000Z",
+      "excerpt": "以1334Elo评分高居榜首",
+      "content": "以1334Elo评分高居榜首"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398157.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399366.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
-      "url": "https://www.qbitai.com/2026/04/398157.html",
-      "publishedAt": "2026-04-09T09:38:29.000Z",
-      "excerpt": "据传10号正式发布",
-      "content": "据传10号正式发布"
+      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
+      "url": "https://www.qbitai.com/2026/04/399366.html",
+      "publishedAt": "2026-04-10T11:42:34.000Z",
+      "excerpt": "面向医生和医学生开放使用",
+      "content": "面向医生和医学生开放使用"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398140.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399351.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
-      "url": "https://www.qbitai.com/2026/04/398140.html",
-      "publishedAt": "2026-04-09T07:08:02.000Z",
-      "excerpt": "全球首个消费级AI Agent Harness冲上热搜",
-      "content": "全球首个消费级AI Agent Harness冲上热搜"
+      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
+      "url": "https://www.qbitai.com/2026/04/399351.html",
+      "publishedAt": "2026-04-10T10:32:05.000Z",
+      "excerpt": "技术的终极价值，在于实用",
+      "content": "技术的终极价值，在于实用"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398121.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/398869.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
-      "url": "https://www.qbitai.com/2026/04/398121.html",
-      "publishedAt": "2026-04-09T06:59:04.000Z",
-      "excerpt": "开源平替GitHub迅速揽获2.6k Star",
-      "content": "开源平替GitHub迅速揽获2.6k Star"
+      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
+      "url": "https://www.qbitai.com/2026/04/398869.html",
+      "publishedAt": "2026-04-10T09:31:57.000Z",
+      "excerpt": "勇闯北京晚高峰，实测舒服又轻松",
+      "content": "勇闯北京晚高峰，实测舒服又轻松"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398117.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/398823.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
-      "url": "https://www.qbitai.com/2026/04/398117.html",
-      "publishedAt": "2026-04-09T06:23:54.000Z",
-      "excerpt": "可通过OpenClaw等Agent产品一键安装",
-      "content": "可通过OpenClaw等Agent产品一键安装"
+      "title": "奔驰崩了，在华销量大跌27%",
+      "url": "https://www.qbitai.com/2026/04/398823.html",
+      "publishedAt": "2026-04-10T09:11:11.000Z",
+      "excerpt": "年初降价原因找到了",
+      "content": "年初降价原因找到了"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94526.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "纳米尺度“拧”转自旋：中国科大发展应变工程调控自旋极化新方法",
+      "url": "https://news.ustc.edu.cn/info/1055/94526.htm",
+      "publishedAt": "2026-04-09T00:00:00.000Z",
+      "excerpt": "中国科学技术大学自旋磁共振实验室王亚、王孟祺团队在高压物理与量子传感的交叉前沿领域取得重要进展。团队针对极端压力下金刚石氮空位（NV）色心量子探针的失效机理开展研究，首次通过实验揭示了应变对自旋-光学动力学的调控机制，并基于该机制在纳米尺度实现了自旋极化反转。研究成果于4月6日以“Strain-engineered nanoscale spin polarization reversal in diamond nitrogen-vacancy centers”为题在线发表于国际学术期刊《...",
+      "content": "中国科学技术大学自旋磁共振实验室王亚、王孟祺团队在高压物理与量子传感的交叉前沿领域取得重要进展。团队针对极端压力下金刚石氮空位（NV）色心量子探针的失效机理开展研究，首次通过实验揭示了应变对自旋-光学动力学的调控机制，并基于该机制在纳米尺度实现了自旋极化反转。研究成果于4月6日以“Strain-engineered nanoscale spin polarization reversal in diamond nitrogen-vacancy centers”为题在线发表于国际学术期刊《..."
     }
   ],
   "stats": {
-    "totalItems": 16,
+    "totalItems": 9,
     "byCategory": {
       "campus_notices": 0,
-      "community": 0,
-      "tech_news": 16
+      "community": 1,
+      "tech_news": 8
     }
-  },
-  "errors": [
-    "中国科大通知公告 detail: https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24622 (fetch failed)",
-    "中国科大新闻网: fetch failed"
-  ]
+  }
 }
