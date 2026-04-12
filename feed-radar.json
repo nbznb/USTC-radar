@@ -1,113 +1,47 @@
 {
-  "generatedAt": "2026-04-11T06:58:17.102Z",
+  "generatedAt": "2026-04-12T07:10:23.518Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/399473.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399681.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
-      "url": "https://www.qbitai.com/2026/04/399473.html",
-      "publishedAt": "2026-04-11T02:19:13.000Z",
-      "excerpt": "所幸无人受伤",
-      "content": "所幸无人受伤"
+      "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
+      "url": "https://www.qbitai.com/2026/04/399681.html",
+      "publishedAt": "2026-04-12T06:06:38.000Z",
+      "excerpt": "可能是最有想象力的灵巧手公司之一",
+      "content": "可能是最有想象力的灵巧手公司之一"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/399417.html",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/12/other/admin/89513/%e4%b8%89%e6%96%b9%e5%8d%8f%e5%90%8c%e5%88%9b%e6%96%b0%ef%bc%8c%e5%8c%97%e5%a4%a7-%e6%99%ba%e6%ba%90spikepingpong%e7%ae%97%e6%b3%95%e5%8a%a9%e5%8a%9b%e6%99%ba%e5%85%83%e7%81%b5%e7%8a%80x2%e5%bd%b0/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "三方协同创新，北大",
+      "url": "https://aiera.com.cn/2026/04/12/other/admin/89513/%e4%b8%89%e6%96%b9%e5%8d%8f%e5%90%8c%e5%88%9b%e6%96%b0%ef%bc%8c%e5%8c%97%e5%a4%a7-%e6%99%ba%e6%ba%90spikepingpong%e7%ae%97%e6%b3%95%e5%8a%a9%e5%8a%9b%e6%99%ba%e5%85%83%e7%81%b5%e7%8a%80x2%e5%bd%b0/",
+      "publishedAt": "2026-04-12T05:51:39.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/399675.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-      "url": "https://www.qbitai.com/2026/04/399417.html",
-      "publishedAt": "2026-04-11T02:07:08.000Z",
-      "excerpt": "10万小时数据集，00后创业灵初智能一战成名",
-      "content": "10万小时数据集，00后创业灵初智能一战成名"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/399393.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-      "url": "https://www.qbitai.com/2026/04/399393.html",
-      "publishedAt": "2026-04-11T01:23:42.000Z",
-      "excerpt": "广泛的数据是视觉推理强化学习Scaling的主要驱动力",
-      "content": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/399370.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "url": "https://www.qbitai.com/2026/04/399370.html",
-      "publishedAt": "2026-04-10T12:07:15.000Z",
-      "excerpt": "以1334Elo评分高居榜首",
-      "content": "以1334Elo评分高居榜首"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/399366.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-      "url": "https://www.qbitai.com/2026/04/399366.html",
-      "publishedAt": "2026-04-10T11:42:34.000Z",
-      "excerpt": "面向医生和医学生开放使用",
-      "content": "面向医生和医学生开放使用"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/399351.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
-      "url": "https://www.qbitai.com/2026/04/399351.html",
-      "publishedAt": "2026-04-10T10:32:05.000Z",
-      "excerpt": "技术的终极价值，在于实用",
-      "content": "技术的终极价值，在于实用"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398869.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
-      "url": "https://www.qbitai.com/2026/04/398869.html",
-      "publishedAt": "2026-04-10T09:31:57.000Z",
-      "excerpt": "勇闯北京晚高峰，实测舒服又轻松",
-      "content": "勇闯北京晚高峰，实测舒服又轻松"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/398823.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "奔驰崩了，在华销量大跌27%",
-      "url": "https://www.qbitai.com/2026/04/398823.html",
-      "publishedAt": "2026-04-10T09:11:11.000Z",
-      "excerpt": "年初降价原因找到了",
-      "content": "年初降价原因找到了"
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94526.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "纳米尺度“拧”转自旋：中国科大发展应变工程调控自旋极化新方法",
-      "url": "https://news.ustc.edu.cn/info/1055/94526.htm",
-      "publishedAt": "2026-04-09T00:00:00.000Z",
-      "excerpt": "中国科学技术大学自旋磁共振实验室王亚、王孟祺团队在高压物理与量子传感的交叉前沿领域取得重要进展。团队针对极端压力下金刚石氮空位（NV）色心量子探针的失效机理开展研究，首次通过实验揭示了应变对自旋-光学动力学的调控机制，并基于该机制在纳米尺度实现了自旋极化反转。研究成果于4月6日以“Strain-engineered nanoscale spin polarization reversal in diamond nitrogen-vacancy centers”为题在线发表于国际学术期刊《...",
-      "content": "中国科学技术大学自旋磁共振实验室王亚、王孟祺团队在高压物理与量子传感的交叉前沿领域取得重要进展。团队针对极端压力下金刚石氮空位（NV）色心量子探针的失效机理开展研究，首次通过实验揭示了应变对自旋-光学动力学的调控机制，并基于该机制在纳米尺度实现了自旋极化反转。研究成果于4月6日以“Strain-engineered nanoscale spin polarization reversal in diamond nitrogen-vacancy centers”为题在线发表于国际学术期刊《..."
+      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
+      "url": "https://www.qbitai.com/2026/04/399675.html",
+      "publishedAt": "2026-04-11T10:46:34.000Z",
+      "excerpt": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2",
+      "content": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 3,
     "byCategory": {
       "campus_notices": 0,
-      "community": 1,
-      "tech_news": 8
+      "community": 0,
+      "tech_news": 3
     }
   }
 }
