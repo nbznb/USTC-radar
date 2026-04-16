@@ -1,124 +1,190 @@
 {
-  "generatedAt": "2026-04-15T07:27:15.797Z",
+  "generatedAt": "2026-04-16T07:28:11.852Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401389.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401682.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
-      "url": "https://www.qbitai.com/2026/04/401389.html",
-      "publishedAt": "2026-04-15T05:46:10.000Z",
-      "excerpt": "浏览器纷纷Agent化",
-      "content": "浏览器纷纷Agent化"
+      "title": "扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了",
+      "url": "https://www.qbitai.com/2026/04/401682.html",
+      "publishedAt": "2026-04-16T04:53:31.000Z",
+      "excerpt": "省下50%Tokens，打破养虾高成本困境",
+      "content": "省下50%Tokens，打破养虾高成本困境"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401367.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401655.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了",
-      "url": "https://www.qbitai.com/2026/04/401367.html",
-      "publishedAt": "2026-04-15T05:06:17.000Z",
-      "excerpt": "参考生的纪录，Vidu自己超越自己",
-      "content": "参考生的纪录，Vidu自己超越自己"
+      "title": "Claude实名认证引众怒！强制验证是为了更精准封号",
+      "url": "https://www.qbitai.com/2026/04/401655.html",
+      "publishedAt": "2026-04-16T04:28:09.000Z",
+      "excerpt": "Opus自己都看不下去了",
+      "content": "Opus自己都看不下去了"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401351.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401649.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "黄仁勋率先开源量子AI大模型",
-      "url": "https://www.qbitai.com/2026/04/401351.html",
-      "publishedAt": "2026-04-15T04:45:55.000Z",
-      "excerpt": "“AI会是量子计算机的操作系统”",
-      "content": "“AI会是量子计算机的操作系统”"
+      "title": "短短3个月，高德已拿下具身智能领域15项世界第一",
+      "url": "https://www.qbitai.com/2026/04/401649.html",
+      "publishedAt": "2026-04-16T03:45:58.000Z",
+      "excerpt": "近期将有首款四足机器人发布。",
+      "content": "近期将有首款四足机器人发布。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401333.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
-      "url": "https://www.qbitai.com/2026/04/401333.html",
-      "publishedAt": "2026-04-15T03:22:09.000Z",
-      "excerpt": "Anthropic年化收入掺水80亿",
-      "content": "Anthropic年化收入掺水80亿"
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94582.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大提出锑基太阳能电池内嵌同质结设计制备方法",
-      "url": "https://news.ustc.edu.cn/info/1055/94582.htm",
-      "publishedAt": "2026-04-15T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学化学与材料科学学院的陈涛教授研究组在锑基薄膜光伏领域取得重要研究进展。研究小组围绕Sb2Se3太阳能电池开路电压损失严重这一关键瓶颈问题，提出了一种基于成分调控的载流子极性控制策略，在Sb2Se3吸收层内部构建p-n同质结结构，显著增强器件内建电场并有效抑制非辐射复合，实现了器件性能的协同提升。相关成果以“InternalhomojunctionSb2Se3solarcell”为题，发表于《自然·光子学》（naturephotonics...",
-      "content": "近日，中国科学技术大学化学与材料科学学院的陈涛教授研究组在锑基薄膜光伏领域取得重要研究进展。研究小组围绕Sb2Se3太阳能电池开路电压损失严重这一关键瓶颈问题，提出了一种基于成分调控的载流子极性控制策略，在Sb2Se3吸收层内部构建p-n同质结结构，显著增强器件内建电场并有效抑制非辐射复合，实现了器件性能的协同提升。相关成果以“InternalhomojunctionSb2Se3solarcell”为题，发表于《自然·光子学》（naturephotonics..."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401202.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
-      "url": "https://www.qbitai.com/2026/04/401202.html",
-      "publishedAt": "2026-04-14T13:12:17.000Z",
-      "excerpt": "首创“养虾本”，荣耀AI PC迈入3.0时代",
-      "content": "首创“养虾本”，荣耀AI PC迈入3.0时代"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401190.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
-      "url": "https://www.qbitai.com/2026/04/401190.html",
-      "publishedAt": "2026-04-14T10:19:19.000Z",
-      "excerpt": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。",
-      "content": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401127.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "什么Excel这函数那公式，我千问永远一步搞定",
-      "url": "https://www.qbitai.com/2026/04/401127.html",
-      "publishedAt": "2026-04-14T08:36:36.000Z",
-      "excerpt": "手机电脑全打通，随时随地大白话改表格",
-      "content": "手机电脑全打通，随时随地大白话改表格"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/14/other/aiera-com-cn/89779/%e6%b8%85%e5%8d%8e2%e5%b9%b4%e5%89%8d%e9%a2%84%e8%a8%80%e6%ad%a3%e6%88%90%e4%b8%ba%e5%85%a8%e7%90%83%e5%85%b1%e8%af%86%ef%bc%81meta%e7%ad%89%e4%b8%89%e5%a4%a7ai%e6%9c%ba%e6%9e%84%e5%b7%b2%e5%be%97/",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/admin/89830/%e7%9f%ad%e7%9f%ad3%e4%b8%aa%e6%9c%88%ef%bc%8c%e9%ab%98%e5%be%b7%e5%b7%b2%e6%8b%bf%e4%b8%8b%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e9%a2%86%e5%9f%9f15%e9%a1%b9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "清华2年前预言正成为全球共识！Meta等三大AI机构已得出同一结论",
-      "url": "https://aiera.com.cn/2026/04/14/other/aiera-com-cn/89779/%e6%b8%85%e5%8d%8e2%e5%b9%b4%e5%89%8d%e9%a2%84%e8%a8%80%e6%ad%a3%e6%88%90%e4%b8%ba%e5%85%a8%e7%90%83%e5%85%b1%e8%af%86%ef%bc%81meta%e7%ad%89%e4%b8%89%e5%a4%a7ai%e6%9c%ba%e6%9e%84%e5%b7%b2%e5%be%97/",
-      "publishedAt": "2026-04-14T07:29:08.000Z",
+      "title": "短短3个月，高德已拿下具身智能领域15项世界第一",
+      "url": "https://aiera.com.cn/2026/04/16/other/admin/89830/%e7%9f%ad%e7%9f%ad3%e4%b8%aa%e6%9c%88%ef%bc%8c%e9%ab%98%e5%be%b7%e5%b7%b2%e6%8b%bf%e4%b8%8b%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e9%a2%86%e5%9f%9f15%e9%a1%b9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80/",
+      "publishedAt": "2026-04-16T03:41:17.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/14/other/aiera-com-cn/89796/%e6%96%af%e5%9d%a6%e7%a6%8f423%e9%a1%b5ai%e6%8a%a5%e5%91%8a%e5%87%ba%e7%82%89%ef%bc%81%e4%b8%ad%e7%be%8e%e5%b7%ae%e8%b7%9d%e4%bb%852-7%ef%bc%8cdeepseek%e5%86%b2%e8%bf%9b%e5%85%a8%e7%90%83%e5%89%8d/",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/admin/89827/%e7%bb%a7happyhorse%e5%90%8e%ef%bc%8c%e9%98%bf%e9%87%8c%e5%8f%88%e6%9c%89%e4%b8%80%e6%ac%be%e6%a8%a1%e5%9e%8b%e7%99%bb%e9%a1%b6%e6%9d%83%e5%a8%81%e8%af%84%e6%b5%8b%e6%a6%9c%e5%8d%95/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "斯坦福423页AI报告出炉！中美差距仅2.7%，DeepSeek冲进全球前十",
-      "url": "https://aiera.com.cn/2026/04/14/other/aiera-com-cn/89796/%e6%96%af%e5%9d%a6%e7%a6%8f423%e9%a1%b5ai%e6%8a%a5%e5%91%8a%e5%87%ba%e7%82%89%ef%bc%81%e4%b8%ad%e7%be%8e%e5%b7%ae%e8%b7%9d%e4%bb%852-7%ef%bc%8cdeepseek%e5%86%b2%e8%bf%9b%e5%85%a8%e7%90%83%e5%89%8d/",
-      "publishedAt": "2026-04-14T07:28:08.000Z",
+      "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
+      "url": "https://aiera.com.cn/2026/04/16/other/admin/89827/%e7%bb%a7happyhorse%e5%90%8e%ef%bc%8c%e9%98%bf%e9%87%8c%e5%8f%88%e6%9c%89%e4%b8%80%e6%ac%be%e6%a8%a1%e5%9e%8b%e7%99%bb%e9%a1%b6%e6%9d%83%e5%a8%81%e8%af%84%e6%b5%8b%e6%a6%9c%e5%8d%95/",
+      "publishedAt": "2026-04-16T03:40:56.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/admin/89824/minimax-%e5%8f%91%e5%b8%83%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e4%ba%91%e7%ab%af%e8%87%aa%e6%88%91%e8%bf%9b%e5%8c%96-ai-%e5%8a%a9%e6%89%8b-maxhermes/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "MiniMax 发布全球首个云端自我进化 AI 助手 MaxHermes",
+      "url": "https://aiera.com.cn/2026/04/16/other/admin/89824/minimax-%e5%8f%91%e5%b8%83%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e4%ba%91%e7%ab%af%e8%87%aa%e6%88%91%e8%bf%9b%e5%8c%96-ai-%e5%8a%a9%e6%89%8b-maxhermes/",
+      "publishedAt": "2026-04-16T03:35:45.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401553.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊",
+      "url": "https://www.qbitai.com/2026/04/401553.html",
+      "publishedAt": "2026-04-16T03:16:51.000Z",
+      "excerpt": "服务器、数据库、域名全不用管",
+      "content": "服务器、数据库、域名全不用管"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401554.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
+      "url": "https://www.qbitai.com/2026/04/401554.html",
+      "publishedAt": "2026-04-16T03:03:39.000Z",
+      "excerpt": "登顶WorldArena",
+      "content": "登顶WorldArena"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401541.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "具身智能为什么还没真正落地？问题卡在这 沙龙报名",
+      "url": "https://www.qbitai.com/2026/04/401541.html",
+      "publishedAt": "2026-04-16T02:41:44.000Z",
+      "excerpt": "4月25日周六，不见不散！",
+      "content": "4月25日周六，不见不散！"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401523.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "炸奥特曼的人被扒出来了",
+      "url": "https://www.qbitai.com/2026/04/401523.html",
+      "publishedAt": "2026-04-16T01:07:52.000Z",
+      "excerpt": "手捏多位科技公司CEO及投资者“死亡名单”",
+      "content": "手捏多位科技公司CEO及投资者“死亡名单”"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/401512.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
+      "url": "https://www.qbitai.com/2026/04/401512.html",
+      "publishedAt": "2026-04-15T13:28:53.000Z",
+      "excerpt": "16cm极致外扩，主动探入清洁死角",
+      "content": "16cm极致外扩，主动探入清洁死角"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/15/other/admin/89820/100b-%e5%8c%bf%e5%90%8d%e6%a8%a1%e5%9e%8b-elephant-%e5%86%b2%e4%b8%8a-openrouter-%e8%b6%8b%e5%8a%bf%e6%a6%9c%e7%ac%ac%e4%ba%8c/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "100B 匿名模型 Elephant 冲上 OpenRouter 趋势榜第二",
+      "url": "https://aiera.com.cn/2026/04/15/other/admin/89820/100b-%e5%8c%bf%e5%90%8d%e6%a8%a1%e5%9e%8b-elephant-%e5%86%b2%e4%b8%8a-openrouter-%e8%b6%8b%e5%8a%bf%e6%a6%9c%e7%ac%ac%e4%ba%8c/",
+      "publishedAt": "2026-04-15T07:28:58.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94588.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "《化学教育》杂志封面报道我校机器学习结合红外光谱实验教学研究成果",
+      "url": "https://news.ustc.edu.cn/info/1055/94588.htm",
+      "publishedAt": "2026-04-15T00:00:00.000Z",
+      "excerpt": "近日，美国化学会旗下的Journal of Chemical Education（下文简称为JCE）发表我校数智化实验教育重要成果“Machine Learning-Enabled Quantification of Characteristic Carbonyl Peak Shifts in Infrared Spectra: An Instrumental Analysis Laboratory Experiment for Upper-Division Undergraduates”（J. Chem. Educ. 2026, 103, 4, 2158–2168），这是我校首次在该期刊发表数智化实验教学研究成果，并入选本期封面。JCE于1...",
+      "content": "近日，美国化学会旗下的Journal of Chemical Education（下文简称为JCE）发表我校数智化实验教育重要成果“Machine Learning-Enabled Quantification of Characteristic Carbonyl Peak Shifts in Infrared Spectra: An Instrumental Analysis Laboratory Experiment for Upper-Division Undergraduates”（J. Chem. Educ. 2026, 103, 4, 2158–2168），这是我校首次在该期刊发表数智化实验教学研究成果，并入选本期封面。JCE于1..."
+    },
+    {
+      "id": "ustc-notices:http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于2026年“极客中心”实验室招募学生开展科研实践的通知",
+      "url": "http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24622",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24622",
+      "publishedAt": "2026-03-02T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24489",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24489",
+      "publishedAt": "2026-01-16T00:00:00.000Z",
       "excerpt": "",
       "content": ""
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 16,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 3,
       "community": 1,
-      "tech_news": 9
+      "tech_news": 12
     }
   }
 }
