@@ -1,193 +1,102 @@
 {
-  "generatedAt": "2026-04-17T07:28:44.581Z",
+  "generatedAt": "2026-04-18T07:03:27.124Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402186.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402636.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
-      "url": "https://www.qbitai.com/2026/04/402186.html",
-      "publishedAt": "2026-04-17T05:52:13.000Z",
-      "excerpt": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻",
-      "content": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻"
+      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
+      "url": "https://www.qbitai.com/2026/04/402636.html",
+      "publishedAt": "2026-04-18T01:10:09.000Z",
+      "excerpt": "不以尺寸定义汽车平台",
+      "content": "不以尺寸定义汽车平台"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402158.html",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/17/other/admin/90067/%e7%be%a4%e6%a0%b8%e7%a7%91%e6%8a%80%e6%88%90%e5%8a%9f%e7%99%bb%e9%99%86%e6%b8%af%e4%ba%a4%e6%89%80%ef%bc%8c%e6%88%90%e4%b8%ba%e5%85%a8%e7%90%83%e7%a9%ba%e9%97%b4%e6%99%ba%e8%83%bd%e7%ac%ac/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "群核科技成功登陆港交所，成为“全球空间智能第一股”",
+      "url": "https://aiera.com.cn/2026/04/17/other/admin/90067/%e7%be%a4%e6%a0%b8%e7%a7%91%e6%8a%80%e6%88%90%e5%8a%9f%e7%99%bb%e9%99%86%e6%b8%af%e4%ba%a4%e6%89%80%ef%bc%8c%e6%88%90%e4%b8%ba%e5%85%a8%e7%90%83%e7%a9%ba%e9%97%b4%e6%99%ba%e8%83%bd%e7%ac%ac/",
+      "publishedAt": "2026-04-17T11:51:47.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402440.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
-      "url": "https://www.qbitai.com/2026/04/402158.html",
-      "publishedAt": "2026-04-17T03:30:27.000Z",
-      "excerpt": "空间智能的时代，才刚刚开始。",
-      "content": "空间智能的时代，才刚刚开始。"
+      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
+      "url": "https://www.qbitai.com/2026/04/402440.html",
+      "publishedAt": "2026-04-17T08:24:28.000Z",
+      "excerpt": "算力只需200TOPS",
+      "content": "算力只需200TOPS"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402088.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402388.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
-      "url": "https://www.qbitai.com/2026/04/402088.html",
-      "publishedAt": "2026-04-17T02:16:36.000Z",
-      "excerpt": "推动“物理智能”的最终实现",
-      "content": "推动“物理智能”的最终实现"
+      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+      "url": "https://www.qbitai.com/2026/04/402388.html",
+      "publishedAt": "2026-04-17T07:37:14.000Z",
+      "excerpt": "全栈大脑会成为具身智能下一阶段竞赛的胜负手",
+      "content": "全栈大脑会成为具身智能下一阶段竞赛的胜负手"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/17/other/admin/90064/18%e5%ae%b6%e5%85%b7%e8%ba%ab%e9%a1%b6%e5%b0%96%e5%8a%bf%e5%8a%9b%e9%9b%86%e7%bb%93%ef%bc%8crobochallenge-%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e5%85%b7%e8%ba%ab%e6%a8%a1%e5%9e%8b/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
-      "url": "https://aiera.com.cn/2026/04/17/other/admin/90064/18%e5%ae%b6%e5%85%b7%e8%ba%ab%e9%a1%b6%e5%b0%96%e5%8a%bf%e5%8a%9b%e9%9b%86%e7%bb%93%ef%bc%8crobochallenge-%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e5%85%b7%e8%ba%ab%e6%a8%a1%e5%9e%8b/",
-      "publishedAt": "2026-04-17T01:09:05.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/17/other/admin/90055/%e6%be%9c%e8%88%9f%e7%a7%91%e6%8a%80%e5%8f%91%e5%b8%83%e5%8f%af%e4%bf%a1ai-%e6%8a%80%e6%9c%af%e4%bd%93%e7%b3%bb%ef%bc%8c%e4%bb%a5%e6%99%ba%e8%83%bd%e4%bd%93%e5%92%8c%e6%95%b0%e5%ad%97%e5%91%98/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "澜舟科技发布可信AI 技术体系，以智能体和数字员工重构企业服务新范式",
-      "url": "https://aiera.com.cn/2026/04/17/other/admin/90055/%e6%be%9c%e8%88%9f%e7%a7%91%e6%8a%80%e5%8f%91%e5%b8%83%e5%8f%af%e4%bf%a1ai-%e6%8a%80%e6%9c%af%e4%bd%93%e7%b3%bb%ef%bc%8c%e4%bb%a5%e6%99%ba%e8%83%bd%e4%bd%93%e5%92%8c%e6%95%b0%e5%ad%97%e5%91%98/",
-      "publishedAt": "2026-04-17T01:07:27.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402085.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402329.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-      "url": "https://www.qbitai.com/2026/04/402085.html",
-      "publishedAt": "2026-04-16T13:36:09.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
+      "url": "https://www.qbitai.com/2026/04/402329.html",
+      "publishedAt": "2026-04-17T07:08:17.000Z",
+      "excerpt": "Gemini Robotics主打空间推理的第三代模型。",
+      "content": "Gemini Robotics主打空间推理的第三代模型。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401741.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402189.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-      "url": "https://www.qbitai.com/2026/04/401741.html",
-      "publishedAt": "2026-04-16T13:04:18.000Z",
-      "excerpt": "发布一站式物理AI数据服务平台",
-      "content": "发布一站式物理AI数据服务平台"
+      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+      "url": "https://www.qbitai.com/2026/04/402189.html",
+      "publishedAt": "2026-04-17T06:57:35.000Z",
+      "excerpt": "π0.7：具有涌现能力的可控模型",
+      "content": "π0.7：具有涌现能力的可控模型"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402063.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
-      "url": "https://www.qbitai.com/2026/04/402063.html",
-      "publishedAt": "2026-04-16T12:51:14.000Z",
-      "excerpt": "推动具身智能从实验室研发迈向规模化商业落地，打造“具身智能超级供应链”。",
-      "content": "推动具身智能从实验室研发迈向规模化商业落地，打造“具身智能超级供应链”。"
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94617.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大首次利用超极化分子核自旋实现磁场信号放大",
+      "url": "https://news.ustc.edu.cn/info/1055/94617.htm",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "excerpt": "中国科学技术大学自旋磁共振实验室彭新华教授、江敏教授及其合作者，系统发展了分子核自旋的超极化技术，并提出将其用于量子传感的新方法，首次实现了基于超极化分子核自旋的磁场信号放大，将核自旋对微弱磁场的响应能力至少提升了四个数量级。相关研究成果以\"Hyperpolarized Molecular Nuclear Spins Achieve Magnetic Amplification\"为题于2026年4月2日在线发表于《物理评论快报》(Physical Review Letters)。核自旋广泛存在...",
+      "content": "中国科学技术大学自旋磁共振实验室彭新华教授、江敏教授及其合作者，系统发展了分子核自旋的超极化技术，并提出将其用于量子传感的新方法，首次实现了基于超极化分子核自旋的磁场信号放大，将核自旋对微弱磁场的响应能力至少提升了四个数量级。相关研究成果以\"Hyperpolarized Molecular Nuclear Spins Achieve Magnetic Amplification\"为题于2026年4月2日在线发表于《物理评论快报》(Physical Review Letters)。核自旋广泛存在..."
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401994.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场",
-      "url": "https://www.qbitai.com/2026/04/401994.html",
-      "publishedAt": "2026-04-16T12:39:07.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/401743.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
-      "url": "https://www.qbitai.com/2026/04/401743.html",
-      "publishedAt": "2026-04-16T12:33:23.000Z",
-      "excerpt": "具身圈开源了个SOTA",
-      "content": "具身圈开源了个SOTA"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89852/%e6%9a%97%e6%9d%80%e5%90%8d%e5%8d%95%e6%9b%9d%e5%85%89%ef%bc%81%e7%82%b8%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%ae%b6%ef%bc%8c20%e5%b2%81%e5%ab%8c%e7%8a%af%e3%80%8c%e4%b8%ba%e6%95%91%e5%85%a8%e4%ba%ba%e7%b1%bb/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "暗杀名单曝光！炸奥特曼家，20岁嫌犯「为救全人类」化身杀手",
-      "url": "https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89852/%e6%9a%97%e6%9d%80%e5%90%8d%e5%8d%95%e6%9b%9d%e5%85%89%ef%bc%81%e7%82%b8%e5%a5%a5%e7%89%b9%e6%9b%bc%e5%ae%b6%ef%bc%8c20%e5%b2%81%e5%ab%8c%e7%8a%af%e3%80%8c%e4%b8%ba%e6%95%91%e5%85%a8%e4%ba%ba%e7%b1%bb/",
-      "publishedAt": "2026-04-16T10:24:43.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89833/claude%e9%99%8d%e6%99%ba%ef%bc%8c%e6%98%af%e8%87%aa%e6%9d%80%e8%bf%98%e6%98%af%e8%a3%85%e6%ad%bb%ef%bc%9f/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude降智，是自杀还是装死？",
-      "url": "https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89833/claude%e9%99%8d%e6%99%ba%ef%bc%8c%e6%98%af%e8%87%aa%e6%9d%80%e8%bf%98%e6%98%af%e8%a3%85%e6%ad%bb%ef%bc%9f/",
-      "publishedAt": "2026-04-16T10:23:34.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89906/1-8%e4%b8%87%e7%be%8e%e9%87%91%e5%b9%b2%e6%8e%89%e9%a1%b6%e7%ba%a7%e4%b8%93%e5%ae%b6%ef%bc%81anthropicai%e8%87%aa%e4%b8%bb%e8%bf%9b%e5%8c%96%ef%bc%9aclaude%e8%83%bd%e8%87%aa%e6%88%91%e5%bc%80%e9%a2%85/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "1.8万美金干掉顶级专家！AnthropicAI自主进化：Claude能自我开颅",
-      "url": "https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89906/1-8%e4%b8%87%e7%be%8e%e9%87%91%e5%b9%b2%e6%8e%89%e9%a1%b6%e7%ba%a7%e4%b8%93%e5%ae%b6%ef%bc%81anthropicai%e8%87%aa%e4%b8%bb%e8%bf%9b%e5%8c%96%ef%bc%9aclaude%e8%83%bd%e8%87%aa%e6%88%91%e5%bc%80%e9%a2%85/",
-      "publishedAt": "2026-04-16T10:23:10.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89944/%e6%9c%80%e6%96%b0%e9%a3%8e%e5%8f%a3harness%ef%bc%8c%e6%9d%8e%e5%bc%80%e5%a4%8d%e3%80%81%e9%99%86%e5%a5%87%e5%b7%b2%e9%87%8d%e9%87%91%e5%85%a5%e5%9c%ba/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "最新风口Harness，李开复、陆奇已重金入场",
-      "url": "https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89944/%e6%9c%80%e6%96%b0%e9%a3%8e%e5%8f%a3harness%ef%bc%8c%e6%9d%8e%e5%bc%80%e5%a4%8d%e3%80%81%e9%99%86%e5%a5%87%e5%b7%b2%e9%87%8d%e9%87%91%e5%85%a5%e5%9c%ba/",
-      "publishedAt": "2026-04-16T10:22:47.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89988/claude%e5%bc%95%e5%85%a5%e5%bc%ba%e5%ae%9e%e5%90%8d%e5%88%b6%e9%aa%8c%e8%af%81%ef%bc%81%e5%bf%85%e9%a1%bb%e7%9c%9f%e4%ba%ba%e6%89%8b%e6%8c%81%e8%af%81%e4%bb%b6%e8%87%aa%e6%8b%8d%ef%bc%8c%e5%90%a6/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude引入强实名制验证！必须真人手持证件自拍，否则直接封号！",
-      "url": "https://aiera.com.cn/2026/04/16/other/aiera-com-cn/89988/claude%e5%bc%95%e5%85%a5%e5%bc%ba%e5%ae%9e%e5%90%8d%e5%88%b6%e9%aa%8c%e8%af%81%ef%bc%81%e5%bf%85%e9%a1%bb%e7%9c%9f%e4%ba%ba%e6%89%8b%e6%8c%81%e8%af%81%e4%bb%b6%e8%87%aa%e6%8b%8d%ef%bc%8c%e5%90%a6/",
-      "publishedAt": "2026-04-16T10:22:22.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/16/other/aiera-com-cn/90033/%e7%89%b9%e6%96%af%e6%8b%89openai%e6%95%b0%e6%8d%ae%e8%b7%af%e7%ba%bf%e9%81%87%e6%8c%ab%ef%bc%818%e5%8d%83%e5%b9%b3%e5%85%b7%e8%ba%ab%e3%80%8c%e5%85%b5%e5%b7%a5%e5%8e%82%e3%80%8dego%e4%bc%97%e5%8c%85/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "特斯拉OpenAI数据路线遇挫！8千平具身「兵工厂」+ego众包狂飙",
-      "url": "https://aiera.com.cn/2026/04/16/other/aiera-com-cn/90033/%e7%89%b9%e6%96%af%e6%8b%89openai%e6%95%b0%e6%8d%ae%e8%b7%af%e7%ba%bf%e9%81%87%e6%8c%ab%ef%bc%818%e5%8d%83%e5%b9%b3%e5%85%b7%e8%ba%ab%e3%80%8c%e5%85%b5%e5%b7%a5%e5%8e%82%e3%80%8dego%e4%bc%97%e5%8c%85/",
-      "publishedAt": "2026-04-16T10:06:56.000Z",
-      "excerpt": "",
-      "content": ""
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94603.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "原子阱解锁定年新工具：钙",
+      "url": "https://news.ustc.edu.cn/info/1055/94603.htm",
+      "publishedAt": "2026-04-16T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学蒋蔚教授、卢征天教授团队与黄方教授团队合作，在ScienceBulletin发表了题为“41Ca exposure dating of glacial moraines”的研究成果。该研究采用原子阱痕量分析方法，首次成功测定了青藏高原冰碛样品中的41Ca同位素丰度，实现了样品的暴露定年，为研究青藏高原冰川演变提供了全新工具。图1：41Ca是一种宇宙成因放射性定年同位素，它可以为冰川地貌等地质环境解读年龄密码，揭开其形成与演化的时间之谜...",
+      "content": "近日，中国科学技术大学蒋蔚教授、卢征天教授团队与黄方教授团队合作，在ScienceBulletin发表了题为“41Ca exposure dating of glacial moraines”的研究成果。该研究采用原子阱痕量分析方法，首次成功测定了青藏高原冰碛样品中的41Ca同位素丰度，实现了样品的暴露定年，为研究青藏高原冰川演变提供了全新工具。图1：41Ca是一种宇宙成因放射性定年同位素，它可以为冰川地貌等地质环境解读年龄密码，揭开其形成与演化的时间之谜..."
     }
   ],
   "stats": {
-    "totalItems": 16,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
-      "community": 0,
-      "tech_news": 16
+      "community": 2,
+      "tech_news": 6
     }
-  },
-  "errors": [
-    "中国科大通知公告: fetch failed"
-  ]
+  }
 }
