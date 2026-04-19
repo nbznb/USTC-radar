@@ -1,102 +1,113 @@
 {
-  "generatedAt": "2026-04-18T07:03:27.124Z",
+  "generatedAt": "2026-04-19T07:15:06.997Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402636.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
-      "url": "https://www.qbitai.com/2026/04/402636.html",
-      "publishedAt": "2026-04-18T01:10:09.000Z",
-      "excerpt": "不以尺寸定义汽车平台",
-      "content": "不以尺寸定义汽车平台"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/17/other/admin/90067/%e7%be%a4%e6%a0%b8%e7%a7%91%e6%8a%80%e6%88%90%e5%8a%9f%e7%99%bb%e9%99%86%e6%b8%af%e4%ba%a4%e6%89%80%ef%bc%8c%e6%88%90%e4%b8%ba%e5%85%a8%e7%90%83%e7%a9%ba%e9%97%b4%e6%99%ba%e8%83%bd%e7%ac%ac/",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/19/other/admin/90083/%e8%8d%a3%e8%80%80%e9%97%aa%e7%94%b5%e5%a4%ba%e5%86%a0%ef%bc%8c%e7%91%9e%e5%a3%b0%e7%a7%91%e6%8a%80%e6%89%93%e9%80%a0%e6%8a%80%e6%9c%af%e5%b9%b3%e5%8f%b0%e5%9e%8b%e6%9c%ba%e5%99%a8/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "群核科技成功登陆港交所，成为“全球空间智能第一股”",
-      "url": "https://aiera.com.cn/2026/04/17/other/admin/90067/%e7%be%a4%e6%a0%b8%e7%a7%91%e6%8a%80%e6%88%90%e5%8a%9f%e7%99%bb%e9%99%86%e6%b8%af%e4%ba%a4%e6%89%80%ef%bc%8c%e6%88%90%e4%b8%ba%e5%85%a8%e7%90%83%e7%a9%ba%e9%97%b4%e6%99%ba%e8%83%bd%e7%ac%ac/",
-      "publishedAt": "2026-04-17T11:51:47.000Z",
+      "title": "荣耀“闪电”夺冠，瑞声科技打造技术平台型机器人供应链",
+      "url": "https://aiera.com.cn/2026/04/19/other/admin/90083/%e8%8d%a3%e8%80%80%e9%97%aa%e7%94%b5%e5%a4%ba%e5%86%a0%ef%bc%8c%e7%91%9e%e5%a3%b0%e7%a7%91%e6%8a%80%e6%89%93%e9%80%a0%e6%8a%80%e6%9c%af%e5%b9%b3%e5%8f%b0%e5%9e%8b%e6%9c%ba%e5%99%a8/",
+      "publishedAt": "2026-04-19T05:38:00.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402440.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/403308.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-      "url": "https://www.qbitai.com/2026/04/402440.html",
-      "publishedAt": "2026-04-17T08:24:28.000Z",
-      "excerpt": "算力只需200TOPS",
-      "content": "算力只需200TOPS"
+      "title": "马斯克来抖音卖老干妈了？？",
+      "url": "https://www.qbitai.com/2026/04/403308.html",
+      "publishedAt": "2026-04-19T04:47:09.000Z",
+      "excerpt": "这将是一个虚拟与现实，彻底融合的世界",
+      "content": "这将是一个虚拟与现实，彻底融合的世界"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402388.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/403214.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
-      "url": "https://www.qbitai.com/2026/04/402388.html",
-      "publishedAt": "2026-04-17T07:37:14.000Z",
-      "excerpt": "全栈大脑会成为具身智能下一阶段竞赛的胜负手",
-      "content": "全栈大脑会成为具身智能下一阶段竞赛的胜负手"
+      "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
+      "url": "https://www.qbitai.com/2026/04/403214.html",
+      "publishedAt": "2026-04-19T04:25:19.000Z",
+      "excerpt": "没有人工干预，没有预设脚本",
+      "content": "没有人工干预，没有预设脚本"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402329.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/403210.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
-      "url": "https://www.qbitai.com/2026/04/402329.html",
-      "publishedAt": "2026-04-17T07:08:17.000Z",
-      "excerpt": "Gemini Robotics主打空间推理的第三代模型。",
-      "content": "Gemini Robotics主打空间推理的第三代模型。"
+      "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+      "url": "https://www.qbitai.com/2026/04/403210.html",
+      "publishedAt": "2026-04-19T04:14:11.000Z",
+      "excerpt": "万字实录在此",
+      "content": "万字实录在此"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/402189.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/403126.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
-      "url": "https://www.qbitai.com/2026/04/402189.html",
-      "publishedAt": "2026-04-17T06:57:35.000Z",
-      "excerpt": "π0.7：具有涌现能力的可控模型",
-      "content": "π0.7：具有涌现能力的可控模型"
+      "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
+      "url": "https://www.qbitai.com/2026/04/403126.html",
+      "publishedAt": "2026-04-19T03:24:56.000Z",
+      "excerpt": "魏建军回应“接地气”：我农民出身",
+      "content": "魏建军回应“接地气”：我农民出身"
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94617.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大首次利用超极化分子核自旋实现磁场信号放大",
-      "url": "https://news.ustc.edu.cn/info/1055/94617.htm",
-      "publishedAt": "2026-04-17T00:00:00.000Z",
-      "excerpt": "中国科学技术大学自旋磁共振实验室彭新华教授、江敏教授及其合作者，系统发展了分子核自旋的超极化技术，并提出将其用于量子传感的新方法，首次实现了基于超极化分子核自旋的磁场信号放大，将核自旋对微弱磁场的响应能力至少提升了四个数量级。相关研究成果以\"Hyperpolarized Molecular Nuclear Spins Achieve Magnetic Amplification\"为题于2026年4月2日在线发表于《物理评论快报》(Physical Review Letters)。核自旋广泛存在...",
-      "content": "中国科学技术大学自旋磁共振实验室彭新华教授、江敏教授及其合作者，系统发展了分子核自旋的超极化技术，并提出将其用于量子传感的新方法，首次实现了基于超极化分子核自旋的磁场信号放大，将核自旋对微弱磁场的响应能力至少提升了四个数量级。相关研究成果以\"Hyperpolarized Molecular Nuclear Spins Achieve Magnetic Amplification\"为题于2026年4月2日在线发表于《物理评论快报》(Physical Review Letters)。核自旋广泛存在..."
+      "id": "aiera-news:https://aiera.com.cn/2026/04/19/other/admin/90071/%e9%ab%98%e5%be%b7%e5%8f%91%e5%b8%83%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e9%9d%a2%e5%90%91agi%e7%9a%84%e5%85%a8%e6%a0%88%e5%85%b7%e8%ba%ab%e6%8a%80%e6%9c%af%e4%bd%93%e7%b3%bbabot/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：三层飞轮式设计，突破数据、仿真、泛化瓶颈",
+      "url": "https://aiera.com.cn/2026/04/19/other/admin/90071/%e9%ab%98%e5%be%b7%e5%8f%91%e5%b8%83%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e9%9d%a2%e5%90%91agi%e7%9a%84%e5%85%a8%e6%a0%88%e5%85%b7%e8%ba%ab%e6%8a%80%e6%9c%af%e4%bd%93%e7%b3%bbabot/",
+      "publishedAt": "2026-04-19T01:35:03.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94603.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "原子阱解锁定年新工具：钙",
-      "url": "https://news.ustc.edu.cn/info/1055/94603.htm",
-      "publishedAt": "2026-04-16T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学蒋蔚教授、卢征天教授团队与黄方教授团队合作，在ScienceBulletin发表了题为“41Ca exposure dating of glacial moraines”的研究成果。该研究采用原子阱痕量分析方法，首次成功测定了青藏高原冰碛样品中的41Ca同位素丰度，实现了样品的暴露定年，为研究青藏高原冰川演变提供了全新工具。图1：41Ca是一种宇宙成因放射性定年同位素，它可以为冰川地貌等地质环境解读年龄密码，揭开其形成与演化的时间之谜...",
-      "content": "近日，中国科学技术大学蒋蔚教授、卢征天教授团队与黄方教授团队合作，在ScienceBulletin发表了题为“41Ca exposure dating of glacial moraines”的研究成果。该研究采用原子阱痕量分析方法，首次成功测定了青藏高原冰碛样品中的41Ca同位素丰度，实现了样品的暴露定年，为研究青藏高原冰川演变提供了全新工具。图1：41Ca是一种宇宙成因放射性定年同位素，它可以为冰川地貌等地质环境解读年龄密码，揭开其形成与演化的时间之谜..."
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402988.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "url": "https://www.qbitai.com/2026/04/402988.html",
+      "publishedAt": "2026-04-18T15:58:07.000Z",
+      "excerpt": "自然语言控制设备，零编程编排流程",
+      "content": "自然语言控制设备，零编程编排流程"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/402965.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "OpenClaw的风，已经吹进了奶茶圈",
+      "url": "https://www.qbitai.com/2026/04/402965.html",
+      "publishedAt": "2026-04-18T15:48:50.000Z",
+      "excerpt": "企业如何安全落地龙虾？",
+      "content": "企业如何安全落地龙虾？"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/24866.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于举办“王淦昌大讲堂”之曹臻院士报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/24866.htm",
+      "publishedAt": "2026-04-18T00:00:00.000Z",
+      "excerpt": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀LHAASO国际合作组发言人、天府宇宙线研究中心主任曹臻院士来我校做报告。报告题目：LHAASO的建设历程和科学成果报告时间：2026年4月23日（周四）19：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验2026年4月16日",
+      "content": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀LHAASO国际合作组发言人、天府宇宙线研究中心主任曹臻院士来我校做报告。报告题目：LHAASO的建设历程和科学成果报告时间：2026年4月23日（周四）19：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验2026年4月16日"
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
-      "community": 2,
-      "tech_news": 6
+      "campus_notices": 1,
+      "community": 0,
+      "tech_news": 8
     }
   }
 }
