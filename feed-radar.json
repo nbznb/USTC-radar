@@ -1,135 +1,139 @@
 {
-  "generatedAt": "2026-04-24T07:58:50.034Z",
+  "generatedAt": "2026-04-25T07:10:51.761Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/24/other/admin/90601/senticat-%e5%85%ac%e6%b5%8b%e4%b8%8a%e7%ba%bf%ef%bc%9a%e5%9b%bd%e4%ba%a7-agent-%e8%b5%b0%e5%90%91-%e4%bb%bb%e5%8a%a1%e6%89%a7%e8%a1%8c-%e6%83%85%e6%84%9f%e9%99%aa%e4%bc%b4/",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406973.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+      "url": "https://www.qbitai.com/2026/04/406973.html",
+      "publishedAt": "2026-04-25T05:41:18.000Z",
+      "excerpt": "首次公开三大AI应用生态",
+      "content": "首次公开三大AI应用生态"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406960.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+      "url": "https://www.qbitai.com/2026/04/406960.html",
+      "publishedAt": "2026-04-25T05:31:57.000Z",
+      "excerpt": "六年磨一剑",
+      "content": "六年磨一剑"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406892.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+      "url": "https://www.qbitai.com/2026/04/406892.html",
+      "publishedAt": "2026-04-25T03:35:53.000Z",
+      "excerpt": "三作者如今齐聚Mira初创",
+      "content": "三作者如今齐聚Mira初创"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406809.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+      "url": "https://www.qbitai.com/2026/04/406809.html",
+      "publishedAt": "2026-04-25T03:27:22.000Z",
+      "excerpt": "mHC用了，Engram留给v5",
+      "content": "mHC用了，Engram留给v5"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/24/other/admin/90633/%e4%bc%98%e5%bf%85%e9%80%89%e5%8f%91%e5%b8%83thinker-cosmos%ef%bc%9a%e5%8a%a0%e7%a0%81%e5%bc%80%e5%8f%91%e8%80%85%e7%94%9f%e6%80%81%ef%bc%8c%e6%8e%a8%e5%8a%a8%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "SentiCat 公测上线：国产 Agent 走向 “任务执行 + 情感陪伴” 新阶段",
-      "url": "https://aiera.com.cn/2026/04/24/other/admin/90601/senticat-%e5%85%ac%e6%b5%8b%e4%b8%8a%e7%ba%bf%ef%bc%9a%e5%9b%bd%e4%ba%a7-agent-%e8%b5%b0%e5%90%91-%e4%bb%bb%e5%8a%a1%e6%89%a7%e8%a1%8c-%e6%83%85%e6%84%9f%e9%99%aa%e4%bc%b4/",
-      "publishedAt": "2026-04-24T07:03:04.000Z",
+      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+      "url": "https://aiera.com.cn/2026/04/24/other/admin/90633/%e4%bc%98%e5%bf%85%e9%80%89%e5%8f%91%e5%b8%83thinker-cosmos%ef%bc%9a%e5%8a%a0%e7%a0%81%e5%bc%80%e5%8f%91%e8%80%85%e7%94%9f%e6%80%81%ef%bc%8c%e6%8e%a8%e5%8a%a8%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8/",
+      "publishedAt": "2026-04-24T13:07:03.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406393.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406806.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式",
-      "url": "https://www.qbitai.com/2026/04/406393.html",
-      "publishedAt": "2026-04-24T07:01:47.000Z",
-      "excerpt": "业界首个面向多Agent协作的标准化能力包规范",
-      "content": "业界首个面向多Agent协作的标准化能力包规范"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406359.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
-      "url": "https://www.qbitai.com/2026/04/406359.html",
-      "publishedAt": "2026-04-24T04:17:45.000Z",
-      "excerpt": "在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
-      "content": "在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406221.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
-      "url": "https://www.qbitai.com/2026/04/406221.html",
-      "publishedAt": "2026-04-23T20:44:39.000Z",
-      "excerpt": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
-      "content": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406191.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
-      "url": "https://www.qbitai.com/2026/04/406191.html",
-      "publishedAt": "2026-04-23T14:42:18.000Z",
-      "excerpt": "多维表格又升级了",
-      "content": "多维表格又升级了"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406020.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
-      "url": "https://www.qbitai.com/2026/04/406020.html",
-      "publishedAt": "2026-04-23T14:28:57.000Z",
-      "excerpt": "百万Token要降到1分钱",
-      "content": "百万Token要降到1分钱"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406036.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
-      "url": "https://www.qbitai.com/2026/04/406036.html",
-      "publishedAt": "2026-04-23T11:37:24.000Z",
-      "excerpt": "L2+上车46万辆",
-      "content": "L2+上车46万辆"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/406026.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
-      "url": "https://www.qbitai.com/2026/04/406026.html",
-      "publishedAt": "2026-04-23T09:55:30.000Z",
-      "excerpt": "能参与协作与执行的超级助手",
-      "content": "能参与协作与执行的超级助手"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/405391.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
-      "url": "https://www.qbitai.com/2026/04/405391.html",
-      "publishedAt": "2026-04-23T08:04:09.000Z",
-      "excerpt": "底层架构已彻底重构",
-      "content": "底层架构已彻底重构"
-    },
-    {
-      "id": "ustc-notices:http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于2026年“极客中心”实验室招募学生开展科研实践的通知",
-      "url": "http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
-      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+      "url": "https://www.qbitai.com/2026/04/406806.html",
+      "publishedAt": "2026-04-24T11:49:30.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24622",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24622",
-      "publishedAt": "2026-03-02T00:00:00.000Z",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/24/other/admin/90616/%e6%b6%82%e9%b8%a6%e6%99%ba%e8%83%bd%e4%b8%be%e5%8a%9e2026%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%ef%bc%8c%e4%b8%89%e5%a4%a7ai%e5%ba%94%e7%94%a8%e7%94%9f%e6%80%81%e9%a6%96%e5%85%ac%e5%bc%80/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "涂鸦智能举办2026开发者大会，三大AI应用生态首公开！",
+      "url": "https://aiera.com.cn/2026/04/24/other/admin/90616/%e6%b6%82%e9%b8%a6%e6%99%ba%e8%83%bd%e4%b8%be%e5%8a%9e2026%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%ef%bc%8c%e4%b8%89%e5%a4%a7ai%e5%ba%94%e7%94%a8%e7%94%9f%e6%80%81%e9%a6%96%e5%85%ac%e5%bc%80/",
+      "publishedAt": "2026-04-24T10:56:16.000Z",
       "excerpt": "",
       "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/24/other/admin/90608/%e4%ba%9a%e9%a9%ac%e9%80%8a%e4%ba%91%e7%a7%91%e6%8a%80%e3%80%81%e9%98%bf%e9%87%8c%e4%ba%91%e3%80%81%e7%81%ab%e5%b1%b1%e5%bc%95%e6%93%8e%e7%ad%89%e5%85%a8%e7%90%83ai%e4%bc%99%e4%bc%b4%e9%bd%90%e8%81%9a/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "亚马逊云科技、阿里云、火山引擎等全球AI伙伴齐聚，涂鸦智能开发者大会共话AI应用生态！",
+      "url": "https://aiera.com.cn/2026/04/24/other/admin/90608/%e4%ba%9a%e9%a9%ac%e9%80%8a%e4%ba%91%e7%a7%91%e6%8a%80%e3%80%81%e9%98%bf%e9%87%8c%e4%ba%91%e3%80%81%e7%81%ab%e5%b1%b1%e5%bc%95%e6%93%8e%e7%ad%89%e5%85%a8%e7%90%83ai%e4%bc%99%e4%bc%b4%e9%bd%90%e8%81%9a/",
+      "publishedAt": "2026-04-24T10:54:50.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406802.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "url": "https://www.qbitai.com/2026/04/406802.html",
+      "publishedAt": "2026-04-24T10:23:30.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406791.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "DeepSeek-V4发布，华为云首发适配",
+      "url": "https://www.qbitai.com/2026/04/406791.html",
+      "publishedAt": "2026-04-24T10:10:16.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/406775.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
+      "url": "https://www.qbitai.com/2026/04/406775.html",
+      "publishedAt": "2026-04-24T09:45:43.000Z",
+      "excerpt": "表现超出此前市场预期。",
+      "content": "表现超出此前市场预期。"
     }
   ],
   "stats": {
     "totalItems": 11,
     "byCategory": {
-      "campus_notices": 2,
+      "campus_notices": 0,
       "community": 0,
-      "tech_news": 9
+      "tech_news": 11
     }
-  }
+  },
+  "errors": [
+    "中国科大通知公告 detail: https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24622 (fetch failed)",
+    "中国科大新闻网: fetch failed"
+  ]
 }
