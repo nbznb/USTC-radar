@@ -1,128 +1,201 @@
 {
-  "generatedAt": "2026-04-28T08:21:44.438Z",
+  "generatedAt": "2026-04-29T08:11:29.240Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/410294.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
-      "url": "https://www.qbitai.com/2026/04/410294.html",
-      "publishedAt": "2026-04-28T07:21:21.000Z",
-      "excerpt": "跑通AI盈利正循环，还教你躺着用Agent赚钱。",
-      "content": "跑通AI盈利正循环，还教你躺着用Agent赚钱。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/410183.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
-      "url": "https://www.qbitai.com/2026/04/410183.html",
-      "publishedAt": "2026-04-28T07:06:34.000Z",
-      "excerpt": "为期三天的第20届中国投资年会·年度峰会圆满落幕",
-      "content": "为期三天的第20届中国投资年会·年度峰会圆满落幕"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/410077.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "GTC2026 全球流量大会（深圳）圆满收官：25000+出海人到场，11月4-5日，我们上海见！",
-      "url": "https://www.qbitai.com/2026/04/410077.html",
-      "publishedAt": "2026-04-28T06:58:04.000Z",
-      "excerpt": "下一站，上海见，新加坡见！",
-      "content": "下一站，上海见，新加坡见！"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/409879.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "全球化成主旋律，中国企业如何乘风破局   GTC首日干货汇总",
-      "url": "https://www.qbitai.com/2026/04/409879.html",
-      "publishedAt": "2026-04-28T06:52:21.000Z",
-      "excerpt": "大会首日入场总人数 16000+，当日入场总人次 25000+。",
-      "content": "大会首日入场总人数 16000+，当日入场总人次 25000+。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/409896.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "DeepSeek不惜代价保住它！V4关键特性被挖出来了",
-      "url": "https://www.qbitai.com/2026/04/409896.html",
-      "publishedAt": "2026-04-28T06:15:23.000Z",
-      "excerpt": "技术报告越挖越有",
-      "content": "技术报告越挖越有"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/409882.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "小雨智造与北航共建实验室，创始人乔忠良：工业落地比人形奇观更具正义性",
-      "url": "https://www.qbitai.com/2026/04/409882.html",
-      "publishedAt": "2026-04-28T06:05:45.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/409875.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "MuleRun（骡子快跑）首发灰测HappyHorse模型，支持用户7×24小时调用",
-      "url": "https://www.qbitai.com/2026/04/409875.html",
-      "publishedAt": "2026-04-28T05:42:39.000Z",
-      "excerpt": "多画幅适配及1080P超分输出",
-      "content": "多画幅适配及1080P超分输出"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/409670.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "当200位具身从业者被拉进同一个屋子",
-      "url": "https://www.qbitai.com/2026/04/409670.html",
-      "publishedAt": "2026-04-28T04:27:02.000Z",
-      "excerpt": "做具身别着急“堆数据”，先想透这些问题",
-      "content": "做具身别着急“堆数据”，先想透这些问题"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24912",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24912",
-      "publishedAt": "2026-04-28T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/27/other/admin/90639/%e5%bd%b1%e7%9f%b3%e5%85%a5%e5%b1%80vibe-coding%ef%bc%8c%e4%b8%8eai%e7%bc%96%e7%a8%8b%e5%b9%b3%e5%8f%b0%e8%81%94%e5%90%88%e6%8e%a8%e5%87%ba%e9%ba%a6%e5%85%8b%e9%a3%8e%e5%a5%97%e8%a3%85/",
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/91201/%e6%a0%87%e9%a2%98-1%ef%bc%9asentipulse-%e5%8f%91%e5%b8%83-senticat%ef%bc%9a%e5%bd%93-agent%e5%bc%80%e5%a7%8b%e5%bb%ba%e7%ab%8b%e5%85%b3%e7%b3%bb-%ef%bc%8cai%e8%bf%9b%e5%85%a5/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "影石入局Vibe Coding，与AI编程平台联合推出麦克风套装",
-      "url": "https://aiera.com.cn/2026/04/27/other/admin/90639/%e5%bd%b1%e7%9f%b3%e5%85%a5%e5%b1%80vibe-coding%ef%bc%8c%e4%b8%8eai%e7%bc%96%e7%a8%8b%e5%b9%b3%e5%8f%b0%e8%81%94%e5%90%88%e6%8e%a8%e5%87%ba%e9%ba%a6%e5%85%8b%e9%a3%8e%e5%a5%97%e8%a3%85/",
-      "publishedAt": "2026-04-27T10:35:23.000Z",
+      "title": "SentiPulse 发布 SentiCat：当 Agent开始“建立关系” ，AI进入下一阶段",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/91201/%e6%a0%87%e9%a2%98-1%ef%bc%9asentipulse-%e5%8f%91%e5%b8%83-senticat%ef%bc%9a%e5%bd%93-agent%e5%bc%80%e5%a7%8b%e5%bb%ba%e7%ab%8b%e5%85%b3%e7%b3%bb-%ef%bc%8cai%e8%bf%9b%e5%85%a5/",
+      "publishedAt": "2026-04-29T08:05:29.000Z",
       "excerpt": "",
       "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/411133.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+      "url": "https://www.qbitai.com/2026/04/411133.html",
+      "publishedAt": "2026-04-29T06:56:15.000Z",
+      "excerpt": "“全球最强开源”的含金量还在上升",
+      "content": "“全球最强开源”的含金量还在上升"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410937.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+      "url": "https://www.qbitai.com/2026/04/410937.html",
+      "publishedAt": "2026-04-29T04:27:03.000Z",
+      "excerpt": "全网开源，即刻可用",
+      "content": "全网开源，即刻可用"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410791.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+      "url": "https://www.qbitai.com/2026/04/410791.html",
+      "publishedAt": "2026-04-29T04:20:49.000Z",
+      "excerpt": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+      "content": "记忆才是AI最大瓶颈，智能体只是权宜之计"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410738.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+      "url": "https://www.qbitai.com/2026/04/410738.html",
+      "publishedAt": "2026-04-29T04:12:02.000Z",
+      "excerpt": "十分钟干完一周活",
+      "content": "十分钟干完一周活"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410772.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+      "url": "https://www.qbitai.com/2026/04/410772.html",
+      "publishedAt": "2026-04-29T04:10:59.000Z",
+      "excerpt": "GPT-5.5马上也能用了",
+      "content": "GPT-5.5马上也能用了"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410732.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "吨级重载新纪元开启 大咖机器人全球首发“吨级重载机器马”",
+      "url": "https://www.qbitai.com/2026/04/410732.html",
+      "publishedAt": "2026-04-29T03:06:21.000Z",
+      "excerpt": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景",
+      "content": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410653.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+      "url": "https://www.qbitai.com/2026/04/410653.html",
+      "publishedAt": "2026-04-29T02:23:06.000Z",
+      "excerpt": "开启具身规模化时代",
+      "content": "开启具身规模化时代"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/91048/%e4%bb%8a%e5%a4%a9%ef%bc%8copenai%e4%b8%8e%e5%be%ae%e8%bd%af%e6%ad%a3%e5%bc%8f%e3%80%8c%e5%88%86%e6%89%8b%e3%80%8d%ef%bc%81agi%e5%8d%96%e8%ba%ab%e5%a5%91%e4%bd%9c%e5%ba%9f/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "今天，OpenAI与微软正式「分手」！AGI卖身契作废",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/91048/%e4%bb%8a%e5%a4%a9%ef%bc%8copenai%e4%b8%8e%e5%be%ae%e8%bd%af%e6%ad%a3%e5%bc%8f%e3%80%8c%e5%88%86%e6%89%8b%e3%80%8d%ef%bc%81agi%e5%8d%96%e8%ba%ab%e5%a5%91%e4%bd%9c%e5%ba%9f/",
+      "publishedAt": "2026-04-29T02:04:41.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/91032/9%e7%a7%92%ef%bc%8c%e5%85%ac%e5%8f%b8%e6%b2%a1%e4%ba%86%ef%bc%81claude%e3%80%8c%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af%e3%80%8d%ef%bc%8canthropic%e5%b0%81%e6%9d%80110%e4%ba%ba%e5%85%ac%e5%8f%b8/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/91032/9%e7%a7%92%ef%bc%8c%e5%85%ac%e5%8f%b8%e6%b2%a1%e4%ba%86%ef%bc%81claude%e3%80%8c%e5%88%a0%e5%ba%93%e8%b7%91%e8%b7%af%e3%80%8d%ef%bc%8canthropic%e5%b0%81%e6%9d%80110%e4%ba%ba%e5%85%ac%e5%8f%b8/",
+      "publishedAt": "2026-04-29T01:59:30.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/91015/%e9%bb%84%e4%bb%81%e5%8b%8b%e9%a2%84%e8%a8%80%e7%9a%84100%e4%b8%87%e4%ba%bf%e5%b8%82%e5%9c%ba%ef%bc%8c%e8%a2%ab%e6%98%93%e9%91%ab%e9%87%91%e8%9e%8dagent%e6%92%9e%e5%bc%80%e4%b8%80%e9%81%93%e5%8f%a3/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "黄仁勋预言的100万亿市场，被易鑫金融Agent撞开一道口子",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/91015/%e9%bb%84%e4%bb%81%e5%8b%8b%e9%a2%84%e8%a8%80%e7%9a%84100%e4%b8%87%e4%ba%bf%e5%b8%82%e5%9c%ba%ef%bc%8c%e8%a2%ab%e6%98%93%e9%91%ab%e9%87%91%e8%9e%8dagent%e6%92%9e%e5%bc%80%e4%b8%80%e9%81%93%e5%8f%a3/",
+      "publishedAt": "2026-04-29T01:58:21.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/91002/%e5%bd%bb%e5%ba%95%e5%a4%b1%e6%8e%a7%ef%bc%81ai%e6%81%90%e6%83%a7%e6%bc%94%e5%8f%98%e7%89%a9%e7%90%86%e6%9a%97%e6%9d%80%ef%bc%9a%e8%80%81%e9%bb%84%e9%9a%8f%e8%ba%ab%e5%b8%a65%e4%b8%aa%e4%bf%9d/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/91002/%e5%bd%bb%e5%ba%95%e5%a4%b1%e6%8e%a7%ef%bc%81ai%e6%81%90%e6%83%a7%e6%bc%94%e5%8f%98%e7%89%a9%e7%90%86%e6%9a%97%e6%9d%80%ef%bc%9a%e8%80%81%e9%bb%84%e9%9a%8f%e8%ba%ab%e5%b8%a65%e4%b8%aa%e4%bf%9d/",
+      "publishedAt": "2026-04-29T01:57:14.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/90981/%e5%a5%87%e7%82%b9%e4%b8%b4%e8%bf%91%ef%bc%81%e5%85%a8%e7%90%83ai%e7%bb%88%e5%b1%80%e6%88%98%ef%bc%8c%e5%8f%aa%e5%89%a9openai%e5%92%8canthropic%e7%9a%84%e5%8f%8c%e4%ba%ba%e8%88%9e/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "奇点临近！全球AI终局战，只剩OpenAI和Anthropic的双人舞",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/90981/%e5%a5%87%e7%82%b9%e4%b8%b4%e8%bf%91%ef%bc%81%e5%85%a8%e7%90%83ai%e7%bb%88%e5%b1%80%e6%88%98%ef%bc%8c%e5%8f%aa%e5%89%a9openai%e5%92%8canthropic%e7%9a%84%e5%8f%8c%e4%ba%ba%e8%88%9e/",
+      "publishedAt": "2026-04-29T01:56:07.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/90952/%e3%80%8c%e5%8a%a8%e5%98%b4%e5%8a%9e%e5%85%ac%e3%80%8d%e7%81%ab%e8%b5%b7%e6%9d%a5%e4%ba%86%ef%bc%81trae-solo%e8%ae%a9%e6%89%93%e5%b7%a5%e4%ba%ba%e5%bc%a0%e5%98%b4%e5%b0%b1%e8%83%bd%e5%b9%b2%e6%b4%bb/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "「动嘴办公」火起来了！TRAE SOLO让打工人张嘴就能干活",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/90952/%e3%80%8c%e5%8a%a8%e5%98%b4%e5%8a%9e%e5%85%ac%e3%80%8d%e7%81%ab%e8%b5%b7%e6%9d%a5%e4%ba%86%ef%bc%81trae-solo%e8%ae%a9%e6%89%93%e5%b7%a5%e4%ba%ba%e5%bc%a0%e5%98%b4%e5%b0%b1%e8%83%bd%e5%b9%b2%e6%b4%bb/",
+      "publishedAt": "2026-04-29T01:54:29.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/04/29/other/admin/90922/%e9%98%bf%e9%87%8c%e3%80%8c%e5%bf%ab%e4%b9%90%e5%b0%8f%e9%a9%ac%e3%80%8d%e6%9d%a5%e4%ba%86%ef%bc%8c%e9%a6%96%e6%89%b9%e7%bd%91%e5%8f%8b%e5%b7%b2%e7%8e%a9%e7%96%af%ef%bc%81720p%e4%bd%8e%e8%87%b30-44/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "阿里「快乐小马」来了，首批网友已玩疯！720P低至0.44元/秒",
+      "url": "https://aiera.com.cn/2026/04/29/other/admin/90922/%e9%98%bf%e9%87%8c%e3%80%8c%e5%bf%ab%e4%b9%90%e5%b0%8f%e9%a9%ac%e3%80%8d%e6%9d%a5%e4%ba%86%ef%bc%8c%e9%a6%96%e6%89%b9%e7%bd%91%e5%8f%8b%e5%b7%b2%e7%8e%a9%e7%96%af%ef%bc%81720p%e4%bd%8e%e8%87%b30-44/",
+      "publishedAt": "2026-04-29T01:51:48.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/410519.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "小米双模型正式开源！MiMo-V2.5-Pro无中断肝出“macOS”：54个应用全开、浏览器真能冲浪",
+      "url": "https://www.qbitai.com/2026/04/410519.html",
+      "publishedAt": "2026-04-29T00:52:13.000Z",
+      "excerpt": "百万亿token免费发放，新兴Agent框架免费接入",
+      "content": "百万亿token免费发放，新兴Agent框架免费接入"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94765.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大电热四功能超材料实现四场解耦可编程调控",
+      "url": "https://news.ustc.edu.cn/info/1055/94765.htm",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "excerpt": "多物理场超材料作为面向多物理场精准调控的核心人工结构，可通过材料热、电物性与几何拓扑设计，同步规划电流、电压、热流、温度分布，是自适应伪装、高效能源传输、先进微电子热管理等领域的关键核心技术。然而，电子–声子强相互作用、电压场–电流场与温度场–热流场本征耦合，长期制约传统设计仅能实现单一或双功能，难以在统一架构下完成多场解耦操控，成为多物理场超材料发展的核心瓶颈。近日，中国科学技术大学信息科学...",
+      "content": "多物理场超材料作为面向多物理场精准调控的核心人工结构，可通过材料热、电物性与几何拓扑设计，同步规划电流、电压、热流、温度分布，是自适应伪装、高效能源传输、先进微电子热管理等领域的关键核心技术。然而，电子–声子强相互作用、电压场–电流场与温度场–热流场本征耦合，长期制约传统设计仅能实现单一或双功能，难以在统一架构下完成多场解耦操控，成为多物理场超材料发展的核心瓶颈。近日，中国科学技术大学信息科学..."
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 17,
     "byCategory": {
-      "campus_notices": 1,
-      "community": 0,
-      "tech_news": 9
+      "campus_notices": 0,
+      "community": 1,
+      "tech_news": 16
     }
-  },
-  "errors": [
-    "中国科大通知公告 detail: http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp (fetch failed)",
-    "中国科大新闻网: fetch failed"
-  ]
+  }
 }
