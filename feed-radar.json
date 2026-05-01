@@ -1,135 +1,102 @@
 {
-  "generatedAt": "2026-04-30T08:15:08.857Z",
+  "generatedAt": "2026-05-01T08:08:26.036Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411955.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412577.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
-      "url": "https://www.qbitai.com/2026/04/411955.html",
-      "publishedAt": "2026-04-30T07:24:29.000Z",
-      "excerpt": "根据自身业务流程定制专属数字员工",
-      "content": "根据自身业务流程定制专属数字员工"
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412577.html",
+      "publishedAt": "2026-05-01T06:28:46.000Z",
+      "excerpt": "真机部署“零微调”",
+      "content": "真机部署“零微调”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411797.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412447.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
-      "url": "https://www.qbitai.com/2026/04/411797.html",
-      "publishedAt": "2026-04-30T06:52:23.000Z",
-      "excerpt": "非思考模式快到飞起",
-      "content": "非思考模式快到飞起"
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "url": "https://www.qbitai.com/2026/05/412447.html",
+      "publishedAt": "2026-05-01T06:21:38.000Z",
+      "excerpt": "瓜多到吃不完",
+      "content": "瓜多到吃不完"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411604.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/412041.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "游戏性能旗舰最强之选，一加Ace 6至尊版国补到手价2999元起",
-      "url": "https://www.qbitai.com/2026/04/411604.html",
-      "publishedAt": "2026-04-30T05:45:21.000Z",
-      "excerpt": "搭载当代旗舰芯天玑9500移动平台",
-      "content": "搭载当代旗舰芯天玑9500移动平台"
+      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
+      "url": "https://www.qbitai.com/2026/04/412041.html",
+      "publishedAt": "2026-04-30T12:04:32.000Z",
+      "excerpt": "牵引中国汽车“走出去”、“走上去”",
+      "content": "牵引中国汽车“走出去”、“走上去”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411600.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/412021.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "钉钉“听劝”推出充电宝版录音卡，可连续录音180小时",
-      "url": "https://www.qbitai.com/2026/04/411600.html",
-      "publishedAt": "2026-04-30T04:41:28.000Z",
-      "excerpt": "半年不充电也能正常待机使用",
-      "content": "半年不充电也能正常待机使用"
+      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
+      "url": "https://www.qbitai.com/2026/04/412021.html",
+      "publishedAt": "2026-04-30T11:38:10.000Z",
+      "excerpt": "42.8万元起售",
+      "content": "42.8万元起售"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/04/30/other/admin/91203/ai%e5%95%86%e4%b8%9a%e5%8d%8f%e8%ae%aeact%e5%8d%87%e7%ba%a7%ef%bc%8ciifaa%e8%81%94%e7%9b%9f%e8%81%94%e5%90%88%e6%94%af%e4%bb%98%e5%ae%9d%e3%80%81%e5%b0%8f%e7%b1%b3%e3%80%81%e6%99%ba%e8%b0%b1%e7%ad%892/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI商业协议ACT升级，IIFAA联盟联合支付宝、小米、智谱等20余企业共建",
-      "url": "https://aiera.com.cn/2026/04/30/other/admin/91203/ai%e5%95%86%e4%b8%9a%e5%8d%8f%e8%ae%aeact%e5%8d%87%e7%ba%a7%ef%bc%8ciifaa%e8%81%94%e7%9b%9f%e8%81%94%e5%90%88%e6%94%af%e4%bb%98%e5%ae%9d%e3%80%81%e5%b0%8f%e7%b1%b3%e3%80%81%e6%99%ba%e8%b0%b1%e7%ad%892/",
-      "publishedAt": "2026-04-30T01:47:27.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411336.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/412018.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
-      "url": "https://www.qbitai.com/2026/04/411336.html",
-      "publishedAt": "2026-04-30T00:35:15.000Z",
-      "excerpt": "做视频，顺便把具身智能的活也干了。",
-      "content": "做视频，顺便把具身智能的活也干了。"
+      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+      "url": "https://www.qbitai.com/2026/04/412018.html",
+      "publishedAt": "2026-04-30T09:16:56.000Z",
+      "excerpt": "Stripe推出由 Link 驱动的智能体钱包",
+      "content": "Stripe推出由 Link 驱动的智能体钱包"
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94796.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "“悟空”巡天，发现宇宙射线加速能量极限的电荷依赖规律",
-      "url": "https://news.ustc.edu.cn/info/1055/94796.htm",
-      "publishedAt": "2026-04-30T00:00:00.000Z",
-      "excerpt": "近日，“悟空”号首席科学家常进院士领导的国际科学团队在宇宙线观测研究方面取得重要成果。研究团队基于“悟空”号九年的在轨观测数据，首次直接观测到质子、氦、碳、氧及铁五种宇宙线原子核能谱存在统一的软化拐折结构，并发现宇宙射线加速能量极限的电荷依赖规律，为揭开宇宙射线起源之谜提供了重要线索。相关论文以“Charge-dependent spectral softenings of primary cosmic-rays below the knee”为题于4月29日在线发表于...",
-      "content": "近日，“悟空”号首席科学家常进院士领导的国际科学团队在宇宙线观测研究方面取得重要成果。研究团队基于“悟空”号九年的在轨观测数据，首次直接观测到质子、氦、碳、氧及铁五种宇宙线原子核能谱存在统一的软化拐折结构，并发现宇宙射线加速能量极限的电荷依赖规律，为揭开宇宙射线起源之谜提供了重要线索。相关论文以“Charge-dependent spectral softenings of primary cosmic-rays below the knee”为题于4月29日在线发表于..."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411205.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/412015.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
-      "url": "https://www.qbitai.com/2026/04/411205.html",
-      "publishedAt": "2026-04-29T09:08:25.000Z",
-      "excerpt": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
-      "content": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。"
+      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
+      "url": "https://www.qbitai.com/2026/04/412015.html",
+      "publishedAt": "2026-04-30T09:08:31.000Z",
+      "excerpt": "从算力时代到智能时代，三大结构性变化",
+      "content": "从算力时代到智能时代，三大结构性变化"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411184.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/411963.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
-      "url": "https://www.qbitai.com/2026/04/411184.html",
-      "publishedAt": "2026-04-29T09:02:24.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
+      "url": "https://www.qbitai.com/2026/04/411963.html",
+      "publishedAt": "2026-04-30T08:36:50.000Z",
+      "excerpt": "三大技术尖点+五大全面引领",
+      "content": "三大技术尖点+五大全面引领"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411186.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/04/411964.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
-      "url": "https://www.qbitai.com/2026/04/411186.html",
-      "publishedAt": "2026-04-29T09:00:30.000Z",
-      "excerpt": "无需联网，下载即可直接在手机本地运行",
-      "content": "无需联网，下载即可直接在手机本地运行"
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94803.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大光量子雷达实现强湍流下的微米精度三维探测",
-      "url": "https://news.ustc.edu.cn/info/1055/94803.htm",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "excerpt": "中国科学技术大学薛向辉教授团队提出并验证了纠缠光照明的微米精度量子层析成像技术。基于纠缠光子对的双光子干涉测量机制，在强湍流、气泡密布的复杂液体环境中，仍能实现高保真三维图像重构。相关成果发表于国际知名光学期刊Photonics Research上。高分辨率三维光学成像，是精准医疗诊断、高端极端制造、工业精密检测等领域的核心关键技术，但其成像效果极易受传输介质干扰。在生物医学层析成像中，样品运动引发的随机光程波...",
-      "content": "中国科学技术大学薛向辉教授团队提出并验证了纠缠光照明的微米精度量子层析成像技术。基于纠缠光子对的双光子干涉测量机制，在强湍流、气泡密布的复杂液体环境中，仍能实现高保真三维图像重构。相关成果发表于国际知名光学期刊Photonics Research上。高分辨率三维光学成像，是精准医疗诊断、高端极端制造、工业精密检测等领域的核心关键技术，但其成像效果极易受传输介质干扰。在生物医学层析成像中，样品运动引发的随机光程波..."
+      "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
+      "url": "https://www.qbitai.com/2026/04/411964.html",
+      "publishedAt": "2026-04-30T08:23:39.000Z",
+      "excerpt": "MIT是奥赛天才的第一目的地",
+      "content": "MIT是奥赛天才的第一目的地"
     }
   ],
   "stats": {
-    "totalItems": 11,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
-      "community": 2,
-      "tech_news": 9
+      "community": 0,
+      "tech_news": 8
     }
   }
 }
