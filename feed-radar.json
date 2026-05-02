@@ -1,102 +1,28 @@
 {
-  "generatedAt": "2026-05-01T08:08:26.036Z",
+  "generatedAt": "2026-05-02T07:28:32.109Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412577.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412577.html",
-      "publishedAt": "2026-05-01T06:28:46.000Z",
-      "excerpt": "真机部署“零微调”",
-      "content": "真机部署“零微调”"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412447.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "url": "https://www.qbitai.com/2026/05/412447.html",
-      "publishedAt": "2026-05-01T06:21:38.000Z",
-      "excerpt": "瓜多到吃不完",
-      "content": "瓜多到吃不完"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/412041.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
-      "url": "https://www.qbitai.com/2026/04/412041.html",
-      "publishedAt": "2026-04-30T12:04:32.000Z",
-      "excerpt": "牵引中国汽车“走出去”、“走上去”",
-      "content": "牵引中国汽车“走出去”、“走上去”"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/412021.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
-      "url": "https://www.qbitai.com/2026/04/412021.html",
-      "publishedAt": "2026-04-30T11:38:10.000Z",
-      "excerpt": "42.8万元起售",
-      "content": "42.8万元起售"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/412018.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-      "url": "https://www.qbitai.com/2026/04/412018.html",
-      "publishedAt": "2026-04-30T09:16:56.000Z",
-      "excerpt": "Stripe推出由 Link 驱动的智能体钱包",
-      "content": "Stripe推出由 Link 驱动的智能体钱包"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/412015.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-      "url": "https://www.qbitai.com/2026/04/412015.html",
-      "publishedAt": "2026-04-30T09:08:31.000Z",
-      "excerpt": "从算力时代到智能时代，三大结构性变化",
-      "content": "从算力时代到智能时代，三大结构性变化"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411963.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
-      "url": "https://www.qbitai.com/2026/04/411963.html",
-      "publishedAt": "2026-04-30T08:36:50.000Z",
-      "excerpt": "三大技术尖点+五大全面引领",
-      "content": "三大技术尖点+五大全面引领"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/04/411964.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
-      "url": "https://www.qbitai.com/2026/04/411964.html",
-      "publishedAt": "2026-04-30T08:23:39.000Z",
-      "excerpt": "MIT是奥赛天才的第一目的地",
-      "content": "MIT是奥赛天才的第一目的地"
+      "id": "ustc-notices:http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于2026年“极客中心”实验室招募学生开展科研实践的通知",
+      "url": "http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 1,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 0
     }
-  }
+  },
+  "errors": [
+    "量子位: fetch failed"
+  ]
 }
