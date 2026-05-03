@@ -1,28 +1,80 @@
 {
-  "generatedAt": "2026-05-02T07:28:32.109Z",
+  "generatedAt": "2026-05-03T07:58:19.763Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "ustc-notices:http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于2026年“极客中心”实验室招募学生开展科研实践的通知",
-      "url": "http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
-      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412870.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "publishedAt": "2026-05-03T03:56:44.000Z",
+      "excerpt": "与全球社区共同推动具身智能创新",
+      "content": "与全球社区共同推动具身智能创新"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412737.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "DeepSeek V4最大的遗憾",
+      "url": "https://www.qbitai.com/2026/05/412737.html",
+      "publishedAt": "2026-05-03T03:43:37.000Z",
+      "excerpt": "Engram去哪了？",
+      "content": "Engram去哪了？"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412713.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://www.qbitai.com/2026/05/412713.html",
+      "publishedAt": "2026-05-02T03:30:12.000Z",
       "excerpt": "",
       "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412696.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+      "url": "https://www.qbitai.com/2026/05/412696.html",
+      "publishedAt": "2026-05-01T13:58:09.000Z",
+      "excerpt": "基于全栈国产化软硬件生态打造",
+      "content": "基于全栈国产化软硬件生态打造"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412597.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "他用AI办了个音乐节，主题：别读博",
+      "url": "https://www.qbitai.com/2026/05/412597.html",
+      "publishedAt": "2026-05-01T13:20:15.000Z",
+      "excerpt": "一代科研人的赛博苦中作乐",
+      "content": "一代科研人的赛博苦中作乐"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412585.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+      "url": "https://www.qbitai.com/2026/05/412585.html",
+      "publishedAt": "2026-05-01T11:00:05.000Z",
+      "excerpt": "都是Prefill的锅",
+      "content": "都是Prefill的锅"
     }
   ],
   "stats": {
-    "totalItems": 1,
+    "totalItems": 6,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
-      "tech_news": 0
+      "tech_news": 6
     }
-  },
-  "errors": [
-    "量子位: fetch failed"
-  ]
+  }
 }
