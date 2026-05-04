@@ -1,80 +1,47 @@
 {
-  "generatedAt": "2026-05-03T07:58:19.763Z",
+  "generatedAt": "2026-05-04T08:26:11.499Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412870.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412914.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412870.html",
-      "publishedAt": "2026-05-03T03:56:44.000Z",
-      "excerpt": "与全球社区共同推动具身智能创新",
-      "content": "与全球社区共同推动具身智能创新"
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "url": "https://www.qbitai.com/2026/05/412914.html",
+      "publishedAt": "2026-05-04T06:09:16.000Z",
+      "excerpt": "专门针对DeepSeek优化",
+      "content": "专门针对DeepSeek优化"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412737.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412080.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "DeepSeek V4最大的遗憾",
-      "url": "https://www.qbitai.com/2026/05/412737.html",
-      "publishedAt": "2026-05-03T03:43:37.000Z",
-      "excerpt": "Engram去哪了？",
-      "content": "Engram去哪了？"
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "url": "https://www.qbitai.com/2026/05/412080.html",
+      "publishedAt": "2026-05-03T09:43:20.000Z",
+      "excerpt": "瓜多到吃不完",
+      "content": "瓜多到吃不完"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412713.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412896.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "url": "https://www.qbitai.com/2026/05/412713.html",
-      "publishedAt": "2026-05-02T03:30:12.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412696.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
-      "url": "https://www.qbitai.com/2026/05/412696.html",
-      "publishedAt": "2026-05-01T13:58:09.000Z",
-      "excerpt": "基于全栈国产化软硬件生态打造",
-      "content": "基于全栈国产化软硬件生态打造"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412597.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "他用AI办了个音乐节，主题：别读博",
-      "url": "https://www.qbitai.com/2026/05/412597.html",
-      "publishedAt": "2026-05-01T13:20:15.000Z",
-      "excerpt": "一代科研人的赛博苦中作乐",
-      "content": "一代科研人的赛博苦中作乐"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412585.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
-      "url": "https://www.qbitai.com/2026/05/412585.html",
-      "publishedAt": "2026-05-01T11:00:05.000Z",
-      "excerpt": "都是Prefill的锅",
-      "content": "都是Prefill的锅"
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "url": "https://www.qbitai.com/2026/05/412896.html",
+      "publishedAt": "2026-05-03T09:42:55.000Z",
+      "excerpt": "完全无需互联网数据",
+      "content": "完全无需互联网数据"
     }
   ],
   "stats": {
-    "totalItems": 6,
+    "totalItems": 3,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 6
+      "tech_news": 3
     }
   }
 }
