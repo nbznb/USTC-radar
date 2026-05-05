@@ -1,47 +1,36 @@
 {
-  "generatedAt": "2026-05-04T08:26:11.499Z",
+  "generatedAt": "2026-05-05T08:04:41.310Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412914.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
-      "url": "https://www.qbitai.com/2026/05/412914.html",
-      "publishedAt": "2026-05-04T06:09:16.000Z",
-      "excerpt": "专门针对DeepSeek优化",
-      "content": "专门针对DeepSeek优化"
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94831.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大实现高速率实用化量子密钥分发",
+      "url": "https://news.ustc.edu.cn/info/1055/94831.htm",
+      "publishedAt": "2026-05-04T00:00:00.000Z",
+      "excerpt": "我校郭光灿院士团队在实用化量子密钥分发研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与哈尔滨工业大学李琼团队合作，突破了量子态制备和单光子探测技术在高速、高信噪比和集成度的相互制约难题，首次利用半导体单光子探测器，实现了超越超导探测系统的安全密钥率纪录，验证了实现高性能实用化量子密钥分发设备的重要技术路径。研究成果以“High-rate quantum key distribution with compact state preparation a...",
+      "content": "我校郭光灿院士团队在实用化量子密钥分发研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与哈尔滨工业大学李琼团队合作，突破了量子态制备和单光子探测技术在高速、高信噪比和集成度的相互制约难题，首次利用半导体单光子探测器，实现了超越超导探测系统的安全密钥率纪录，验证了实现高性能实用化量子密钥分发设备的重要技术路径。研究成果以“High-rate quantum key distribution with compact state preparation a..."
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412080.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "url": "https://www.qbitai.com/2026/05/412080.html",
-      "publishedAt": "2026-05-03T09:43:20.000Z",
-      "excerpt": "瓜多到吃不完",
-      "content": "瓜多到吃不完"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/412896.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "不好！1930年的AI都来抢程序员饭碗了",
-      "url": "https://www.qbitai.com/2026/05/412896.html",
-      "publishedAt": "2026-05-03T09:42:55.000Z",
-      "excerpt": "完全无需互联网数据",
-      "content": "完全无需互联网数据"
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/24866.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于举办“王淦昌大讲堂”之曹臻院士报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/24866.htm",
+      "publishedAt": "2026-04-18T00:00:00.000Z",
+      "excerpt": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀LHAASO国际合作组发言人、天府宇宙线研究中心主任曹臻院士来我校做报告。报告题目：LHAASO的建设历程和科学成果报告时间：2026年4月23日（周四）19：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验2026年4月16日",
+      "content": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀LHAASO国际合作组发言人、天府宇宙线研究中心主任曹臻院士来我校做报告。报告题目：LHAASO的建设历程和科学成果报告时间：2026年4月23日（周四）19：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验2026年4月16日"
     }
   ],
   "stats": {
-    "totalItems": 3,
+    "totalItems": 2,
     "byCategory": {
-      "campus_notices": 0,
-      "community": 0,
-      "tech_news": 3
+      "campus_notices": 1,
+      "community": 1,
+      "tech_news": 0
     }
   }
 }
