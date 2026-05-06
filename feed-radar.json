@@ -1,36 +1,160 @@
 {
-  "generatedAt": "2026-05-05T08:04:41.310Z",
+  "generatedAt": "2026-05-06T08:22:39.676Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94831.htm",
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91925/%e7%94%9f%e7%89%a9%e5%9c%88%e9%9c%87%e6%92%bc%ef%bc%9a00%e5%90%8e%e5%b0%8f%e5%93%a5%e5%9c%a8%e5%ae%a2%e5%8e%85%e5%ae%8c%e6%88%90%e5%9f%ba%e5%9b%a0%e7%bb%84%e6%b5%8b%e5%ba%8f%ef%bc%8c27%e4%ba%bf/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "生物圈震撼：00后小哥在客厅完成基因组测序，27亿美金壁垒塌了！",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91925/%e7%94%9f%e7%89%a9%e5%9c%88%e9%9c%87%e6%92%bc%ef%bc%9a00%e5%90%8e%e5%b0%8f%e5%93%a5%e5%9c%a8%e5%ae%a2%e5%8e%85%e5%ae%8c%e6%88%90%e5%9f%ba%e5%9b%a0%e7%bb%84%e6%b5%8b%e5%ba%8f%ef%bc%8c27%e4%ba%bf/",
+      "publishedAt": "2026-05-06T08:12:32.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91910/%e6%96%af%e5%9d%a6%e7%a6%8f%e9%87%8d%e7%a3%85%e7%a0%94%e7%a9%b6%e7%99%bbnature%ef%bc%81ai%e5%87%ad%e7%a9%ba%e9%80%a0%e5%87%ba%e5%89%8d%e6%89%80%e6%9c%aa%e6%9c%89%e8%9b%8b%e7%99%bd%e8%b4%a8%ef%bc%8c/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "斯坦福重磅研究登Nature！AI凭空造出前所未有蛋白质，超越AlphaGo",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91910/%e6%96%af%e5%9d%a6%e7%a6%8f%e9%87%8d%e7%a3%85%e7%a0%94%e7%a9%b6%e7%99%bbnature%ef%bc%81ai%e5%87%ad%e7%a9%ba%e9%80%a0%e5%87%ba%e5%89%8d%e6%89%80%e6%9c%aa%e6%9c%89%e8%9b%8b%e7%99%bd%e8%b4%a8%ef%bc%8c/",
+      "publishedAt": "2026-05-06T07:59:08.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91890/%e4%b8%a4%e4%b8%aa%e6%9c%88%e5%b0%b1%e7%bf%bb%e5%80%8d%ef%bc%81claude-code%e8%ae%a9anthropic%e6%88%90%e5%8f%b2%e4%b8%8a%e6%94%b6%e5%85%a5%e5%a2%9e%e9%95%bf%e6%9c%80%e5%bf%ab%e5%85%ac%e5%8f%b8/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "两个月就翻倍！Claude Code让Anthropic成史上收入增长最快公司",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91890/%e4%b8%a4%e4%b8%aa%e6%9c%88%e5%b0%b1%e7%bf%bb%e5%80%8d%ef%bc%81claude-code%e8%ae%a9anthropic%e6%88%90%e5%8f%b2%e4%b8%8a%e6%94%b6%e5%85%a5%e5%a2%9e%e9%95%bf%e6%9c%80%e5%bf%ab%e5%85%ac%e5%8f%b8/",
+      "publishedAt": "2026-05-06T07:50:50.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91879/%e5%87%a0%e5%8d%83%e5%b9%b4%e9%83%bd%e6%b2%a1%e8%80%83%e8%bf%87%e8%bf%99%e4%b8%aa%ef%bc%9f%e8%b0%b7%e6%ad%8c%e3%80%8c%e6%9c%80%e6%af%92%e3%80%8dai%e8%80%83%e5%b1%80%ef%bc%8c%e4%b8%93%e6%b5%8b%e4%bd%a0/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "几千年都没考过这个？谷歌「最毒」AI考局，专测你在压力下怎么做人",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91879/%e5%87%a0%e5%8d%83%e5%b9%b4%e9%83%bd%e6%b2%a1%e8%80%83%e8%bf%87%e8%bf%99%e4%b8%aa%ef%bc%9f%e8%b0%b7%e6%ad%8c%e3%80%8c%e6%9c%80%e6%af%92%e3%80%8dai%e8%80%83%e5%b1%80%ef%bc%8c%e4%b8%93%e6%b5%8b%e4%bd%a0/",
+      "publishedAt": "2026-05-06T07:50:05.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91866/gpt-5-5%e5%8f%82%e6%95%b0%e6%9c%8910t%ef%bc%9f%e7%97%85%e6%af%92%e5%bc%8f%e8%ae%ba%e6%96%87%e5%88%9a%e5%88%9a%e8%a2%ab%e6%89%93%e5%81%87%ef%bc%8c%e5%ae%9e%e9%99%85%e7%bc%a9%e6%b0%b4%e8%87%b31-5t/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "GPT",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91866/gpt-5-5%e5%8f%82%e6%95%b0%e6%9c%8910t%ef%bc%9f%e7%97%85%e6%af%92%e5%bc%8f%e8%ae%ba%e6%96%87%e5%88%9a%e5%88%9a%e8%a2%ab%e6%89%93%e5%81%87%ef%bc%8c%e5%ae%9e%e9%99%85%e7%bc%a9%e6%b0%b4%e8%87%b31-5t/",
+      "publishedAt": "2026-05-06T07:49:01.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91840/anthropic%e6%83%8a%e6%82%9a%e6%8a%a5%e5%91%8a%ef%bc%9a%e5%bd%93ai%e5%bc%80%e5%a7%8b%e7%a0%b4%e5%9d%8f%e5%ae%9e%e9%aa%8c%e5%ae%a4%e4%bb%a3%e7%a0%81%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%b7%b2%e6%97%a0%e9%99%a9/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "Anthropic惊悚报告：当AI开始破坏实验室代码，人类已无险可守",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91840/anthropic%e6%83%8a%e6%82%9a%e6%8a%a5%e5%91%8a%ef%bc%9a%e5%bd%93ai%e5%bc%80%e5%a7%8b%e7%a0%b4%e5%9d%8f%e5%ae%9e%e9%aa%8c%e5%ae%a4%e4%bb%a3%e7%a0%81%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%b7%b2%e6%97%a0%e9%99%a9/",
+      "publishedAt": "2026-05-06T07:45:32.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91820/%e6%a8%aa%e8%b7%a8%e5%a4%a7%e8%a5%bf%e6%b4%8b11%e5%b0%8f%e6%97%b6%ef%bc%8c%e4%b8%ad%e5%9b%bd%e5%bc%80%e5%8f%91%e8%80%85%e7%94%a8mac%e8%b7%91llama-70-b%ef%bc%9f%e8%af%84%e8%ae%ba%e5%8c%ba%e5%90%b5/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "横跨大西洋11小时，中国开发者用Mac跑Llama 70 B？评论区吵翻了",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91820/%e6%a8%aa%e8%b7%a8%e5%a4%a7%e8%a5%bf%e6%b4%8b11%e5%b0%8f%e6%97%b6%ef%bc%8c%e4%b8%ad%e5%9b%bd%e5%bc%80%e5%8f%91%e8%80%85%e7%94%a8mac%e8%b7%91llama-70-b%ef%bc%9f%e8%af%84%e8%ae%ba%e5%8c%ba%e5%90%b5/",
+      "publishedAt": "2026-05-06T07:38:39.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/06/other/admin/91803/8%e5%b2%81%e8%af%bb%e5%ae%8c%e9%ab%98%e4%b8%ad%ef%bc%8c15%e5%b2%81%e6%8b%bf%e4%b8%8b%e7%89%a9%e7%90%86%e5%8d%9a%e5%a3%ab%ef%bc%81%e3%80%8c%e5%b0%8f%e7%88%b1%e5%9b%a0%e6%96%af%e5%9d%a6%e3%80%8d/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "8岁读完高中，15岁拿下物理博士！「小爱因斯坦」下一站：AI+永生",
+      "url": "https://aiera.com.cn/2026/05/06/other/admin/91803/8%e5%b2%81%e8%af%bb%e5%ae%8c%e9%ab%98%e4%b8%ad%ef%bc%8c15%e5%b2%81%e6%8b%bf%e4%b8%8b%e7%89%a9%e7%90%86%e5%8d%9a%e5%a3%ab%ef%bc%81%e3%80%8c%e5%b0%8f%e7%88%b1%e5%9b%a0%e6%96%af%e5%9d%a6%e3%80%8d/",
+      "publishedAt": "2026-05-06T07:32:37.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/413164.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开",
+      "url": "https://www.qbitai.com/2026/05/413164.html",
+      "publishedAt": "2026-05-06T04:55:09.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/413154.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能",
+      "url": "https://www.qbitai.com/2026/05/413154.html",
+      "publishedAt": "2026-05-06T04:32:09.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/413022.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」",
+      "url": "https://www.qbitai.com/2026/05/413022.html",
+      "publishedAt": "2026-05-06T04:04:13.000Z",
+      "excerpt": "马斯克胜诉概率应声下降",
+      "content": "马斯克胜诉概率应声下降"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/412995.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+      "url": "https://www.qbitai.com/2026/05/412995.html",
+      "publishedAt": "2026-05-06T00:22:35.000Z",
+      "excerpt": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+      "content": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94849.htm",
       "sourceId": "ustc-news",
       "sourceName": "中国科大新闻网",
       "category": "community",
-      "title": "中国科大实现高速率实用化量子密钥分发",
-      "url": "https://news.ustc.edu.cn/info/1055/94831.htm",
-      "publishedAt": "2026-05-04T00:00:00.000Z",
-      "excerpt": "我校郭光灿院士团队在实用化量子密钥分发研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与哈尔滨工业大学李琼团队合作，突破了量子态制备和单光子探测技术在高速、高信噪比和集成度的相互制约难题，首次利用半导体单光子探测器，实现了超越超导探测系统的安全密钥率纪录，验证了实现高性能实用化量子密钥分发设备的重要技术路径。研究成果以“High-rate quantum key distribution with compact state preparation a...",
-      "content": "我校郭光灿院士团队在实用化量子密钥分发研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与哈尔滨工业大学李琼团队合作，突破了量子态制备和单光子探测技术在高速、高信噪比和集成度的相互制约难题，首次利用半导体单光子探测器，实现了超越超导探测系统的安全密钥率纪录，验证了实现高性能实用化量子密钥分发设备的重要技术路径。研究成果以“High-rate quantum key distribution with compact state preparation a..."
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/24866.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举办“王淦昌大讲堂”之曹臻院士报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/24866.htm",
-      "publishedAt": "2026-04-18T00:00:00.000Z",
-      "excerpt": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀LHAASO国际合作组发言人、天府宇宙线研究中心主任曹臻院士来我校做报告。报告题目：LHAASO的建设历程和科学成果报告时间：2026年4月23日（周四）19：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验2026年4月16日",
-      "content": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀LHAASO国际合作组发言人、天府宇宙线研究中心主任曹臻院士来我校做报告。报告题目：LHAASO的建设历程和科学成果报告时间：2026年4月23日（周四）19：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验2026年4月16日"
+      "title": "中国科大在《化学研究评述》发表关于圆偏振发光的综述论文",
+      "url": "https://news.ustc.edu.cn/info/1055/94849.htm",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学庄涛涛教授团队受邀在国际知名期刊《化学研究评述》（Accounts of Chemical Research）发表题为“Processable, High-Performance Circularly Polarized Luminescence Architectures for Information Interaction”的综述文章。该论文总结了庄涛涛教授课题组关于高性能圆偏振发光（CPL）材料的开发及应用方面的研究工作。该文被评选为当期封面论文。CPL是一类兼具旋光特性和光学自旋角动量的手性光学现象...",
+      "content": "近日，中国科学技术大学庄涛涛教授团队受邀在国际知名期刊《化学研究评述》（Accounts of Chemical Research）发表题为“Processable, High-Performance Circularly Polarized Luminescence Architectures for Information Interaction”的综述文章。该论文总结了庄涛涛教授课题组关于高性能圆偏振发光（CPL）材料的开发及应用方面的研究工作。该文被评选为当期封面论文。CPL是一类兼具旋光特性和光学自旋角动量的手性光学现象..."
     }
   ],
   "stats": {
-    "totalItems": 2,
+    "totalItems": 13,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 1,
-      "tech_news": 0
+      "tech_news": 12
     }
-  }
+  },
+  "errors": [
+    "中国科大通知公告 detail: http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp (fetch failed)"
+  ]
 }
