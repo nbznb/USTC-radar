@@ -1,212 +1,113 @@
 {
-  "generatedAt": "2026-05-09T07:52:11.671Z",
+  "generatedAt": "2026-05-10T08:04:17.411Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414547.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415031.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
-      "url": "https://www.qbitai.com/2026/05/414547.html",
-      "publishedAt": "2026-05-09T06:24:18.000Z",
-      "excerpt": "Jim Fan全新暴论出炉",
-      "content": "Jim Fan全新暴论出炉"
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "url": "https://www.qbitai.com/2026/05/415031.html",
+      "publishedAt": "2026-05-10T04:01:40.000Z",
+      "excerpt": "拉姆齐数R(3,17) 下界从92提升至93",
+      "content": "拉姆齐数R(3,17) 下界从92提升至93"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414501.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415027.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
-      "url": "https://www.qbitai.com/2026/05/414501.html",
-      "publishedAt": "2026-05-09T04:50:55.000Z",
-      "excerpt": "眼镜里的信息第一次「立」起来了",
-      "content": "眼镜里的信息第一次「立」起来了"
+      "title": "太初元碁携龙虾一体机亮相北京科博会",
+      "url": "https://www.qbitai.com/2026/05/415027.html",
+      "publishedAt": "2026-05-09T12:21:08.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414496.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415023.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
-      "url": "https://www.qbitai.com/2026/05/414496.html",
-      "publishedAt": "2026-05-09T03:11:20.000Z",
-      "excerpt": "搜索、知识、Agent 能力全面提升",
-      "content": "搜索、知识、Agent 能力全面提升"
+      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+      "url": "https://www.qbitai.com/2026/05/415023.html",
+      "publishedAt": "2026-05-09T10:29:31.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414445.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415019.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
-      "url": "https://www.qbitai.com/2026/05/414445.html",
-      "publishedAt": "2026-05-09T03:01:52.000Z",
-      "excerpt": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。",
-      "content": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。"
+      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+      "url": "https://www.qbitai.com/2026/05/415019.html",
+      "publishedAt": "2026-05-09T09:53:25.000Z",
+      "excerpt": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
+      "content": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414432.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/414826.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
-      "url": "https://www.qbitai.com/2026/05/414432.html",
-      "publishedAt": "2026-05-09T02:08:59.000Z",
-      "excerpt": "如果最终落地，这会是中国大模型公司有史以来最大的一轮融资",
-      "content": "如果最终落地，这会是中国大模型公司有史以来最大的一轮融资"
+      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+      "url": "https://www.qbitai.com/2026/05/414826.html",
+      "publishedAt": "2026-05-09T09:37:02.000Z",
+      "excerpt": "以0.829的总成绩荣登榜首",
+      "content": "以0.829的总成绩荣登榜首"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92648/18%e5%b2%81%e9%ab%98%e4%b8%ad%e7%94%9f%e7%94%a8ai%e6%8c%96%e5%87%ba150%e4%b8%87%e6%9c%aa%e7%9f%a5%e5%a4%a9%e4%bd%93%ef%bc%8c%e9%a6%96%e6%89%b9chatgpt%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%af%95%e4%b8%9a/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "18岁高中生用AI挖出150万未知天体，首批ChatGPT原住民毕业",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92648/18%e5%b2%81%e9%ab%98%e4%b8%ad%e7%94%9f%e7%94%a8ai%e6%8c%96%e5%87%ba150%e4%b8%87%e6%9c%aa%e7%9f%a5%e5%a4%a9%e4%bd%93%ef%bc%8c%e9%a6%96%e6%89%b9chatgpt%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%af%95%e4%b8%9a/",
-      "publishedAt": "2026-05-09T00:11:39.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92637/token%e7%ba%a7%ef%bc%8c%e7%b2%be%e5%87%86%e6%8e%a7%e5%88%b6%e7%94%9f%e6%88%90%e9%95%bf%e5%ba%a6%ef%bc%9a3b%e6%a8%a1%e5%9e%8b%e5%87%bb%e8%b4%a5gpt-5-4%e3%80%81claude/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "token级，精准控制生成长度：3B模型击败GPT 5.4、Claude",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92637/token%e7%ba%a7%ef%bc%8c%e7%b2%be%e5%87%86%e6%8e%a7%e5%88%b6%e7%94%9f%e6%88%90%e9%95%bf%e5%ba%a6%ef%bc%9a3b%e6%a8%a1%e5%9e%8b%e5%87%bb%e8%b4%a5gpt-5-4%e3%80%81claude/",
-      "publishedAt": "2026-05-09T00:11:03.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92610/%e5%bf%ab%e6%89%8b%e9%a6%96%e4%b8%aa%e6%89%93%e5%b7%a5%e4%ba%baagent%e6%9d%a5%e4%ba%86%ef%bc%81%e5%b7%a5%e4%bd%9c%e7%a7%92%e5%8f%98%e6%a1%8c%e9%9d%a2%e8%bd%af%e4%bb%b6%ef%bc%9a%e9%9b%b6%e4%bb%a3/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "快手首个打工人Agent来了！工作秒变桌面软件：零代码、不烧token",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92610/%e5%bf%ab%e6%89%8b%e9%a6%96%e4%b8%aa%e6%89%93%e5%b7%a5%e4%ba%baagent%e6%9d%a5%e4%ba%86%ef%bc%81%e5%b7%a5%e4%bd%9c%e7%a7%92%e5%8f%98%e6%a1%8c%e9%9d%a2%e8%bd%af%e4%bb%b6%ef%bc%9a%e9%9b%b6%e4%bb%a3/",
-      "publishedAt": "2026-05-09T00:10:11.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92586/%e4%b8%8d%e7%94%a8%e5%ad%a6ai%e4%ba%86%ef%bc%81%e5%9c%88%e5%86%85%e5%85%ac%e5%bc%80%e7%9a%84%e7%a7%98%e5%af%86%ef%bc%9a%e9%a1%b6%e7%ba%a7%e7%8e%a9%e5%ae%b6%e5%b7%b2%e5%bc%80%e5%a7%8b%e8%ae%a9ai/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "不用学AI了！圈内公开的秘密：顶级玩家已开始让AI用AI",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92586/%e4%b8%8d%e7%94%a8%e5%ad%a6ai%e4%ba%86%ef%bc%81%e5%9c%88%e5%86%85%e5%85%ac%e5%bc%80%e7%9a%84%e7%a7%98%e5%af%86%ef%bc%9a%e9%a1%b6%e7%ba%a7%e7%8e%a9%e5%ae%b6%e5%b7%b2%e5%bc%80%e5%a7%8b%e8%ae%a9ai/",
-      "publishedAt": "2026-05-09T00:09:11.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92576/anthropic%e6%9c%80%e5%8d%b1%e9%99%a9%e8%b7%af%e7%ba%bf%e5%9b%be%e6%9b%9d%e5%85%89-%e6%97%a0%e9%99%90%e8%ae%b0%e5%bf%86%e3%80%81%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93-ai%e7%bb%88%e5%b1%80%e6%88%98/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Anthropic最危险路线图曝光: 无限记忆、多智能体! AI终局战仅剩双雄决顶",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92576/anthropic%e6%9c%80%e5%8d%b1%e9%99%a9%e8%b7%af%e7%ba%bf%e5%9b%be%e6%9b%9d%e5%85%89-%e6%97%a0%e9%99%90%e8%ae%b0%e5%bf%86%e3%80%81%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93-ai%e7%bb%88%e5%b1%80%e6%88%98/",
-      "publishedAt": "2026-05-09T00:08:35.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92547/%e4%bc%b0%e5%80%bc3000%e4%ba%bf%ef%bc%8163%e5%ae%b6%e6%96%b0%e5%ae%9e%e9%aa%8c%e5%ae%a4%e6%9d%80%e7%96%af%e4%ba%86%ef%bc%8cmurati%e3%80%81%e8%b4%9d%e4%bd%90%e6%96%af%e9%9b%86%e4%bd%93%e6%8a%bc/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "估值3000亿！63家新实验室杀疯了，Murati、贝佐斯集体押注下一代AI",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92547/%e4%bc%b0%e5%80%bc3000%e4%ba%bf%ef%bc%8163%e5%ae%b6%e6%96%b0%e5%ae%9e%e9%aa%8c%e5%ae%a4%e6%9d%80%e7%96%af%e4%ba%86%ef%bc%8cmurati%e3%80%81%e8%b4%9d%e4%bd%90%e6%96%af%e9%9b%86%e4%bd%93%e6%8a%bc/",
-      "publishedAt": "2026-05-09T00:07:38.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92535/xai%e8%a7%a3%e6%95%a3%ef%bc%8c%e4%bd%86grok%e8%bf%98%e6%b2%a1%e6%ad%bb%ef%bc%81%e9%a9%ac%e6%96%af%e5%85%8b%e5%a3%b0%e7%a7%b0%e6%96%b0%e6%a8%a1%e5%9e%8b%e6%ad%a3%e5%9c%a8%e8%ae%ad%e7%bb%83/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "xAI解散，但Grok还没死！马斯克声称新模型正在训练",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92535/xai%e8%a7%a3%e6%95%a3%ef%bc%8c%e4%bd%86grok%e8%bf%98%e6%b2%a1%e6%ad%bb%ef%bc%81%e9%a9%ac%e6%96%af%e5%85%8b%e5%a3%b0%e7%a7%b0%e6%96%b0%e6%a8%a1%e5%9e%8b%e6%ad%a3%e5%9c%a8%e8%ae%ad%e7%bb%83/",
-      "publishedAt": "2026-05-09T00:07:05.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/09/other/admin/92516/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9c%80%e9%99%a9%e4%b8%80%e6%88%98%ef%bc%9a%e5%89%8d%e5%a5%b3cto%e5%bd%93%e5%ba%ad%e7%bf%bb%e8%84%b8%ef%bc%8copenai%e6%9d%83%e6%96%97%e5%bd%bb%e5%ba%95%e6%89%93%e5%88%b0/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "奥特曼最险一战：前女CTO当庭翻脸，OpenAI权斗彻底打到台前",
-      "url": "https://aiera.com.cn/2026/05/09/other/admin/92516/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9c%80%e9%99%a9%e4%b8%80%e6%88%98%ef%bc%9a%e5%89%8d%e5%a5%b3cto%e5%bd%93%e5%ba%ad%e7%bf%bb%e8%84%b8%ef%bc%8copenai%e6%9d%83%e6%96%97%e5%bd%bb%e5%ba%95%e6%89%93%e5%88%b0/",
-      "publishedAt": "2026-05-09T00:06:03.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414428.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415010.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
-      "url": "https://www.qbitai.com/2026/05/414428.html",
-      "publishedAt": "2026-05-08T11:09:17.000Z",
-      "excerpt": "位列第二",
-      "content": "位列第二"
+      "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
+      "url": "https://www.qbitai.com/2026/05/415010.html",
+      "publishedAt": "2026-05-09T09:22:38.000Z",
+      "excerpt": "打造“赛博乙方天团”",
+      "content": "打造“赛博乙方天团”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414316.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/414827.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
-      "url": "https://www.qbitai.com/2026/05/414316.html",
-      "publishedAt": "2026-05-08T08:20:40.000Z",
-      "excerpt": "Mac上就能本地跑deepseek",
-      "content": "Mac上就能本地跑deepseek"
+      "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
+      "url": "https://www.qbitai.com/2026/05/414827.html",
+      "publishedAt": "2026-05-09T08:07:08.000Z",
+      "excerpt": "实现过程开源可复现",
+      "content": "实现过程开源可复现"
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94868.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大提出涡旋场下相对论自旋流体演化方程",
-      "url": "https://news.ustc.edu.cn/info/1055/94868.htm",
-      "publishedAt": "2026-05-07T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学中高能核物理课题组在相对论自旋流体力学研究中取得重要进展，提出了涡旋场下相对论自旋流体的演化方程，为理解相对论重离子碰撞中强相互作用物质的自旋极化现象提供了新的理论框架。相关成果以“Relativistic Spin Hydrodynamics with Antisymmetric Spin Tensors and an Extension of the Bargmann-Michel-Telegdi Equation”为题，5月6日在线发表于《物理评论快报》。相对论重离子碰撞是实验室中研究...",
-      "content": "近日，中国科学技术大学中高能核物理课题组在相对论自旋流体力学研究中取得重要进展，提出了涡旋场下相对论自旋流体的演化方程，为理解相对论重离子碰撞中强相互作用物质的自旋极化现象提供了新的理论框架。相关成果以“Relativistic Spin Hydrodynamics with Antisymmetric Spin Tensors and an Extension of the Bargmann-Michel-Telegdi Equation”为题，5月6日在线发表于《物理评论快报》。相对论重离子碰撞是实验室中研究..."
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/414788.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
+      "url": "https://www.qbitai.com/2026/05/414788.html",
+      "publishedAt": "2026-05-09T07:12:48.000Z",
+      "excerpt": "谷歌AI for Math迈出最新一步",
+      "content": "谷歌AI for Math迈出最新一步"
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94867.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "我校科技考古实验室在古代青铜铸造工艺的数字化研究领域取得最新进展",
-      "url": "https://news.ustc.edu.cn/info/1055/94867.htm",
-      "publishedAt": "2026-05-07T00:00:00.000Z",
-      "excerpt": "范铸法是中国青铜时代的核心制器技术，其中“分型”——即根据器物形态设计外范与内范的划分方式——是决定铸造能否成功的关键环节。近日，中国科学技术大学科技考古实验室提出一种名为“集成数字铸造”的技术方案。该方案与传统实验考古相结合，可以有效验证商周青铜器范铸法中的分型设计是否合理。相关成果以“Integrated digital casting: a new method for simulating piece-mold techniques of ancient bronzes”为题，日...",
-      "content": "范铸法是中国青铜时代的核心制器技术，其中“分型”——即根据器物形态设计外范与内范的划分方式——是决定铸造能否成功的关键环节。近日，中国科学技术大学科技考古实验室提出一种名为“集成数字铸造”的技术方案。该方案与传统实验考古相结合，可以有效验证商周青铜器范铸法中的分型设计是否合理。相关成果以“Integrated digital casting: a new method for simulating piece-mold techniques of ancient bronzes”为题，日..."
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24912",
+      "id": "ustc-notices:http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=24912",
-      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "title": "关于2026年“极客中心”实验室招募学生开展科研实践的通知",
+      "url": "http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
       "excerpt": "",
       "content": ""
     }
   ],
   "stats": {
-    "totalItems": 18,
+    "totalItems": 9,
     "byCategory": {
       "campus_notices": 1,
-      "community": 2,
-      "tech_news": 15
+      "community": 0,
+      "tech_news": 8
     }
   }
 }
