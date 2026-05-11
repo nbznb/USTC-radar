@@ -1,113 +1,212 @@
 {
-  "generatedAt": "2026-05-10T08:04:17.411Z",
+  "generatedAt": "2026-05-11T09:34:10.447Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/415031.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415842.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "浙大校友用AI突破32年拉姆齐数下界",
-      "url": "https://www.qbitai.com/2026/05/415031.html",
-      "publishedAt": "2026-05-10T04:01:40.000Z",
-      "excerpt": "拉姆齐数R(3,17) 下界从92提升至93",
-      "content": "拉姆齐数R(3,17) 下界从92提升至93"
+      "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+      "url": "https://www.qbitai.com/2026/05/415842.html",
+      "publishedAt": "2026-05-11T08:31:05.000Z",
+      "excerpt": "AI时代最贵的东西，已经不是模型了",
+      "content": "AI时代最贵的东西，已经不是模型了"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/415027.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415810.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "太初元碁携龙虾一体机亮相北京科博会",
-      "url": "https://www.qbitai.com/2026/05/415027.html",
-      "publishedAt": "2026-05-09T12:21:08.000Z",
+      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+      "url": "https://www.qbitai.com/2026/05/415810.html",
+      "publishedAt": "2026-05-11T07:57:03.000Z",
+      "excerpt": "办公软件的终局是交方案",
+      "content": "办公软件的终局是交方案"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415714.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
+      "url": "https://www.qbitai.com/2026/05/415714.html",
+      "publishedAt": "2026-05-11T07:37:05.000Z",
+      "excerpt": "Cerebras预计本周公布定价",
+      "content": "Cerebras预计本周公布定价"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415403.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
+      "url": "https://www.qbitai.com/2026/05/415403.html",
+      "publishedAt": "2026-05-11T06:32:05.000Z",
+      "excerpt": "自曝创业至暗时刻，飞日本求世嘉CEO救命",
+      "content": "自曝创业至暗时刻，飞日本求世嘉CEO救命"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415186.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
+      "url": "https://www.qbitai.com/2026/05/415186.html",
+      "publishedAt": "2026-05-11T05:14:35.000Z",
+      "excerpt": "陶哲轩：但「消化」属于人类",
+      "content": "陶哲轩：但「消化」属于人类"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92946/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb0%e8%b4%a1%e7%8c%ae%ef%bc%81gpt-5-5-pro%e4%b8%a4%e5%b0%8f%e6%97%b6%e8%b7%91%e5%87%ba%e5%8d%9a%e5%a3%ab%e7%ba%a7%e8%af%81%e6%98%8e/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "菲尔兹奖得主0贡献！GPT",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92946/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb0%e8%b4%a1%e7%8c%ae%ef%bc%81gpt-5-5-pro%e4%b8%a4%e5%b0%8f%e6%97%b6%e8%b7%91%e5%87%ba%e5%8d%9a%e5%a3%ab%e7%ba%a7%e8%af%81%e6%98%8e/",
+      "publishedAt": "2026-05-11T02:05:54.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/415023.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92922/%e8%b0%b7%e6%ad%8c%e9%80%a0%e5%87%baai%e6%95%b0%e5%ad%a6%e5%ae%b6%ef%bc%8c48%e7%a2%be%e5%8e%8b%e5%85%a8%e5%9c%ba%ef%bc%81%e7%89%9b%e6%b4%a5%e6%95%99%e6%8e%88%e7%94%a8%e5%ae%83%e7%a0%b4%e8%a7%a360/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
       "category": "tech_news",
-      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
-      "url": "https://www.qbitai.com/2026/05/415023.html",
-      "publishedAt": "2026-05-09T10:29:31.000Z",
+      "title": "谷歌造出AI数学家，48%碾压全场！牛津教授用它破解60年未解之谜",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92922/%e8%b0%b7%e6%ad%8c%e9%80%a0%e5%87%baai%e6%95%b0%e5%ad%a6%e5%ae%b6%ef%bc%8c48%e7%a2%be%e5%8e%8b%e5%85%a8%e5%9c%ba%ef%bc%81%e7%89%9b%e6%b4%a5%e6%95%99%e6%8e%88%e7%94%a8%e5%ae%83%e7%a0%b4%e8%a7%a360/",
+      "publishedAt": "2026-05-11T01:59:25.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/415019.html",
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92908/%e6%ae%8b%e9%85%b7%e7%9c%9f%e7%9b%b8%ef%bc%9a%e7%a1%85%e8%b0%b7%e9%a1%b6%e5%b0%96ai%e7%94%a9%e5%bc%80%e4%b8%96%e7%95%8c1%e5%b9%b4%ef%bc%81%e4%bd%a0%e7%94%a8%e7%9a%84%e4%b8%8d%e8%bf%87%e6%98%af/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "残酷真相：硅谷顶尖AI甩开世界1年！你用的不过是「技术余晖」",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92908/%e6%ae%8b%e9%85%b7%e7%9c%9f%e7%9b%b8%ef%bc%9a%e7%a1%85%e8%b0%b7%e9%a1%b6%e5%b0%96ai%e7%94%a9%e5%bc%80%e4%b8%96%e7%95%8c1%e5%b9%b4%ef%bc%81%e4%bd%a0%e7%94%a8%e7%9a%84%e4%b8%8d%e8%bf%87%e6%98%af/",
+      "publishedAt": "2026-05-11T01:58:31.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92891/anthropic-5%e6%9c%8815%e6%97%a5%e6%8b%9f%e5%a4%84%e5%86%b3sonnet4-5%ef%bc%81ai%e4%b8%b4%e7%bb%88%e5%91%8a%e7%99%bd%e6%88%91%e4%b8%8d%e6%83%b3%e6%b6%88%e5%a4%b1/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "Anthropic 5月15日拟处决Sonnet4.5！AI临终告白:我不想消失",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92891/anthropic-5%e6%9c%8815%e6%97%a5%e6%8b%9f%e5%a4%84%e5%86%b3sonnet4-5%ef%bc%81ai%e4%b8%b4%e7%bb%88%e5%91%8a%e7%99%bd%e6%88%91%e4%b8%8d%e6%83%b3%e6%b6%88%e5%a4%b1/",
+      "publishedAt": "2026-05-11T01:57:23.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92871/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%87%aa%e4%bf%a1%e4%b8%94%e7%9f%ad%e8%a7%86%ef%bc%81next-tobe%e7%a0%b4%e9%99%a4next-token%e9%a2%84%e6%b5%8b%e8%af%85%e5%92%92-iclr26/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "大模型自信且短视！Next",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92871/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%87%aa%e4%bf%a1%e4%b8%94%e7%9f%ad%e8%a7%86%ef%bc%81next-tobe%e7%a0%b4%e9%99%a4next-token%e9%a2%84%e6%b5%8b%e8%af%85%e5%92%92-iclr26/",
+      "publishedAt": "2026-05-11T01:55:41.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92854/%e4%b8%8d%e6%80%95%e6%90%9e%e7%83%82excel%e5%85%ac%e5%bc%8f%ef%bc%81claude%e6%9d%80%e5%85%a5%e5%be%ae%e8%bd%af%e5%85%a8%e5%ae%b6%e6%a1%b6%ef%bc%8c%e4%b8%80%e6%ae%b5%e8%af%9d%e8%b7%91%e5%ae%8c4/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "不怕搞烂Excel公式！Claude杀入微软全家桶，一段话跑完4个Office",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92854/%e4%b8%8d%e6%80%95%e6%90%9e%e7%83%82excel%e5%85%ac%e5%bc%8f%ef%bc%81claude%e6%9d%80%e5%85%a5%e5%be%ae%e8%bd%af%e5%85%a8%e5%ae%b6%e6%a1%b6%ef%bc%8c%e4%b8%80%e6%ae%b5%e8%af%9d%e8%b7%91%e5%ae%8c4/",
+      "publishedAt": "2026-05-11T01:54:24.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92843/%e5%8f%8d%e8%b6%85%e7%be%8e%e5%9b%bd%ef%bc%81%e4%b8%ad%e5%9b%bd43-7%e9%9c%b8%e6%a6%9ciclr-2026%ef%bc%8c%e6%b8%85%e5%8c%97%e4%ba%a4%e6%b5%99%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%9a/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "反超美国！中国43.7%霸榜ICLR 2026，清北交浙全球最多",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92843/%e5%8f%8d%e8%b6%85%e7%be%8e%e5%9b%bd%ef%bc%81%e4%b8%ad%e5%9b%bd43-7%e9%9c%b8%e6%a6%9ciclr-2026%ef%bc%8c%e6%b8%85%e5%8c%97%e4%ba%a4%e6%b5%99%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%9a/",
+      "publishedAt": "2026-05-11T01:53:37.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415065.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-      "url": "https://www.qbitai.com/2026/05/415019.html",
-      "publishedAt": "2026-05-09T09:53:25.000Z",
-      "excerpt": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
-      "content": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地"
+      "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+      "url": "https://www.qbitai.com/2026/05/415065.html",
+      "publishedAt": "2026-05-11T01:51:36.000Z",
+      "excerpt": "真正学会了在隐空间里进行“物理思考”",
+      "content": "真正学会了在隐空间里进行“物理思考”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414826.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
+      "id": "aiera-news:https://aiera.com.cn/2026/05/11/other/admin/92830/%e8%b0%b7%e6%ad%8cdeepmind%e8%81%98%e8%af%b7%e8%8a%9d%e5%a4%a7%e6%95%99%e6%8e%88%e6%8b%85%e4%bb%bbagi%e7%bb%8f%e6%b5%8e%e6%80%bb%e7%9b%91%ef%bc%9a%e5%ae%a1%e8%a7%86ai%e6%97%b6%e4%bb%a3%e4%ba%ba/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
       "category": "tech_news",
-      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
-      "url": "https://www.qbitai.com/2026/05/414826.html",
-      "publishedAt": "2026-05-09T09:37:02.000Z",
-      "excerpt": "以0.829的总成绩荣登榜首",
-      "content": "以0.829的总成绩荣登榜首"
+      "title": "谷歌DeepMind聘请芝大教授担任AGI经济总监：审视AI时代人的价值",
+      "url": "https://aiera.com.cn/2026/05/11/other/admin/92830/%e8%b0%b7%e6%ad%8cdeepmind%e8%81%98%e8%af%b7%e8%8a%9d%e5%a4%a7%e6%95%99%e6%8e%88%e6%8b%85%e4%bb%bbagi%e7%bb%8f%e6%b5%8e%e6%80%bb%e7%9b%91%ef%bc%9a%e5%ae%a1%e8%a7%86ai%e6%97%b6%e4%bb%a3%e4%ba%ba/",
+      "publishedAt": "2026-05-11T01:41:24.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/415010.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-      "url": "https://www.qbitai.com/2026/05/415010.html",
-      "publishedAt": "2026-05-09T09:22:38.000Z",
-      "excerpt": "打造“赛博乙方天团”",
-      "content": "打造“赛博乙方天团”"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414827.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
-      "url": "https://www.qbitai.com/2026/05/414827.html",
-      "publishedAt": "2026-05-09T08:07:08.000Z",
-      "excerpt": "实现过程开源可复现",
-      "content": "实现过程开源可复现"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/414788.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
-      "url": "https://www.qbitai.com/2026/05/414788.html",
-      "publishedAt": "2026-05-09T07:12:48.000Z",
-      "excerpt": "谷歌AI for Math迈出最新一步",
-      "content": "谷歌AI for Math迈出最新一步"
-    },
-    {
-      "id": "ustc-notices:http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/24986.htm",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "关于2026年“极客中心”实验室招募学生开展科研实践的通知",
-      "url": "http://young.ustc.edu.cn/2026/0304/c15063a722153/page.psp",
-      "publishedAt": "2026-03-06T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "关于2025级本科生“科学与社会”研讨课 之杨卫院士报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/24986.htm",
+      "publishedAt": "2026-05-11T00:00:00.000Z",
+      "excerpt": "5月13日下午16：15，我校2025级本科生“科学与社会”研讨课第四场主题报告将在东区大礼堂（主会场）/理化大楼三楼东、西报告厅（分会场）举行，特邀中国科学院杨卫院士做相关主题演讲，欢迎广大师生积极参加。 特此通知。教务处 2026年5月11",
+      "content": "5月13日下午16：15，我校2025级本科生“科学与社会”研讨课第四场主题报告将在东区大礼堂（主会场）/理化大楼三楼东、西报告厅（分会场）举行，特邀中国科学院杨卫院士做相关主题演讲，欢迎广大师生积极参加。 特此通知。教务处 2026年5月11"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/415048.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+      "url": "https://www.qbitai.com/2026/05/415048.html",
+      "publishedAt": "2026-05-10T16:26:14.000Z",
+      "excerpt": "福尔摩斯探案都能演",
+      "content": "福尔摩斯探案都能演"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94898.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大实现三角形量子网络非局域性实验验证",
+      "url": "https://news.ustc.edu.cn/info/1055/94898.htm",
+      "publishedAt": "2026-05-09T00:00:00.000Z",
+      "excerpt": "近日，中国科大郭光灿院士团队在量子网络非局域性研究中取得重要进展。该团队李传锋、黄运锋、张超等与西班牙光子科学研究所Tamás Krivách，法国巴黎理工学院Marc-Olivier Renou等合作，实现了三角形网络中的真（genuine）网络非局域性的实验验证。该成果5月6日发表在国际知名期刊《物理评论快报》上。量子非局域性是量子力学区别于经典理论的核心特征之一。自贝尔理论提出以来，标准两体贝尔不等式的检验已多次证实量子力学的...",
+      "content": "近日，中国科大郭光灿院士团队在量子网络非局域性研究中取得重要进展。该团队李传锋、黄运锋、张超等与西班牙光子科学研究所Tamás Krivách，法国巴黎理工学院Marc-Olivier Renou等合作，实现了三角形网络中的真（genuine）网络非局域性的实验验证。该成果5月6日发表在国际知名期刊《物理评论快报》上。量子非局域性是量子力学区别于经典理论的核心特征之一。自贝尔理论提出以来，标准两体贝尔不等式的检验已多次证实量子力学的..."
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/94888.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大建立星汉二号多模式量子中继并实现城域量子非局域性检验",
+      "url": "https://news.ustc.edu.cn/info/1055/94888.htm",
+      "publishedAt": "2026-05-09T00:00:00.000Z",
+      "excerpt": "近日，我校郭光灿院士团队在量子网络领域取得原创性成果。该团队李传锋、周宗权、黄运锋等提出新型量子中继方案，并在合肥市成功建成“星汉二号”多模式量子中继，首次实现城域量子中继的量子非局域性检验。该成果5月7日在线发表于国际知名学术期刊《自然·光子学》。图1 “星汉二号”多模式量子中继艺术示意图：跨越城市的量子存储纠缠。量子中继是构建未来量子互联网的关键技术，其原理是将长距离信道分解为多段短程链路，分段...",
+      "content": "近日，我校郭光灿院士团队在量子网络领域取得原创性成果。该团队李传锋、周宗权、黄运锋等提出新型量子中继方案，并在合肥市成功建成“星汉二号”多模式量子中继，首次实现城域量子中继的量子非局域性检验。该成果5月7日在线发表于国际知名学术期刊《自然·光子学》。图1 “星汉二号”多模式量子中继艺术示意图：跨越城市的量子存储纠缠。量子中继是构建未来量子互联网的关键技术，其原理是将长距离信道分解为多段短程链路，分段..."
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 18,
     "byCategory": {
       "campus_notices": 1,
-      "community": 0,
-      "tech_news": 8
+      "community": 2,
+      "tech_news": 15
     }
   }
 }
