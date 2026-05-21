@@ -1,201 +1,102 @@
 {
-  "generatedAt": "2026-05-20T09:26:17.489Z",
+  "generatedAt": "2026-05-21T09:35:00.573Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/420698.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/421697.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "AIDC建设正从“通用标准”走向“适用高效”",
-      "url": "https://www.qbitai.com/2026/05/420698.html",
-      "publishedAt": "2026-05-20T07:35:59.000Z",
-      "excerpt": "商汤大装置林海谈AIDC",
-      "content": "商汤大装置林海谈AIDC"
+      "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
+      "url": "https://www.qbitai.com/2026/05/421697.html",
+      "publishedAt": "2026-05-21T06:52:17.000Z",
+      "excerpt": "周日来北京线下揭秘",
+      "content": "周日来北京线下揭秘"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/420681.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/421694.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
-      "url": "https://www.qbitai.com/2026/05/420681.html",
-      "publishedAt": "2026-05-20T07:27:57.000Z",
-      "excerpt": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。",
-      "content": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。"
+      "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+      "url": "https://www.qbitai.com/2026/05/421694.html",
+      "publishedAt": "2026-05-21T06:46:02.000Z",
+      "excerpt": "全场景数据、全链条服务助力AI大模型高效迭代",
+      "content": "全场景数据、全链条服务助力AI大模型高效迭代"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/420656.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/421691.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
-      "url": "https://www.qbitai.com/2026/05/420656.html",
-      "publishedAt": "2026-05-20T05:59:45.000Z",
-      "excerpt": "看谁真正会游泳",
-      "content": "看谁真正会游泳"
+      "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈 第四届中国AIGC产业峰会",
+      "url": "https://www.qbitai.com/2026/05/421691.html",
+      "publishedAt": "2026-05-21T05:37:24.000Z",
+      "excerpt": "核心观点都在这了~",
+      "content": "核心观点都在这了~"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/420651.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/420918.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
-      "url": "https://www.qbitai.com/2026/05/420651.html",
-      "publishedAt": "2026-05-20T05:29:57.000Z",
-      "excerpt": "ATaaS 日均调用量近万亿",
-      "content": "ATaaS 日均调用量近万亿"
+      "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+      "url": "https://www.qbitai.com/2026/05/420918.html",
+      "publishedAt": "2026-05-21T04:40:28.000Z",
+      "excerpt": "RoboChallenge榜首易主，清华系玩家加冕。",
+      "content": "RoboChallenge榜首易主，清华系玩家加冕。"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94493/5%e6%9c%8820%e6%97%a5%ef%bc%8c%e4%bc%98%e5%bf%85%e9%80%89%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%91%a8%e5%89%91%e5%bc%80%e9%80%9a%e7%a4%be%e4%ba%a4%e5%aa%92%e4%bd%93%e8%b4%a6%e5%8f%b7%ef%bc%8c%e5%8f%91/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "5月20日，优必选创始人周剑开通社交媒体账号，发布优必选消费级人形机器人品牌——优世界。",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94493/5%e6%9c%8820%e6%97%a5%ef%bc%8c%e4%bc%98%e5%bf%85%e9%80%89%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%91%a8%e5%89%91%e5%bc%80%e9%80%9a%e7%a4%be%e4%ba%a4%e5%aa%92%e4%bd%93%e8%b4%a6%e5%8f%b7%ef%bc%8c%e5%8f%91/",
-      "publishedAt": "2026-05-20T04:22:59.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/420531.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/420761.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
-      "url": "https://www.qbitai.com/2026/05/420531.html",
-      "publishedAt": "2026-05-20T00:48:27.000Z",
-      "excerpt": "AMD持续加码中国开发者生态建设",
-      "content": "AMD持续加码中国开发者生态建设"
+      "title": "刚刚，马斯克公开SpaceX招股书！",
+      "url": "https://www.qbitai.com/2026/05/420761.html",
+      "publishedAt": "2026-05-21T01:37:04.000Z",
+      "excerpt": "头一回见财报像海报的",
+      "content": "头一回见财报像海报的"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94492/%e4%bc%af%e5%85%8b%e5%88%a9%e7%a5%9e%e4%bd%9c%e8%83%8c%e5%88%baopenai%ef%bc%9a%e6%8c%81%e7%bb%ad%e5%ad%a6%e4%b9%a0%e6%89%8d%e6%98%af%e7%9c%9f%e7%a5%9e%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "伯克利神作背刺OpenAI：持续学习才是真神！",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94492/%e4%bc%af%e5%85%8b%e5%88%a9%e7%a5%9e%e4%bd%9c%e8%83%8c%e5%88%baopenai%ef%bc%9a%e6%8c%81%e7%bb%ad%e5%ad%a6%e4%b9%a0%e6%89%8d%e6%98%af%e7%9c%9f%e7%a5%9e%ef%bc%81/",
-      "publishedAt": "2026-05-20T00:46:05.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94474/openai%e4%b8%96%e7%ba%aa%e8%af%89%e8%ae%bc%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e8%be%93%e4%ba%86%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "OpenAI世纪诉讼，马斯克输了！",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94474/openai%e4%b8%96%e7%ba%aa%e8%af%89%e8%ae%bc%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e8%be%93%e4%ba%86%ef%bc%81/",
-      "publishedAt": "2026-05-20T00:45:38.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94453/ai%e5%88%9b%e4%b8%9a%e4%b8%80%e5%b9%b4%e7%8b%82%e6%8f%bd800%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%81anthropic%e5%8f%8d%e6%9d%80openai%ef%bc%8c%e5%8f%8c%e9%9b%84%e7%8b%ac%e5%90%9e89/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI创业一年狂揽800亿美元！Anthropic反杀OpenAI，双雄独吞89%",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94453/ai%e5%88%9b%e4%b8%9a%e4%b8%80%e5%b9%b4%e7%8b%82%e6%8f%bd800%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%81anthropic%e5%8f%8d%e6%9d%80openai%ef%bc%8c%e5%8f%8c%e9%9b%84%e7%8b%ac%e5%90%9e89/",
-      "publishedAt": "2026-05-20T00:45:08.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94443/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aaai%e4%b8%93%e5%ae%b6%e5%b8%82%e5%9c%ba%e4%b8%8a%e7%ba%bf%ef%bc%81%e6%8a%8a%e4%bd%a0%e7%9a%84%e7%bb%9d%e6%b4%bb%e6%89%93%e5%8c%85%ef%bc%8c%e6%95%b0%e5%ad%97%e5%88%86/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "全球首个AI专家市场上线！把你的绝活打包，数字分身7×24小时变现",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94443/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aaai%e4%b8%93%e5%ae%b6%e5%b8%82%e5%9c%ba%e4%b8%8a%e7%ba%bf%ef%bc%81%e6%8a%8a%e4%bd%a0%e7%9a%84%e7%bb%9d%e6%b4%bb%e6%89%93%e5%8c%85%ef%bc%8c%e6%95%b0%e5%ad%97%e5%88%86/",
-      "publishedAt": "2026-05-20T00:44:49.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94427/%e4%bd%a0%e7%9a%84ai-agent%e8%b6%8a%e7%94%a8%e8%b6%8a%e8%a0%a2%ef%bc%9f%e6%b8%af%e4%b8%ad%e5%a4%a7%e3%80%81%e6%b5%99%e5%a4%a7%e6%88%b3%e7%a0%b4%e3%80%8c%e8%ae%b0%e5%bf%86%e3%80%8d%e7%9a%84%e8%b0%8e/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "你的AI Agent越用越蠢？港中大、浙大戳破「记忆」的谎言",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94427/%e4%bd%a0%e7%9a%84ai-agent%e8%b6%8a%e7%94%a8%e8%b6%8a%e8%a0%a2%ef%bc%9f%e6%b8%af%e4%b8%ad%e5%a4%a7%e3%80%81%e6%b5%99%e5%a4%a7%e6%88%b3%e7%a0%b4%e3%80%8c%e8%ae%b0%e5%bf%86%e3%80%8d%e7%9a%84%e8%b0%8e/",
-      "publishedAt": "2026-05-20T00:44:24.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94411/%e7%bc%96%e7%a8%8b%e6%96%b0%e7%8e%8bcomposer-2-5%e6%9d%a5%e4%ba%86%ef%bc%8c%e9%80%bc%e8%bf%91opus-4-7%ef%bc%81%e6%88%90%e6%9c%ac%e4%bb%85%e4%b8%ba1-10/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "编程新王Composer 2.5来了，逼近Opus 4.7！成本仅为1/10",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94411/%e7%bc%96%e7%a8%8b%e6%96%b0%e7%8e%8bcomposer-2-5%e6%9d%a5%e4%ba%86%ef%bc%8c%e9%80%bc%e8%bf%91opus-4-7%ef%bc%81%e6%88%90%e6%9c%ac%e4%bb%85%e4%b8%ba1-10/",
-      "publishedAt": "2026-05-20T00:43:54.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/20/other/admin/94386/20%e5%88%80%e6%9c%88%e8%b4%b9%e7%a7%92%e5%8f%98api%ef%bc%81hermes%e4%b8%80%e8%a1%8c%e5%91%bd%e4%bb%a4%e5%b0%b1%e8%83%bd%e7%94%a8%e4%b8%8aclaude%e3%80%81chatgpt%e8%ae%a2%e9%98%85/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "20刀月费秒变API！Hermes一行命令就能用上Claude、ChatGPT订阅",
-      "url": "https://aiera.com.cn/2026/05/20/other/admin/94386/20%e5%88%80%e6%9c%88%e8%b4%b9%e7%a7%92%e5%8f%98api%ef%bc%81hermes%e4%b8%80%e8%a1%8c%e5%91%bd%e4%bb%a4%e5%b0%b1%e8%83%bd%e7%94%a8%e4%b8%8aclaude%e3%80%81chatgpt%e8%ae%a2%e9%98%85/",
-      "publishedAt": "2026-05-20T00:43:22.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/95021.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大实现液晶中涡旋线向拓扑孤子弦的动态可控转化",
-      "url": "https://news.ustc.edu.cn/info/1055/95021.htm",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "excerpt": "中国科学技术大学物理学院彭晨晖教授、蒋景华研究员团队与香港科技大学张锐教授合作，在向列相液晶拓扑缺陷研究中取得关键进展，实现奇异涡旋线向非奇异类斯格明子孤子弦的可控动态拓扑转化、实时操控与复杂拓扑构型定制，相关成果以“Dynamic creation of topological solitons via nematic vortex lines”为题，5月19日在线发表于国际知名期刊《美国国家科学院院刊》（PNAS）。拓扑保护孤子结构凭借独特的拓扑稳定性，成为高...",
-      "content": "中国科学技术大学物理学院彭晨晖教授、蒋景华研究员团队与香港科技大学张锐教授合作，在向列相液晶拓扑缺陷研究中取得关键进展，实现奇异涡旋线向非奇异类斯格明子孤子弦的可控动态拓扑转化、实时操控与复杂拓扑构型定制，相关成果以“Dynamic creation of topological solitons via nematic vortex lines”为题，5月19日在线发表于国际知名期刊《美国国家科学院院刊》（PNAS）。拓扑保护孤子结构凭借独特的拓扑稳定性，成为高..."
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/95009.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大实现碳化硅氧",
-      "url": "https://news.ustc.edu.cn/info/1055/95009.htm",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "excerpt": "我校郭光灿院士团队在碳化硅色心的可控制备与微观结构识别方面取得重要突破。该团队李传锋、许金时研究组与匈牙利魏格纳物理研究中心Adam Gali等人合作，发展了基于氧离子注入的高效制备方法，成功获得了4H-碳化硅中四类氧相关改性双空位色心，并通过同位素分辨的17O超精细相互作用测量，直接确认其为氧-空位色心。该成果5月16日在线发表在国际知名学术期刊《先进材料》上。固态色心是发展量子精密测量和量子网络的重要物理平台...",
-      "content": "我校郭光灿院士团队在碳化硅色心的可控制备与微观结构识别方面取得重要突破。该团队李传锋、许金时研究组与匈牙利魏格纳物理研究中心Adam Gali等人合作，发展了基于氧离子注入的高效制备方法，成功获得了4H-碳化硅中四类氧相关改性双空位色心，并通过同位素分辨的17O超精细相互作用测量，直接确认其为氧-空位色心。该成果5月16日在线发表在国际知名学术期刊《先进材料》上。固态色心是发展量子精密测量和量子网络的重要物理平台..."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/420561.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/420753.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "完成“由铁到钢”的生态蜕变 刘军携联想全场景AI终端点亮智能未来",
-      "url": "https://www.qbitai.com/2026/05/420561.html",
-      "publishedAt": "2026-05-19T07:47:55.000Z",
-      "excerpt": "首发赠送价值1500元天禧能量值",
-      "content": "首发赠送价值1500元天禧能量值"
+      "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+      "url": "https://www.qbitai.com/2026/05/420753.html",
+      "publishedAt": "2026-05-20T14:09:25.000Z",
+      "excerpt": "向世界模型进发。",
+      "content": "向世界模型进发。"
     },
     {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/24986.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于2025级本科生“科学与社会”研讨课 之杨卫院士报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/24986.htm",
-      "publishedAt": "2026-05-11T00:00:00.000Z",
-      "excerpt": "5月13日下午16：15，我校2025级本科生“科学与社会”研讨课第四场主题报告将在东区大礼堂（主会场）/理化大楼三楼东、西报告厅（分会场）举行，特邀中国科学院杨卫院士做相关主题演讲，欢迎广大师生积极参加。 特此通知。教务处 2026年5月11",
-      "content": "5月13日下午16：15，我校2025级本科生“科学与社会”研讨课第四场主题报告将在东区大礼堂（主会场）/理化大楼三楼东、西报告厅（分会场）举行，特邀中国科学院杨卫院士做相关主题演讲，欢迎广大师生积极参加。 特此通知。教务处 2026年5月11"
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/420743.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向 AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/420743.html",
+      "publishedAt": "2026-05-20T13:08:51.000Z",
+      "excerpt": "AI产业正在进入新一轮高强度算力周期",
+      "content": "AI产业正在进入新一轮高强度算力周期"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/420703.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+      "url": "https://www.qbitai.com/2026/05/420703.html",
+      "publishedAt": "2026-05-20T10:15:21.000Z",
+      "excerpt": "让你的经验24小时自动接单",
+      "content": "让你的经验24小时自动接单"
     }
   ],
   "stats": {
-    "totalItems": 17,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
-      "community": 2,
-      "tech_news": 14
+      "campus_notices": 0,
+      "community": 0,
+      "tech_news": 8
     }
   }
 }
