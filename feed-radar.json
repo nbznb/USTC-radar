@@ -1,212 +1,160 @@
 {
-  "generatedAt": "2026-05-26T09:47:42.937Z",
+  "generatedAt": "2026-05-27T09:39:33.242Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425511.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/425857.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，国产AI自己造了AI，全球首例！",
-      "url": "https://www.qbitai.com/2026/05/425511.html",
-      "publishedAt": "2026-05-26T08:46:15.000Z",
-      "excerpt": "训练速度比英伟达Megatron快10%",
-      "content": "训练速度比英伟达Megatron快10%"
+      "title": "OpenAI挖来了个F1级别车手搞公关",
+      "url": "https://www.qbitai.com/2026/05/425857.html",
+      "publishedAt": "2026-05-27T06:55:44.000Z",
+      "excerpt": "曾在Salesforce干了13年营销",
+      "content": "曾在Salesforce干了13年营销"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425455.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/425660.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
-      "url": "https://www.qbitai.com/2026/05/425455.html",
-      "publishedAt": "2026-05-26T08:20:39.000Z",
-      "excerpt": "解决卡了人类56年的数学难题",
-      "content": "解决卡了人类56年的数学难题"
+      "title": "触觉具身来了个梦之队：天使轮近亿",
+      "url": "https://www.qbitai.com/2026/05/425660.html",
+      "publishedAt": "2026-05-27T05:18:06.000Z",
+      "excerpt": "复旦系具身新星，想让机器人真正会“触摸”",
+      "content": "复旦系具身新星，想让机器人真正会“触摸”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425304.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/425810.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
-      "url": "https://www.qbitai.com/2026/05/425304.html",
-      "publishedAt": "2026-05-26T07:42:02.000Z",
-      "excerpt": "MTS（技术员工） @Anthropic",
-      "content": "MTS（技术员工） @Anthropic"
+      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+      "url": "https://www.qbitai.com/2026/05/425810.html",
+      "publishedAt": "2026-05-27T05:12:18.000Z",
+      "excerpt": "只需一段提示词",
+      "content": "只需一段提示词"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95791/%e7%aa%81%e7%a0%b43%e4%ba%bf%e7%ac%94%ef%bc%81%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e5%a4%a7%e8%a7%84%e6%a8%a1%e5%95%86%e7%94%a8ai%e5%8e%9f%e7%94%9f%e6%94%af%e4%bb%98%e5%9f%ba%e5%bb%ba%e8%af%9e/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "突破3亿笔！全球首个大规模商用AI原生支付基建诞生",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95791/%e7%aa%81%e7%a0%b43%e4%ba%bf%e7%ac%94%ef%bc%81%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e5%a4%a7%e8%a7%84%e6%a8%a1%e5%95%86%e7%94%a8ai%e5%8e%9f%e7%94%9f%e6%94%af%e4%bb%98%e5%9f%ba%e5%bb%ba%e8%af%9e/",
-      "publishedAt": "2026-05-26T06:53:35.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425296.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/425523.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
-      "url": "https://www.qbitai.com/2026/05/425296.html",
-      "publishedAt": "2026-05-26T06:52:33.000Z",
+      "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+      "url": "https://www.qbitai.com/2026/05/425523.html",
+      "publishedAt": "2026-05-27T01:14:35.000Z",
+      "excerpt": "“1%是我写的，99%是Agent写的。”",
+      "content": "“1%是我写的，99%是Agent写的。”"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95967/%e4%b8%80%e4%b8%aa%e6%9c%88%e7%9a%84%e6%b4%bb%e4%b8%80%e5%91%a8%e5%b9%b2%e5%ae%8c%ef%bc%81%e8%8b%b1%e4%bc%9f%e8%be%be%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e8%ae%ad%e7%bb%83%e9%80%9f%e5%ba%a6%e9%a3%99/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "一个月的活一周干完！英伟达世界模型训练速度飙升400%",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95967/%e4%b8%80%e4%b8%aa%e6%9c%88%e7%9a%84%e6%b4%bb%e4%b8%80%e5%91%a8%e5%b9%b2%e5%ae%8c%ef%bc%81%e8%8b%b1%e4%bc%9f%e8%be%be%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e8%ae%ad%e7%bb%83%e9%80%9f%e5%ba%a6%e9%a3%99/",
+      "publishedAt": "2026-05-27T00:02:00.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425155.html",
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95947/%e7%ae%97%e6%b3%951%e5%b9%b4%e7%bf%bb%e5%80%8d%ef%bc%8c%e8%8a%af%e7%89%872%e5%b9%b4%e7%bf%bb%e5%80%8d%ef%bc%9f%e9%87%8d%e7%a3%85%e5%ae%9e%e9%94%a4%ef%bc%9aai%e6%ad%a3%e5%9c%a8%e8%87%aa%e6%88%91/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "算法1年翻倍，芯片2年翻倍？重磅实锤：AI正在自我加速，拦不住了",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95947/%e7%ae%97%e6%b3%951%e5%b9%b4%e7%bf%bb%e5%80%8d%ef%bc%8c%e8%8a%af%e7%89%872%e5%b9%b4%e7%bf%bb%e5%80%8d%ef%bc%9f%e9%87%8d%e7%a3%85%e5%ae%9e%e9%94%a4%ef%bc%9aai%e6%ad%a3%e5%9c%a8%e8%87%aa%e6%88%91/",
+      "publishedAt": "2026-05-27T00:01:50.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95928/openai%e5%b7%ae%e7%82%b9%e6%b2%a1%e4%ba%86%ef%bc%9f%e6%80%bb%e8%a3%81%e4%ba%b2%e8%bf%b0%ef%bc%9a%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%a2%ab%e7%bd%a2%e5%85%8d%e5%bd%93%e5%a4%a9%ef%bc%8c%e6%88%91%e5%b0%b1/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "OpenAI差点没了？总裁亲述：奥特曼被罢免当天，我就辞职了",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95928/openai%e5%b7%ae%e7%82%b9%e6%b2%a1%e4%ba%86%ef%bc%9f%e6%80%bb%e8%a3%81%e4%ba%b2%e8%bf%b0%ef%bc%9a%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%a2%ab%e7%bd%a2%e5%85%8d%e5%bd%93%e5%a4%a9%ef%bc%8c%e6%88%91%e5%b0%b1/",
+      "publishedAt": "2026-05-27T00:01:38.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95909/ai%e5%85%ac%e5%8f%b8%e7%83%a7%e4%b8%8d%e8%b5%b7token%e4%ba%86%ef%bc%81%e5%9b%bd%e4%ba%a7agent%e6%9d%80%e5%87%ba%ef%bc%8c%e9%80%bc%e8%bf%91opus-4-6%e8%bf%98%e5%85%8d%e8%b4%b9/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "AI公司烧不起Token了！国产Agent杀出，逼近Opus 4.6还免费",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95909/ai%e5%85%ac%e5%8f%b8%e7%83%a7%e4%b8%8d%e8%b5%b7token%e4%ba%86%ef%bc%81%e5%9b%bd%e4%ba%a7agent%e6%9d%80%e5%87%ba%ef%bc%8c%e9%80%bc%e8%bf%91opus-4-6%e8%bf%98%e5%85%8d%e8%b4%b9/",
+      "publishedAt": "2026-05-27T00:01:22.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95872/%e9%a9%ac%e6%96%af%e5%85%8b%e7%94%a9%e5%87%ba%e4%b8%a4%e5%bc%a0%e7%8e%8b%e7%89%8c%ef%bc%8cgrok-build%e6%9d%80%e5%85%a5ai%e7%bc%96%e7%a8%8b/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "马斯克甩出两张王牌，Grok Build杀入AI编程",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95872/%e9%a9%ac%e6%96%af%e5%85%8b%e7%94%a9%e5%87%ba%e4%b8%a4%e5%bc%a0%e7%8e%8b%e7%89%8c%ef%bc%8cgrok-build%e6%9d%80%e5%85%a5ai%e7%bc%96%e7%a8%8b/",
+      "publishedAt": "2026-05-27T00:01:03.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95858/%e9%a9%ac%e6%96%af%e5%85%8b%e6%9b%9d%e5%85%89grok-5%ef%bc%811-5%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%ef%bc%8c%e5%81%b7%e5%b8%88cursor%e7%8b%82%e7%bb%83%e7%bc%96%e7%a8%8b/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "马斯克曝光Grok 5！1.5万亿参数，偷师Cursor狂练编程",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95858/%e9%a9%ac%e6%96%af%e5%85%8b%e6%9b%9d%e5%85%89grok-5%ef%bc%811-5%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%ef%bc%8c%e5%81%b7%e5%b8%88cursor%e7%8b%82%e7%bb%83%e7%bc%96%e7%a8%8b/",
+      "publishedAt": "2026-05-27T00:00:54.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95840/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bdai%e9%97%af%e5%85%a5%e5%85%a8%e7%90%83%e7%bc%96%e7%a8%8b%e5%89%8d%e4%ba%8c%ef%bc%81%e5%89%8d%e9%9d%a2%e5%8f%aa%e5%89%a9claude/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "刚刚，中国AI闯入全球编程前二！前面只剩Claude",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95840/%e5%88%9a%e5%88%9a%ef%bc%8c%e4%b8%ad%e5%9b%bdai%e9%97%af%e5%85%a5%e5%85%a8%e7%90%83%e7%bc%96%e7%a8%8b%e5%89%8d%e4%ba%8c%ef%bc%81%e5%89%8d%e9%9d%a2%e5%8f%aa%e5%89%a9claude/",
+      "publishedAt": "2026-05-27T00:00:30.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/05/27/other/admin/95814/python%e9%80%86%e5%a4%a9%e6%94%b9%e5%91%bd%ef%bc%81%e5%bc%80%e6%ba%90hermes%e9%a6%96%e6%ac%a1%e5%87%bb%e8%b4%a5openai-codex/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "Python逆天改命！开源Hermes首次击败OpenAI Codex",
+      "url": "https://aiera.com.cn/2026/05/27/other/admin/95814/python%e9%80%86%e5%a4%a9%e6%94%b9%e5%91%bd%ef%bc%81%e5%bc%80%e6%ba%90hermes%e9%a6%96%e6%ac%a1%e5%87%bb%e8%b4%a5openai-codex/",
+      "publishedAt": "2026-05-27T00:00:13.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/05/425600.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
-      "url": "https://www.qbitai.com/2026/05/425155.html",
-      "publishedAt": "2026-05-26T05:50:01.000Z",
-      "excerpt": "独特“幸运星”ID设计，打造数字系列史上最精致外观",
-      "content": "独特“幸运星”ID设计，打造数字系列史上最精致外观"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425058.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
-      "url": "https://www.qbitai.com/2026/05/425058.html",
-      "publishedAt": "2026-05-26T05:37:38.000Z",
-      "excerpt": "90后天才+70后老将打造",
-      "content": "90后天才+70后老将打造"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/425150.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
-      "url": "https://www.qbitai.com/2026/05/425150.html",
-      "publishedAt": "2026-05-26T05:32:12.000Z",
-      "excerpt": "跻身全球编程模型第一梯队",
-      "content": "跻身全球编程模型第一梯队"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95786/%e8%9a%82%e8%9a%81%e7%81%b5%e6%b3%a2%e6%b7%b1%e5%8c%96%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e7%94%9f%e6%80%81%e5%b8%83%e5%b1%80%ef%bc%8c%e6%90%ba%e6%89%8b%e7%ae%80%e6%99%ba%e6%9c%ba%e5%99%a8%e4%ba%ba/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "蚂蚁灵波深化具身智能生态布局，携手简智机器人升级具身智能数据底座",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95786/%e8%9a%82%e8%9a%81%e7%81%b5%e6%b3%a2%e6%b7%b1%e5%8c%96%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e7%94%9f%e6%80%81%e5%b8%83%e5%b1%80%ef%bc%8c%e6%90%ba%e6%89%8b%e7%ae%80%e6%99%ba%e6%9c%ba%e5%99%a8%e4%ba%ba/",
-      "publishedAt": "2026-05-26T05:10:27.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/05/424851.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
-      "url": "https://www.qbitai.com/2026/05/424851.html",
-      "publishedAt": "2026-05-26T04:13:32.000Z",
-      "excerpt": "深度适配OpenClaw、Claude Code、Hermes等",
-      "content": "深度适配OpenClaw、Claude Code、Hermes等"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95783/%e5%85%a8%e6%96%b0%e4%b8%80%e4%bb%a3%e7%90%86%e6%83%b3l9%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83%ef%bc%8c%e5%85%a8%e5%9b%bd%e7%bb%9f%e4%b8%80%e9%9b%b6%e5%94%ae%e4%bb%b745-98%e4%b8%87%e5%85%83-50-98/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "全新一代理想L9正式发布，全国统一零售价45.98万元",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95783/%e5%85%a8%e6%96%b0%e4%b8%80%e4%bb%a3%e7%90%86%e6%83%b3l9%e6%ad%a3%e5%bc%8f%e5%8f%91%e5%b8%83%ef%bc%8c%e5%85%a8%e5%9b%bd%e7%bb%9f%e4%b8%80%e9%9b%b6%e5%94%ae%e4%bb%b745-98%e4%b8%87%e5%85%83-50-98/",
-      "publishedAt": "2026-05-26T02:32:59.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95766/%e5%8d%8e%e4%ba%ba%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%b0%81%e7%a5%9e%ef%bc%8150%e5%b9%b4%e6%95%b0%e8%ae%ba%e9%9a%be%e9%a2%98%e4%b8%80%e6%9c%9d%e7%a0%b4%e8%a7%a3/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "华人数学家封神！50年数论难题一朝破解",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95766/%e5%8d%8e%e4%ba%ba%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%b0%81%e7%a5%9e%ef%bc%8150%e5%b9%b4%e6%95%b0%e8%ae%ba%e9%9a%be%e9%a2%98%e4%b8%80%e6%9c%9d%e7%a0%b4%e8%a7%a3/",
-      "publishedAt": "2026-05-26T00:01:44.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95750/claude%e3%80%8c%e6%b0%b8%e4%b9%85%e5%a4%a7%e8%84%91%e3%80%8d%ef%bc%8c%e7%9c%9f%e7%9a%84%e6%9d%a5%e4%ba%86%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude「永久大脑」，真的来了！",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95750/claude%e3%80%8c%e6%b0%b8%e4%b9%85%e5%a4%a7%e8%84%91%e3%80%8d%ef%bc%8c%e7%9c%9f%e7%9a%84%e6%9d%a5%e4%ba%86%ef%bc%81/",
-      "publishedAt": "2026-05-26T00:01:32.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95726/30%e5%a4%a9%e7%83%a7%e6%8e%8960%e4%b8%87%e4%ba%bf%ef%bc%8c%e6%89%8e%e5%85%8b%e4%bc%af%e6%a0%bc%e6%b2%a1%e8%bf%9b%e5%89%8d250%ef%bc%9a%e5%a4%a7%e5%8e%82ai%e6%b2%a6%e4%b8%bakpi%e6%b8%b8%e6%88%8f/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "30天烧掉60万亿，扎克伯格没进前250：大厂AI沦为KPI游戏",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95726/30%e5%a4%a9%e7%83%a7%e6%8e%8960%e4%b8%87%e4%ba%bf%ef%bc%8c%e6%89%8e%e5%85%8b%e4%bc%af%e6%a0%bc%e6%b2%a1%e8%bf%9b%e5%89%8d250%ef%bc%9a%e5%a4%a7%e5%8e%82ai%e6%b2%a6%e4%b8%bakpi%e6%b8%b8%e6%88%8f/",
-      "publishedAt": "2026-05-26T00:01:19.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95715/claude%e4%b8%8d%e5%88%b04%ef%bc%8c%e5%85%a8%e5%86%9b%e8%a6%86%e6%b2%a1%ef%bc%81%e4%b8%80%e5%9c%ba%e5%a4%a7%e8%80%83%e6%92%95%e7%a2%8eagent%e3%80%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e5%8a%9e%e5%85%ac/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude不到4%，全军覆没！一场大考撕碎Agent「全自动办公」幻想",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95715/claude%e4%b8%8d%e5%88%b04%ef%bc%8c%e5%85%a8%e5%86%9b%e8%a6%86%e6%b2%a1%ef%bc%81%e4%b8%80%e5%9c%ba%e5%a4%a7%e8%80%83%e6%92%95%e7%a2%8eagent%e3%80%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e5%8a%9e%e5%85%ac/",
-      "publishedAt": "2026-05-26T00:01:10.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/05/26/other/admin/95695/%e8%83%9c%e7%8e%87%e7%9b%b4%e9%80%bc%e4%ba%ba%e7%b1%bb%e5%a4%a7%e5%b8%88%ef%bc%81%e8%bf%99%e5%a5%97agent%e6%8f%ad%e5%bc%80%e4%b8%ad%e5%9b%bdai%e3%80%8c%e7%8e%84%e5%ad%a6%e7%9c%9f%e7%9b%b8%e3%80%8d/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "胜率直逼人类大师！这套Agent揭开中国AI「玄学真相」",
-      "url": "https://aiera.com.cn/2026/05/26/other/admin/95695/%e8%83%9c%e7%8e%87%e7%9b%b4%e9%80%bc%e4%ba%ba%e7%b1%bb%e5%a4%a7%e5%b8%88%ef%bc%81%e8%bf%99%e5%a5%97agent%e6%8f%ad%e5%bc%80%e4%b8%ad%e5%9b%bdai%e3%80%8c%e7%8e%84%e5%ad%a6%e7%9c%9f%e7%9b%b8%e3%80%8d/",
-      "publishedAt": "2026-05-26T00:01:00.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25074.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举办“王淦昌大讲堂”之夏佳文院士报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25074.htm",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "excerpt": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀中国科学院近代物理研究所夏佳文院士来我校做报告。报告题目：怎样成为一流的创新人才报告时间：2026年5月30日（周六）上午9：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验室2026年5月26日",
-      "content": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀中国科学院近代物理研究所夏佳文院士来我校做报告。报告题目：怎样成为一流的创新人才报告时间：2026年5月30日（周六）上午9：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验室2026年5月26日"
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/95091.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大实现本征自感知智能电池的热失控早期预警",
-      "url": "https://news.ustc.edu.cn/info/1055/95091.htm",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "excerpt": "中国科学技术大学工程科学学院龚兴龙教授、邓华夏教授团队与合肥大学梁鑫教授以及上海理工大学窦世学教授、刘化鹍教授合作，提出了一种本征自感知智能电池设计策略。通过研制具备本征自感知能力的隔膜，在不影响电池电化学性能的前提下，实现了电池内部力学信号的在线监测，同时实现了对复杂机械工况的精准识别，并能够在锂盐分解阶段捕获异常信号，实现热失控的早期预警。相关成果以“Early warning at lithium salt decomposi...",
-      "content": "中国科学技术大学工程科学学院龚兴龙教授、邓华夏教授团队与合肥大学梁鑫教授以及上海理工大学窦世学教授、刘化鹍教授合作，提出了一种本征自感知智能电池设计策略。通过研制具备本征自感知能力的隔膜，在不影响电池电化学性能的前提下，实现了电池内部力学信号的在线监测，同时实现了对复杂机械工况的精准识别，并能够在锂盐分解阶段捕获异常信号，实现热失控的早期预警。相关成果以“Early warning at lithium salt decomposi..."
+      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+      "url": "https://www.qbitai.com/2026/05/425600.html",
+      "publishedAt": "2026-05-26T10:17:39.000Z",
+      "excerpt": "光影之间，读懂未尽之意",
+      "content": "光影之间，读懂未尽之意"
     }
   ],
   "stats": {
-    "totalItems": 18,
+    "totalItems": 13,
     "byCategory": {
-      "campus_notices": 1,
-      "community": 1,
-      "tech_news": 16
+      "campus_notices": 0,
+      "community": 0,
+      "tech_news": 13
     }
-  }
+  },
+  "errors": [
+    "中国科大新闻网: fetch failed"
+  ]
 }
