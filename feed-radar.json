@@ -1,179 +1,157 @@
 {
-  "generatedAt": "2026-06-12T10:05:38.259Z",
+  "generatedAt": "2026-06-13T08:53:22.619Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98720/%e7%94%9f%e6%88%90%e9%a2%84%e6%b5%8b%e5%9b%9b%e5%a4%a7%e6%9d%83%e5%a8%81%e6%a6%9c%e5%8d%95%e7%ac%ac%e4%b8%80%ef%bc%81%e5%bc%80%e6%82%9f%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e7%a1%ae%e7%ab%8b%e5%85%b7/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "生成预测四大权威榜单第一！开悟世界模型确立具身智能世界模型新标杆",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98720/%e7%94%9f%e6%88%90%e9%a2%84%e6%b5%8b%e5%9b%9b%e5%a4%a7%e6%9d%83%e5%a8%81%e6%a6%9c%e5%8d%95%e7%ac%ac%e4%b8%80%ef%bc%81%e5%bc%80%e6%82%9f%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e7%a1%ae%e7%ab%8b%e5%85%b7/",
-      "publishedAt": "2026-06-12T09:35:34.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/06/435192.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/06/435394.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-      "url": "https://www.qbitai.com/2026/06/435192.html",
-      "publishedAt": "2026-06-12T07:31:55.000Z",
-      "excerpt": "助力LP与GP高效合",
-      "content": "助力LP与GP高效合"
+      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "url": "https://www.qbitai.com/2026/06/435394.html",
+      "publishedAt": "2026-06-13T05:19:13.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/06/433717.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/06/435339.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-      "url": "https://www.qbitai.com/2026/06/433717.html",
-      "publishedAt": "2026-06-12T07:29:59.000Z",
-      "excerpt": "那位被OpenAI开除的股神",
-      "content": "那位被OpenAI开除的股神"
+      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "url": "https://www.qbitai.com/2026/06/435339.html",
+      "publishedAt": "2026-06-13T04:05:19.000Z",
+      "excerpt": "马斯克成人类历史首位万亿美金富豪",
+      "content": "马斯克成人类历史首位万亿美金富豪"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/06/435105.html",
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98888/%e5%8c%97%e5%a4%a7%e8%81%94%e6%89%8b%e8%ae%a9ai%e8%b7%a8%e7%95%8c%e3%80%8c%e9%80%a0%e7%89%a9%e3%80%8d%ef%bc%8c%e4%b8%9a%e7%95%8c%e6%9c%80%e5%bc%ba%e5%a4%8d%e5%90%88%e7%ba%a4%e7%bb%b4%e8%af%9e%e7%94%9f/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "北大联手让AI跨界「造物」，业界最强复合纤维诞生！",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98888/%e5%8c%97%e5%a4%a7%e8%81%94%e6%89%8b%e8%ae%a9ai%e8%b7%a8%e7%95%8c%e3%80%8c%e9%80%a0%e7%89%a9%e3%80%8d%ef%bc%8c%e4%b8%9a%e7%95%8c%e6%9c%80%e5%bc%ba%e5%a4%8d%e5%90%88%e7%ba%a4%e7%bb%b4%e8%af%9e%e7%94%9f/",
+      "publishedAt": "2026-06-13T00:01:57.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98879/openai%e5%8d%b3%e5%b0%86%e5%bc%80%e5%90%aftoken%e5%a4%a7%e9%99%8d%e4%bb%b7%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "OpenAI即将开启Token大降价！",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98879/openai%e5%8d%b3%e5%b0%86%e5%bc%80%e5%90%aftoken%e5%a4%a7%e9%99%8d%e4%bb%b7%ef%bc%81/",
+      "publishedAt": "2026-06-13T00:01:50.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98864/%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%95%b0%e6%8d%ae%e5%9f%ba%e5%bb%ba%e5%8d%87%e7%ba%a7%ef%bc%81%e7%a5%9e%e7%bb%8f%e8%85%95%e5%b8%a6%e5%85%a8%e6%99%af%e5%a4%b4%e7%8e%af%ef%bc%8c%e8%a1%a5%e5%85%a8/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "具身智能数据基建升级！神经腕带+全景头环，补全物理操作信号",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98864/%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%95%b0%e6%8d%ae%e5%9f%ba%e5%bb%ba%e5%8d%87%e7%ba%a7%ef%bc%81%e7%a5%9e%e7%bb%8f%e8%85%95%e5%b8%a6%e5%85%a8%e6%99%af%e5%a4%b4%e7%8e%af%ef%bc%8c%e8%a1%a5%e5%85%a8/",
+      "publishedAt": "2026-06-13T00:01:38.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98852/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9c%b0%e8%a1%a8%e6%9c%80%e5%bc%baclaude-5%e8%a2%ab%e6%94%bb%e7%a0%b4%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "刚刚，地表最强Claude 5被攻破！",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98852/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9c%b0%e8%a1%a8%e6%9c%80%e5%bc%baclaude-5%e8%a2%ab%e6%94%bb%e7%a0%b4%ef%bc%81/",
+      "publishedAt": "2026-06-13T00:01:26.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98827/openai%e7%aa%81%e7%84%b6%e6%94%b6%e8%b4%ad%ef%bc%81500%e4%b8%87%e4%ba%bacodex%ef%bc%8c%e6%b0%b8%e4%b8%8d%e4%b8%8b%e7%ba%bf/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "OpenAI突然收购！500万人Codex，永不下线",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98827/openai%e7%aa%81%e7%84%b6%e6%94%b6%e8%b4%ad%ef%bc%81500%e4%b8%87%e4%ba%bacodex%ef%bc%8c%e6%b0%b8%e4%b8%8d%e4%b8%8b%e7%ba%bf/",
+      "publishedAt": "2026-06-13T00:01:10.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98810/%e7%a1%85%e8%b0%b7%e9%9d%a0agent%e6%9c%88%e5%85%a530%e4%b8%87%e5%88%80%ef%bc%8c%e4%b8%ad%e5%9b%bd%e8%8a%af%e6%8a%8a%e5%85%a5%e5%9c%ba%e5%88%b8%e6%89%93%e5%88%b02999%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "硅谷靠Agent月入30万刀，中国芯把入场券打到2999！",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98810/%e7%a1%85%e8%b0%b7%e9%9d%a0agent%e6%9c%88%e5%85%a530%e4%b8%87%e5%88%80%ef%bc%8c%e4%b8%ad%e5%9b%bd%e8%8a%af%e6%8a%8a%e5%85%a5%e5%9c%ba%e5%88%b8%e6%89%93%e5%88%b02999%ef%bc%81/",
+      "publishedAt": "2026-06-13T00:00:58.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98791/claude-fable-5%e3%80%8c%e5%8f%91%e7%96%af%e3%80%8d%ef%bc%81%e9%ab%98%e6%95%b0%e7%ae%97%e7%bd%91%e7%bb%9c%e6%94%bb%e5%87%bb%ef%bc%8c%e9%97%ae%e7%99%8c%e7%97%87%e7%9b%b4%e6%8e%a5%e5%b0%81%e5%8f%b7/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "Claude Fable 5「发疯」！高数算网络攻击，问癌症直接封号？",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98791/claude-fable-5%e3%80%8c%e5%8f%91%e7%96%af%e3%80%8d%ef%bc%81%e9%ab%98%e6%95%b0%e7%ae%97%e7%bd%91%e7%bb%9c%e6%94%bb%e5%87%bb%ef%bc%8c%e9%97%ae%e7%99%8c%e7%97%87%e7%9b%b4%e6%8e%a5%e5%b0%81%e5%8f%b7/",
+      "publishedAt": "2026-06-13T00:00:45.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/06/13/other/admin/98766/2026%e6%99%ba%e6%ba%90%e5%a4%a7%e4%bc%9a%ef%bc%9a%e6%99%ba%e6%ba%90%e7%a0%94%e7%a9%b6%e9%99%a2%e4%b8%ba%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e3%80%8c%e6%ad%a3%e6%9c%ac%e6%b8%85%e6%ba%90%e3%80%8d/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "2026智源大会：智源研究院为世界模型「正本清源」",
+      "url": "https://aiera.com.cn/2026/06/13/other/admin/98766/2026%e6%99%ba%e6%ba%90%e5%a4%a7%e4%bc%9a%ef%bc%9a%e6%99%ba%e6%ba%90%e7%a0%94%e7%a9%b6%e9%99%a2%e4%b8%ba%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e3%80%8c%e6%ad%a3%e6%9c%ac%e6%b8%85%e6%ba%90%e3%80%8d/",
+      "publishedAt": "2026-06-13T00:00:27.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/06/435321.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-      "url": "https://www.qbitai.com/2026/06/435105.html",
-      "publishedAt": "2026-06-12T07:27:14.000Z",
-      "excerpt": "7 月 17-18 日",
-      "content": "7 月 17-18 日"
+      "title": "神了，世界杯第一天真按千问剧本踢了",
+      "url": "https://www.qbitai.com/2026/06/435321.html",
+      "publishedAt": "2026-06-12T16:45:23.000Z",
+      "excerpt": "比分、红牌、绝杀全押中",
+      "content": "比分、红牌、绝杀全押中"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/06/434774.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/06/435196.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "url": "https://www.qbitai.com/2026/06/434774.html",
-      "publishedAt": "2026-06-12T04:13:23.000Z",
-      "excerpt": "最难档通通零蛋",
-      "content": "最难档通通零蛋"
+      "title": "千里收购了一家毫米波雷达公司",
+      "url": "https://www.qbitai.com/2026/06/435196.html",
+      "publishedAt": "2026-06-12T09:13:14.000Z",
+      "excerpt": "布局全栈闭环",
+      "content": "布局全栈闭环"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/06/434761.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-      "url": "https://www.qbitai.com/2026/06/434761.html",
-      "publishedAt": "2026-06-12T04:11:02.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/06/434733.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
-      "url": "https://www.qbitai.com/2026/06/434733.html",
-      "publishedAt": "2026-06-12T00:26:58.000Z",
-      "excerpt": "光散户就给马斯克冲了700亿刀",
-      "content": "光散户就给马斯克冲了700亿刀"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98714/%e7%a5%9e%e8%af%9d%e7%ba%a7claude-5%ef%bc%8c%e7%99%bb%e9%a1%b6%e4%ba%86%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "神话级Claude 5，登顶了！",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98714/%e7%a5%9e%e8%af%9d%e7%ba%a7claude-5%ef%bc%8c%e7%99%bb%e9%a1%b6%e4%ba%86%ef%bc%81/",
-      "publishedAt": "2026-06-12T00:01:50.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98690/%e7%a5%9e%e8%af%9d%e6%a8%a1%e5%9e%8bfable-5%e8%a2%ab%e6%9b%9d%e9%99%8d%e6%99%ba%ef%bc%8c%e5%8f%aa%e4%b8%ba%e9%98%b2%e8%92%b8%e9%a6%8f%ef%bc%9fai%e5%a4%a7%e4%bd%ac%e6%8a%97%e8%ae%ae/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "神话模型Fable 5被曝降智，只为防蒸馏？AI大佬抗议",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98690/%e7%a5%9e%e8%af%9d%e6%a8%a1%e5%9e%8bfable-5%e8%a2%ab%e6%9b%9d%e9%99%8d%e6%99%ba%ef%bc%8c%e5%8f%aa%e4%b8%ba%e9%98%b2%e8%92%b8%e9%a6%8f%ef%bc%9fai%e5%a4%a7%e4%bd%ac%e6%8a%97%e8%ae%ae/",
-      "publishedAt": "2026-06-12T00:01:36.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98675/%e6%96%b0%e6%99%ba%e5%85%83all-in-asi%e8%8b%b1%e9%9b%84%e5%b8%96-14/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "新智元ALL in ASI英雄帖",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98675/%e6%96%b0%e6%99%ba%e5%85%83all-in-asi%e8%8b%b1%e9%9b%84%e5%b8%96-14/",
-      "publishedAt": "2026-06-12T00:01:26.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98664/ai%e6%95%99%e8%82%b2%e8%b5%b0%e5%87%ba%e5%b1%8f%e5%b9%95%e7%9a%84%e7%ac%ac%e4%b8%80%e6%ad%a5%ef%bc%8c%e6%98%af%e4%b8%80%e5%8f%b0%e4%b8%87%e5%85%83%e6%9c%ba%e5%99%a8%e4%ba%ba/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI教育走出屏幕的第一步，是一台万元机器人",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98664/ai%e6%95%99%e8%82%b2%e8%b5%b0%e5%87%ba%e5%b1%8f%e5%b9%95%e7%9a%84%e7%ac%ac%e4%b8%80%e6%ad%a5%ef%bc%8c%e6%98%af%e4%b8%80%e5%8f%b0%e4%b8%87%e5%85%83%e6%9c%ba%e5%99%a8%e4%ba%ba/",
-      "publishedAt": "2026-06-12T00:01:20.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98651/%e8%b0%b7%e6%ad%8c%e5%b9%b2%e6%8e%89%e4%ba%86%e3%80%8c%e7%ad%89%e4%bd%a0%e8%af%b4%e5%ae%8c%e6%89%8d%e7%bf%bb%e8%af%91%e3%80%8d%ef%bc%8170%e8%af%ad%e8%a8%80%e8%be%b9%e5%90%ac%e8%be%b9%e8%af%91/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "谷歌干掉了「等你说完才翻译」！70+语言边听边译",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98651/%e8%b0%b7%e6%ad%8c%e5%b9%b2%e6%8e%89%e4%ba%86%e3%80%8c%e7%ad%89%e4%bd%a0%e8%af%b4%e5%ae%8c%e6%89%8d%e7%bf%bb%e8%af%91%e3%80%8d%ef%bc%8170%e8%af%ad%e8%a8%80%e8%be%b9%e5%90%ac%e8%be%b9%e8%af%91/",
-      "publishedAt": "2026-06-12T00:01:13.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98640/anthropic-ceo%e5%8f%aa%e7%9b%b4%e6%8e%a5%e7%ae%a1%e4%b8%80%e4%b8%aa%e4%ba%ba%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Anthropic CEO只直接管一个人！",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98640/anthropic-ceo%e5%8f%aa%e7%9b%b4%e6%8e%a5%e7%ae%a1%e4%b8%80%e4%b8%aa%e4%ba%ba%ef%bc%81/",
-      "publishedAt": "2026-06-12T00:01:05.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/06/12/other/admin/98628/ai%e6%99%ba%e8%83%bd%e4%bd%93%e8%b5%b0%e5%87%ba%e5%ae%9e%e9%aa%8c%e5%ae%a4%ef%bc%81%e4%b8%ad%e7%a7%91%e9%99%a2%e7%ad%89%e6%9c%ba%e6%9e%84%e8%81%94%e5%90%88%e5%8f%91%e5%b8%83%e9%a6%96%e4%b8%aaopenclaw/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI智能体走出实验室！中科院等机构联合发布首个OpenClaw系统性综述",
-      "url": "https://aiera.com.cn/2026/06/12/other/admin/98628/ai%e6%99%ba%e8%83%bd%e4%bd%93%e8%b5%b0%e5%87%ba%e5%ae%9e%e9%aa%8c%e5%ae%a4%ef%bc%81%e4%b8%ad%e7%a7%91%e9%99%a2%e7%ad%89%e6%9c%ba%e6%9e%84%e8%81%94%e5%90%88%e5%8f%91%e5%b8%83%e9%a6%96%e4%b8%aaopenclaw/",
-      "publishedAt": "2026-06-12T00:00:53.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25074.htm",
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25142",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "关于举办“王淦昌大讲堂”之夏佳文院士报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25074.htm",
-      "publishedAt": "2026-05-26T00:00:00.000Z",
-      "excerpt": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀中国科学院近代物理研究所夏佳文院士来我校做报告。报告题目：怎样成为一流的创新人才报告时间：2026年5月30日（周六）上午9：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验室2026年5月26日",
-      "content": "“王淦昌大讲堂”为核科学技术学院、国家同步辐射实验室主办的系列报告会，本次大讲堂特邀中国科学院近代物理研究所夏佳文院士来我校做报告。报告题目：怎样成为一流的创新人才报告时间：2026年5月30日（周六）上午9：00报告地点：东区水上报告厅欢迎全校感兴趣师生参加！核科学技术学院、国家同步辐射实验室2026年5月26日"
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25142",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 15,
+    "totalItems": 13,
     "byCategory": {
       "campus_notices": 1,
       "community": 0,
-      "tech_news": 14
+      "tech_news": 12
     }
   }
 }
