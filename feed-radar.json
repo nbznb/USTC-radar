@@ -1,190 +1,105 @@
 {
-  "generatedAt": "2026-07-07T09:35:11.181Z",
+  "generatedAt": "2026-07-08T08:22:35.520Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102859/1-5%e4%ba%bf%e6%95%b0%e6%8d%ae%ef%bc%81%e8%9a%82%e8%9a%81%e7%81%b5%e6%b3%a2%e5%8f%91%e5%b8%83%e7%a9%ba%e9%97%b4%e6%84%9f%e7%9f%a5%e6%a8%a1%e5%9e%8blingbot-depth-2-0%ef%bc%8c%e7%9c%8b%e5%be%97%e6%9b%b4/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/103045/%e9%ab%98%e5%be%b7%e5%8f%91%e5%b8%83phys-ai-data%ef%bc%9a%e9%a6%96%e4%b8%aa%e9%9d%a2%e5%90%91%e7%89%a9%e7%90%86ai%e8%ae%ad%e7%bb%83%e4%b8%8e%e5%ba%94%e7%94%a8%e7%9a%84%e4%b8%80%e7%ab%99%e5%bc%8f/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "1.5亿数据！蚂蚁灵波发布空间感知模型LingBot",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102859/1-5%e4%ba%bf%e6%95%b0%e6%8d%ae%ef%bc%81%e8%9a%82%e8%9a%81%e7%81%b5%e6%b3%a2%e5%8f%91%e5%b8%83%e7%a9%ba%e9%97%b4%e6%84%9f%e7%9f%a5%e6%a8%a1%e5%9e%8blingbot-depth-2-0%ef%bc%8c%e7%9c%8b%e5%be%97%e6%9b%b4/",
-      "publishedAt": "2026-07-07T08:49:00.000Z",
+      "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/103045/%e9%ab%98%e5%be%b7%e5%8f%91%e5%b8%83phys-ai-data%ef%bc%9a%e9%a6%96%e4%b8%aa%e9%9d%a2%e5%90%91%e7%89%a9%e7%90%86ai%e8%ae%ad%e7%bb%83%e4%b8%8e%e5%ba%94%e7%94%a8%e7%9a%84%e4%b8%80%e7%ab%99%e5%bc%8f/",
+      "publishedAt": "2026-07-08T06:49:05.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/445443.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
-      "url": "https://www.qbitai.com/2026/07/445443.html",
-      "publishedAt": "2026-07-07T08:32:27.000Z",
-      "excerpt": "“共识与非共识”的深度思辨",
-      "content": "“共识与非共识”的深度思辨"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/445292.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "我宣布这是中国最神奇的造车新势力",
-      "url": "https://www.qbitai.com/2026/07/445292.html",
-      "publishedAt": "2026-07-07T07:23:33.000Z",
-      "excerpt": "仅靠一款车5年不倒",
-      "content": "仅靠一款车5年不倒"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102835/physical-ai-quantgroup-open-foundation-model/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/103039/%e7%aa%81%e7%a0%b4%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%b3%9b%e5%8c%96%e7%93%b6%e9%a2%88%ef%bc%81%e6%94%af%e6%8c%8120%e5%a4%9a%e7%a7%8d%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%9e%84%e5%9e%8b%ef%bc%8c%e8%9a%82/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "物理AI：下一个万亿赛道的“卖铲人”——量化派如何靠开放基模打破行业内卷",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102835/physical-ai-quantgroup-open-foundation-model/",
-      "publishedAt": "2026-07-07T06:35:00.000Z",
+      "title": "突破具身智能泛化瓶颈！支持20多种机器人构型，蚂蚁灵波开源具身基座模型LingBot",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/103039/%e7%aa%81%e7%a0%b4%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%b3%9b%e5%8c%96%e7%93%b6%e9%a2%88%ef%bc%81%e6%94%af%e6%8c%8120%e5%a4%9a%e7%a7%8d%e6%9c%ba%e5%99%a8%e4%ba%ba%e6%9e%84%e5%9e%8b%ef%bc%8c%e8%9a%82/",
+      "publishedAt": "2026-07-08T02:32:14.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/445229.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
-      "url": "https://www.qbitai.com/2026/07/445229.html",
-      "publishedAt": "2026-07-07T05:03:09.000Z",
-      "excerpt": "从文字说明书到多模态经验库",
-      "content": "从文字说明书到多模态经验库"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/445230.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-      "url": "https://www.qbitai.com/2026/07/445230.html",
-      "publishedAt": "2026-07-07T04:48:40.000Z",
-      "excerpt": "来自蚂蚁灵波",
-      "content": "来自蚂蚁灵波"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/445184.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.qbitai.com/2026/07/445184.html",
-      "publishedAt": "2026-07-07T03:35:02.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/445067.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "征程赶超 WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-      "url": "https://www.qbitai.com/2026/07/445067.html",
-      "publishedAt": "2026-07-07T03:24:55.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/444859.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "征程赶超 WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
-      "url": "https://www.qbitai.com/2026/07/444859.html",
-      "publishedAt": "2026-07-07T03:14:41.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/444741.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "Claude的脑子里，也长出了一块「意识」",
-      "url": "https://www.qbitai.com/2026/07/444741.html",
-      "publishedAt": "2026-07-07T01:38:18.000Z",
-      "excerpt": "内部发现「类脑空间」，删掉就变傻",
-      "content": "内部发现「类脑空间」，删掉就变傻"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102830/karpathy%e6%9c%80%e6%96%b0%e5%bc%80%e5%96%b7%ef%bc%9a%e4%b8%80%e5%8f%a5%e8%af%9d%e8%ae%a9%e5%85%a8%e5%9c%baagent%e5%bc%80%e5%8f%91%e8%80%85%e5%ae%89%e9%9d%99%e4%ba%86/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/103035/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e5%88%87%e5%bc%80claude%e5%a4%a7%e8%84%91%ef%bc%81ai%e8%87%aa%e5%8f%91%e9%95%bf%e5%87%ba%e7%b1%bb%e4%ba%ba%e3%80%8c%e6%84%8f%e8%af%86%e5%99%a8%e5%ae%98%e3%80%8d/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "Karpathy最新开喷：一句话让全场Agent开发者安静了",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102830/karpathy%e6%9c%80%e6%96%b0%e5%bc%80%e5%96%b7%ef%bc%9a%e4%b8%80%e5%8f%a5%e8%af%9d%e8%ae%a9%e5%85%a8%e5%9c%baagent%e5%bc%80%e5%8f%91%e8%80%85%e5%ae%89%e9%9d%99%e4%ba%86/",
-      "publishedAt": "2026-07-07T00:02:19.000Z",
+      "title": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/103035/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e5%88%87%e5%bc%80claude%e5%a4%a7%e8%84%91%ef%bc%81ai%e8%87%aa%e5%8f%91%e9%95%bf%e5%87%ba%e7%b1%bb%e4%ba%ba%e3%80%8c%e6%84%8f%e8%af%86%e5%99%a8%e5%ae%98%e3%80%8d/",
+      "publishedAt": "2026-07-08T00:02:55.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102817/%e5%88%9a%e5%88%9a%ef%bc%8cdeepmind%e7%bb%8f%e5%85%b8%e5%b7%a8%e4%bd%9c%e5%86%8d%e5%b0%81%e7%a5%9e%ef%bc%81icml-2026%e5%a4%a7%e5%a5%96%e5%85%ac%e5%b8%83/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/103015/reddit%e4%b8%80%e5%bc%a0%e7%a5%9e%e5%9b%be%e7%96%af%e4%bc%a0%ef%bc%812%e5%b9%b4%e5%90%8e%ef%bc%8c%e4%bd%a0%e7%9a%84%e7%ac%94%e8%ae%b0%e6%9c%ac%e5%b0%b1%e8%83%bd%e8%b7%91fable-5/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "刚刚，DeepMind经典巨作再封神！ICML 2026大奖公布",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102817/%e5%88%9a%e5%88%9a%ef%bc%8cdeepmind%e7%bb%8f%e5%85%b8%e5%b7%a8%e4%bd%9c%e5%86%8d%e5%b0%81%e7%a5%9e%ef%bc%81icml-2026%e5%a4%a7%e5%a5%96%e5%85%ac%e5%b8%83/",
-      "publishedAt": "2026-07-07T00:02:06.000Z",
+      "title": "Reddit一张神图疯传！2年后，你的笔记本就能跑Fable 5",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/103015/reddit%e4%b8%80%e5%bc%a0%e7%a5%9e%e5%9b%be%e7%96%af%e4%bc%a0%ef%bc%812%e5%b9%b4%e5%90%8e%ef%bc%8c%e4%bd%a0%e7%9a%84%e7%ac%94%e8%ae%b0%e6%9c%ac%e5%b0%b1%e8%83%bd%e8%b7%91fable-5/",
+      "publishedAt": "2026-07-08T00:02:39.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102792/%e8%b0%b7%e6%ad%8c%e5%a4%a7%e4%bd%ac%e7%9b%9b%e8%b5%9efable-5%ef%bc%8123%e5%b9%b4%e5%89%8dpc%e7%a5%9e%e4%bd%9c%ef%bc%8c40%e5%88%86%e9%92%9f%e5%a1%9e%e8%bf%9biphone/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/103003/%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e7%a9%ba%e9%97%b4%e8%a7%86%e8%a7%89%e6%ad%bb%e7%a9%b4%ef%bc%8c%e7%bb%88%e4%ba%8e%e8%a2%ab%e6%9c%80%e6%96%b0%e9%a1%b6%e4%bc%9a%e5%bd%bb%e5%ba%95%e8%a7%a3%e5%86%b3/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "谷歌大佬盛赞Fable 5！23年前PC神作，40分钟塞进iPhone",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102792/%e8%b0%b7%e6%ad%8c%e5%a4%a7%e4%bd%ac%e7%9b%9b%e8%b5%9efable-5%ef%bc%8123%e5%b9%b4%e5%89%8dpc%e7%a5%9e%e4%bd%9c%ef%bc%8c40%e5%88%86%e9%92%9f%e5%a1%9e%e8%bf%9biphone/",
-      "publishedAt": "2026-07-07T00:01:48.000Z",
+      "title": "具身智能空间视觉死穴，终于被最新顶会彻底解决！",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/103003/%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e7%a9%ba%e9%97%b4%e8%a7%86%e8%a7%89%e6%ad%bb%e7%a9%b4%ef%bc%8c%e7%bb%88%e4%ba%8e%e8%a2%ab%e6%9c%80%e6%96%b0%e9%a1%b6%e4%bc%9a%e5%bd%bb%e5%ba%95%e8%a7%a3%e5%86%b3/",
+      "publishedAt": "2026-07-08T00:02:24.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102777/%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%9c%8b%e8%a7%86%e9%a2%91%e5%ad%a6%e6%93%8d%e4%bd%9c%ef%bc%81%e4%bc%af%e5%85%8b%e5%88%a9%e9%a6%96%e6%ac%a1%e6%89%93%e9%80%9a%e4%ba%92%e8%81%94%e7%bd%91%e8%a7%86%e9%a2%91/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/102986/12%e9%a1%b9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%ef%bc%81%e5%9b%bd%e4%ba%a7%e5%9f%ba%e6%a8%a1%e4%b8%80%e6%88%98%e5%b0%81%e7%a5%9e%ef%bc%8c11%e4%ba%bf%e5%8f%82%e6%95%b0%e9%80%86%e8%a2%ad70%e4%ba%bf/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "机器人看视频学操作！伯克利首次打通互联网视频到灵巧手真机部署链路",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102777/%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%9c%8b%e8%a7%86%e9%a2%91%e5%ad%a6%e6%93%8d%e4%bd%9c%ef%bc%81%e4%bc%af%e5%85%8b%e5%88%a9%e9%a6%96%e6%ac%a1%e6%89%93%e9%80%9a%e4%ba%92%e8%81%94%e7%bd%91%e8%a7%86%e9%a2%91/",
-      "publishedAt": "2026-07-07T00:01:37.000Z",
+      "title": "12项世界第一！国产基模一战封神，11亿参数逆袭70亿大魔王",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/102986/12%e9%a1%b9%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%ef%bc%81%e5%9b%bd%e4%ba%a7%e5%9f%ba%e6%a8%a1%e4%b8%80%e6%88%98%e5%b0%81%e7%a5%9e%ef%bc%8c11%e4%ba%bf%e5%8f%82%e6%95%b0%e9%80%86%e8%a2%ad70%e4%ba%bf/",
+      "publishedAt": "2026-07-08T00:02:10.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102760/%e6%9d%8e%e9%a3%9e%e9%a3%9elecun%e7%96%af%e7%8b%82%e5%8a%a0%e6%b3%a8%ef%bc%81%e8%bf%99%e5%8c%b9%e4%b8%ad%e5%9b%bd%e9%bb%91%e9%a9%ac%ef%bc%8c%e5%b7%b2%e5%9c%a8%e5%9b%a0%e6%9e%9cai%e6%9a%97%e6%88%986/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/102959/fable-5%e6%89%8b%e6%90%93%e9%a6%96%e4%b8%aacuda%e3%80%8c%e8%b6%85%e7%ba%a7%e5%86%85%e6%a0%b8%e3%80%8d%ef%bc%812-5%e5%b0%8f%e6%97%b6%e7%8b%82%e9%a3%9918-7%e5%80%8d/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "李飞飞LeCun疯狂加注！这匹中国黑马，已在因果AI暗战6年",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102760/%e6%9d%8e%e9%a3%9e%e9%a3%9elecun%e7%96%af%e7%8b%82%e5%8a%a0%e6%b3%a8%ef%bc%81%e8%bf%99%e5%8c%b9%e4%b8%ad%e5%9b%bd%e9%bb%91%e9%a9%ac%ef%bc%8c%e5%b7%b2%e5%9c%a8%e5%9b%a0%e6%9e%9cai%e6%9a%97%e6%88%986/",
-      "publishedAt": "2026-07-07T00:01:24.000Z",
+      "title": "Fable 5手搓首个CUDA「超级内核」！2.5小时狂飙18.7倍",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/102959/fable-5%e6%89%8b%e6%90%93%e9%a6%96%e4%b8%aacuda%e3%80%8c%e8%b6%85%e7%ba%a7%e5%86%85%e6%a0%b8%e3%80%8d%ef%bc%812-5%e5%b0%8f%e6%97%b6%e7%8b%82%e9%a3%9918-7%e5%80%8d/",
+      "publishedAt": "2026-07-08T00:01:49.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/07/other/admin/102746/ai%e6%8a%98%e5%8f%a0%ef%bc%81fable-5%e5%92%8cgpt-5-6%ef%bc%8c%e6%ad%a3%e6%b2%a6%e4%b8%ba%e5%b0%91%e6%95%b0%e4%ba%ba%e7%9a%84%e7%89%b9%e6%9d%83/",
+      "id": "aiera-news:https://aiera.com.cn/2026/07/08/other/admin/102938/openai%e5%81%9a%e4%b8%8d%e5%87%ba%e7%9a%84%e3%80%8c%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%a7%81%e6%95%99%e3%80%8d%ef%bc%81ai%e9%87%8d%e6%9e%84%e4%b8%8d%e5%8f%af%e8%83%bd%e4%b8%89%e8%a7%92%ef%bc%8c%e5%ad%a6/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "AI折叠！Fable 5和GPT",
-      "url": "https://aiera.com.cn/2026/07/07/other/admin/102746/ai%e6%8a%98%e5%8f%a0%ef%bc%81fable-5%e5%92%8cgpt-5-6%ef%bc%8c%e6%ad%a3%e6%b2%a6%e4%b8%ba%e5%b0%91%e6%95%b0%e4%ba%ba%e7%9a%84%e7%89%b9%e6%9d%83/",
-      "publishedAt": "2026-07-07T00:01:10.000Z",
+      "title": "OpenAI做不出的「中国式私教」！AI重构不可能三角，学而思超级大招",
+      "url": "https://aiera.com.cn/2026/07/08/other/admin/102938/openai%e5%81%9a%e4%b8%8d%e5%87%ba%e7%9a%84%e3%80%8c%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%a7%81%e6%95%99%e3%80%8d%ef%bc%81ai%e9%87%8d%e6%9e%84%e4%b8%8d%e5%8f%af%e8%83%bd%e4%b8%89%e8%a7%92%ef%bc%8c%e5%ad%a6/",
+      "publishedAt": "2026-07-08T00:01:31.000Z",
       "excerpt": "",
       "content": ""
     }
   ],
   "stats": {
-    "totalItems": 16,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 16
+      "tech_news": 8
     }
-  }
+  },
+  "errors": [
+    "量子位: fetch failed"
+  ]
 }
