@@ -1,135 +1,190 @@
 {
-  "generatedAt": "2026-07-12T08:11:02.247Z",
+  "generatedAt": "2026-07-13T09:19:01.846Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/447981.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/449150.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-      "url": "https://www.qbitai.com/2026/07/447981.html",
-      "publishedAt": "2026-07-12T01:37:11.000Z",
-      "excerpt": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
-      "content": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了"
+      "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+      "url": "https://www.qbitai.com/2026/07/449150.html",
+      "publishedAt": "2026-07-13T08:28:04.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/447914.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/449005.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-      "url": "https://www.qbitai.com/2026/07/447914.html",
-      "publishedAt": "2026-07-12T01:14:50.000Z",
-      "excerpt": "为了帮你看清具身数据行业，我们总结了以下十个行业现状",
-      "content": "为了帮你看清具身数据行业，我们总结了以下十个行业现状"
+      "title": "问界母公司突发亏损预警！一季度还在盈利",
+      "url": "https://www.qbitai.com/2026/07/449005.html",
+      "publishedAt": "2026-07-13T08:17:28.000Z",
+      "excerpt": "原材料涨价不是唯一原因",
+      "content": "原材料涨价不是唯一原因"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103571/%e4%b8%8a%e7%ba%bf%e5%87%a0%e5%b0%8f%e6%97%b6%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8bgrok-4-5%e8%a2%ab%e6%94%bb%e7%a0%b4%ef%bc%811-5%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%e9%98%b2%e7%ba%bf%e5%85%a8%e5%a4%b1/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "上线几小时，马斯克Grok 4.5被攻破！1.5万亿参数防线全失守",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103571/%e4%b8%8a%e7%ba%bf%e5%87%a0%e5%b0%8f%e6%97%b6%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8bgrok-4-5%e8%a2%ab%e6%94%bb%e7%a0%b4%ef%bc%811-5%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%e9%98%b2%e7%ba%bf%e5%85%a8%e5%a4%b1/",
-      "publishedAt": "2026-07-12T00:01:51.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103556/claude-code%e5%a4%a7%e5%8d%87%e7%ba%a7%ef%bc%81%e4%b8%80%e8%a1%8c%e7%a5%9e%e7%ba%a7%e5%91%bd%e4%bb%a4%ef%bc%8c%e7%bc%96%e7%a8%8b%e5%8e%9f%e5%9c%b0%e8%b5%b7%e9%a3%9e/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Claude Code大升级！一行神级命令，编程原地起飞",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103556/claude-code%e5%a4%a7%e5%8d%87%e7%ba%a7%ef%bc%81%e4%b8%80%e8%a1%8c%e7%a5%9e%e7%ba%a7%e5%91%bd%e4%bb%a4%ef%bc%8c%e7%bc%96%e7%a8%8b%e5%8e%9f%e5%9c%b0%e8%b5%b7%e9%a3%9e/",
-      "publishedAt": "2026-07-12T00:01:41.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103544/%e4%b8%ad%e5%9b%bd%e7%94%a8%e5%8d%81%e4%b8%87%e5%8d%a1%e5%ae%9a%e4%b9%89%e4%b8%8b%e4%b8%80%e4%bb%a3ai%e5%9f%ba%e5%bb%ba%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "中国用十万卡定义下一代AI基建！",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103544/%e4%b8%ad%e5%9b%bd%e7%94%a8%e5%8d%81%e4%b8%87%e5%8d%a1%e5%ae%9a%e4%b9%89%e4%b8%8b%e4%b8%80%e4%bb%a3ai%e5%9f%ba%e5%bb%ba%ef%bc%81/",
-      "publishedAt": "2026-07-12T00:01:31.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103535/%e5%85%a8%e7%90%83%e5%8a%9e%e5%85%acai%e7%8e%8b%e5%ba%a7%e6%98%93%e4%b8%bb%ef%bc%81gpt-5-6%e6%8e%a5%e7%ae%a1%e5%be%ae%e8%bd%af%e5%85%a8%e5%ae%b6%e6%a1%b6%ef%bc%8c%e6%95%b0%e4%ba%bf%e6%89%93%e5%b7%a5/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "全球办公AI王座易主！GPT",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103535/%e5%85%a8%e7%90%83%e5%8a%9e%e5%85%acai%e7%8e%8b%e5%ba%a7%e6%98%93%e4%b8%bb%ef%bc%81gpt-5-6%e6%8e%a5%e7%ae%a1%e5%be%ae%e8%bd%af%e5%85%a8%e5%ae%b6%e6%a1%b6%ef%bc%8c%e6%95%b0%e4%ba%bf%e6%89%93%e5%b7%a5/",
-      "publishedAt": "2026-07-12T00:01:21.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103516/%e8%b0%b7%e6%ad%8cgemma-4%e8%ae%ba%e6%96%87%e6%b7%b1%e5%a4%9c%e8%a7%a3%e5%b0%81%ef%bc%8131b%e7%9b%b4%e9%80%bc%e9%97%ad%e6%ba%90%e5%89%8d%e6%b2%bf%ef%bc%8c%e6%95%b2%e5%93%8d%e4%ba%91%e7%ab%afai/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "谷歌Gemma 4论文深夜解封！31B直逼闭源前沿，敲响云端AI丧钟",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103516/%e8%b0%b7%e6%ad%8cgemma-4%e8%ae%ba%e6%96%87%e6%b7%b1%e5%a4%9c%e8%a7%a3%e5%b0%81%ef%bc%8131b%e7%9b%b4%e9%80%bc%e9%97%ad%e6%ba%90%e5%89%8d%e6%b2%bf%ef%bc%8c%e6%95%b2%e5%93%8d%e4%ba%91%e7%ab%afai/",
-      "publishedAt": "2026-07-12T00:01:08.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103501/openai%e5%a5%b3ceo%e8%b5%b0%e4%ba%86%ef%bc%817%e5%b9%b4%e7%97%85%e6%83%85%e7%bb%88%e6%81%b6%e5%8c%96%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e5%a4%aa%e7%97%9b%e5%bf%83/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "OpenAI女CEO走了！7年病情终恶化，奥特曼：太痛心",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103501/openai%e5%a5%b3ceo%e8%b5%b0%e4%ba%86%ef%bc%817%e5%b9%b4%e7%97%85%e6%83%85%e7%bb%88%e6%81%b6%e5%8c%96%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e5%a4%aa%e7%97%9b%e5%bf%83/",
-      "publishedAt": "2026-07-12T00:00:57.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103484/%e5%ae%9e%e9%94%a4%ef%bc%81claude-code%e5%8d%b1%e5%ae%b3%e4%b8%a5%e9%87%8d%e8%a2%ab%e7%82%b9%e5%90%8d/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "实锤！Claude Code危害严重被点名",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103484/%e5%ae%9e%e9%94%a4%ef%bc%81claude-code%e5%8d%b1%e5%ae%b3%e4%b8%a5%e9%87%8d%e8%a2%ab%e7%82%b9%e5%90%8d/",
-      "publishedAt": "2026-07-12T00:00:43.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/07/12/other/admin/103466/gpt-5-6%e8%a2%ab%e6%9b%9d%e9%87%8d%e5%a4%a7bug%ef%bc%81%e7%a1%85%e8%b0%b7%e5%a4%a7%e4%bd%acmac%e8%a2%ab%e4%b8%80%e9%94%ae%e6%b8%85%e7%a9%ba/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "GPT",
-      "url": "https://aiera.com.cn/2026/07/12/other/admin/103466/gpt-5-6%e8%a2%ab%e6%9b%9d%e9%87%8d%e5%a4%a7bug%ef%bc%81%e7%a1%85%e8%b0%b7%e5%a4%a7%e4%bd%acmac%e8%a2%ab%e4%b8%80%e9%94%ae%e6%b8%85%e7%a9%ba/",
-      "publishedAt": "2026-07-12T00:00:27.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/07/447902.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/448923.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447902.html",
-      "publishedAt": "2026-07-11T10:07:17.000Z",
-      "excerpt": "已跑通300余项应用",
-      "content": "已跑通300余项应用"
+      "title": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
+      "url": "https://www.qbitai.com/2026/07/448923.html",
+      "publishedAt": "2026-07-13T07:00:18.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/448925.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+      "url": "https://www.qbitai.com/2026/07/448925.html",
+      "publishedAt": "2026-07-13T06:53:56.000Z",
+      "excerpt": "最新开源两大安全框架",
+      "content": "最新开源两大安全框架"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/448825.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
+      "url": "https://www.qbitai.com/2026/07/448825.html",
+      "publishedAt": "2026-07-13T06:10:36.000Z",
+      "excerpt": "两年内走的第六个",
+      "content": "两年内走的第六个"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/448824.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
+      "url": "https://www.qbitai.com/2026/07/448824.html",
+      "publishedAt": "2026-07-13T06:07:00.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/448820.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "趋境科技完成A轮融资，半年内募资10亿",
+      "url": "https://www.qbitai.com/2026/07/448820.html",
+      "publishedAt": "2026-07-13T05:24:54.000Z",
+      "excerpt": "高品质AI Token生产服务能力获产业和资本的双重认可",
+      "content": "高品质AI Token生产服务能力获产业和资本的双重认可"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/07/448139.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院",
+      "url": "https://www.qbitai.com/2026/07/448139.html",
+      "publishedAt": "2026-07-13T04:54:37.000Z",
+      "excerpt": "有人因为token用不完就连续工作，把自己整医院里去了",
+      "content": "有人因为token用不完就连续工作，把自己整医院里去了"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103710/%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83%e9%bb%84%e4%ba%86%ef%bc%81%e7%be%8e%e5%9b%bd%e7%94%b5%e7%bd%91%e5%8d%a1%e4%bd%8fai%ef%bc%8cgobix%e5%9c%a8%e4%b8%ad%e5%9b%bd/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "全球最大数据中心黄了！美国电网卡住AI，GobiX在中国戈壁破局",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103710/%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83%e9%bb%84%e4%ba%86%ef%bc%81%e7%be%8e%e5%9b%bd%e7%94%b5%e7%bd%91%e5%8d%a1%e4%bd%8fai%ef%bc%8cgobix%e5%9c%a8%e4%b8%ad%e5%9b%bd/",
+      "publishedAt": "2026-07-13T00:02:06.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103694/%e5%85%a8%e7%bd%91%e9%aa%82claude%e5%8f%98%e7%ac%a8%ef%bc%8canthropic%e4%b8%8b%e5%9c%ba%e6%8f%ad%e7%a7%98%ef%bc%9a%e5%9d%91%e4%bd%a0%e7%9a%84%e4%b8%8d%e6%98%af%e6%a8%a1%e5%9e%8b/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103694/%e5%85%a8%e7%bd%91%e9%aa%82claude%e5%8f%98%e7%ac%a8%ef%bc%8canthropic%e4%b8%8b%e5%9c%ba%e6%8f%ad%e7%a7%98%ef%bc%9a%e5%9d%91%e4%bd%a0%e7%9a%84%e4%b8%8d%e6%98%af%e6%a8%a1%e5%9e%8b/",
+      "publishedAt": "2026-07-13T00:01:53.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103682/%e7%bb%99%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93llm%e8%a3%85%e4%b8%8a%e3%80%8c%e5%9b%be%e8%ae%b0%e5%bf%86%e5%b7%a5%e4%bd%9c%e6%b5%81%e8%b7%af%e7%94%b1%e5%99%a8%e3%80%8d%ef%bc%8c%e6%90%9e%e5%ae%9a/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "给多智能体LLM装上「图记忆工作流路由器」，搞定调用、协作规划",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103682/%e7%bb%99%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93llm%e8%a3%85%e4%b8%8a%e3%80%8c%e5%9b%be%e8%ae%b0%e5%bf%86%e5%b7%a5%e4%bd%9c%e6%b5%81%e8%b7%af%e7%94%b1%e5%99%a8%e3%80%8d%ef%bc%8c%e6%90%9e%e5%ae%9a/",
+      "publishedAt": "2026-07-13T00:01:44.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103666/%e5%94%90%e6%9d%b0%e5%86%85%e9%83%a8%e4%bf%a1%e6%9b%9d%e5%85%89%ef%bc%9a%e4%b8%a4%e5%b9%b4%e6%ad%bb%e7%a3%95asi%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "唐杰内部信曝光：两年死磕ASI！",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103666/%e5%94%90%e6%9d%b0%e5%86%85%e9%83%a8%e4%bf%a1%e6%9b%9d%e5%85%89%ef%bc%9a%e4%b8%a4%e5%b9%b4%e6%ad%bb%e7%a3%95asi%ef%bc%81/",
+      "publishedAt": "2026-07-13T00:01:28.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103653/ai%e6%89%93%e5%b7%a5%e5%a4%a7%e6%8e%92%e8%a1%8c%ef%bc%9aclaude-fable-5%e8%87%aa%e5%8a%a8%e8%b5%9a%e9%92%b1%e7%9a%84%e8%83%bd%e5%8a%9b%ef%bc%8c%e6%98%afgpt-5-5%e7%9a%842-5%e5%80%8d/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103653/ai%e6%89%93%e5%b7%a5%e5%a4%a7%e6%8e%92%e8%a1%8c%ef%bc%9aclaude-fable-5%e8%87%aa%e5%8a%a8%e8%b5%9a%e9%92%b1%e7%9a%84%e8%83%bd%e5%8a%9b%ef%bc%8c%e6%98%afgpt-5-5%e7%9a%842-5%e5%80%8d/",
+      "publishedAt": "2026-07-13T00:01:09.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103637/%e6%88%91%e7%9c%8b%e9%94%99%e4%ba%86anthropic%ef%bc%81%e9%aa%82%e4%ba%86%e5%a4%a7%e5%8d%8a%e5%b9%b4%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e7%aa%81%e7%84%b6%e6%94%b9%e5%8f%a3/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "我看错了Anthropic！骂了大半年，马斯克突然改口",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103637/%e6%88%91%e7%9c%8b%e9%94%99%e4%ba%86anthropic%ef%bc%81%e9%aa%82%e4%ba%86%e5%a4%a7%e5%8d%8a%e5%b9%b4%ef%bc%8c%e9%a9%ac%e6%96%af%e5%85%8b%e7%aa%81%e7%84%b6%e6%94%b9%e5%8f%a3/",
+      "publishedAt": "2026-07-13T00:00:55.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103626/%e7%a5%9e%e7%a7%98opus-5%e6%84%8f%e5%a4%96%e6%9b%9d%e5%85%89%ef%bc%81%e8%be%be%e9%87%8c%e5%a5%a5%e7%b4%a7%e6%80%a5%e5%bc%80%e4%bc%9a/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "神秘Opus 5意外曝光！达里奥紧急开会",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103626/%e7%a5%9e%e7%a7%98opus-5%e6%84%8f%e5%a4%96%e6%9b%9d%e5%85%89%ef%bc%81%e8%be%be%e9%87%8c%e5%a5%a5%e7%b4%a7%e6%80%a5%e5%bc%80%e4%bc%9a/",
+      "publishedAt": "2026-07-13T00:00:44.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/07/13/other/admin/103606/%e6%9c%80%e5%80%92%e9%9c%89%e7%9a%84%e4%ba%ba%ef%bc%9aapi%e9%9b%b6%e8%b0%83%e7%94%a8%ef%bc%8c%e8%a2%abanthropic%e5%81%b7%e5%81%b7%e6%89%a3%e8%b4%b91%e4%ba%bf%e5%85%83/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "最倒霉的人：API零调用，被Anthropic偷偷扣费1亿元",
+      "url": "https://aiera.com.cn/2026/07/13/other/admin/103606/%e6%9c%80%e5%80%92%e9%9c%89%e7%9a%84%e4%ba%ba%ef%bc%9aapi%e9%9b%b6%e8%b0%83%e7%94%a8%ef%bc%8c%e8%a2%abanthropic%e5%81%b7%e5%81%b7%e6%89%a3%e8%b4%b91%e4%ba%bf%e5%85%83/",
+      "publishedAt": "2026-07-13T00:00:29.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 11,
+    "totalItems": 16,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 11
+      "tech_news": 16
     }
   }
 }
