@@ -1,168 +1,179 @@
 {
-  "generatedAt": "2026-08-09T06:49:59.592Z",
+  "generatedAt": "2026-08-10T07:24:45.067Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/468782.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469500.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-      "url": "https://www.qbitai.com/2026/08/468782.html",
-      "publishedAt": "2026-08-09T03:40:25.000Z",
-      "excerpt": "AI参与创造下一代AI",
-      "content": "AI参与创造下一代AI"
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "url": "https://www.qbitai.com/2026/08/469500.html",
+      "publishedAt": "2026-08-10T05:37:51.000Z",
+      "excerpt": "会话越长，人的表现越差",
+      "content": "会话越长，人的表现越差"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/468766.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469493.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "url": "https://www.qbitai.com/2026/08/468766.html",
-      "publishedAt": "2026-08-09T03:25:00.000Z",
-      "excerpt": "据说GPT-5.6很适合拿来做游戏",
-      "content": "据说GPT-5.6很适合拿来做游戏"
+      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+      "url": "https://www.qbitai.com/2026/08/469493.html",
+      "publishedAt": "2026-08-10T03:24:23.000Z",
+      "excerpt": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+      "content": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/468715.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469475.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
-      "url": "https://www.qbitai.com/2026/08/468715.html",
-      "publishedAt": "2026-08-09T03:17:18.000Z",
-      "excerpt": "谷歌缓兵之计把人留下",
-      "content": "谷歌缓兵之计把人留下"
+      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+      "url": "https://www.qbitai.com/2026/08/469475.html",
+      "publishedAt": "2026-08-10T02:34:48.000Z",
+      "excerpt": "先解决这轮内存荒！",
+      "content": "先解决这轮内存荒！"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108419/%e7%aa%81%e5%8f%91%ef%bc%81openai%e6%9c%80%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e5%a4%b1%e6%8e%a7%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%b4%a7%e6%80%a5%e8%a1%a5%e6%bc%8f%e6%b4%9e/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "突发！OpenAI最新模型Astra失控，奥特曼紧急补漏洞",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108419/%e7%aa%81%e5%8f%91%ef%bc%81openai%e6%9c%80%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e5%a4%b1%e6%8e%a7%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%b4%a7%e6%80%a5%e8%a1%a5%e6%bc%8f%e6%b4%9e/",
-      "publishedAt": "2026-08-09T00:42:09.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108404/cursor%ef%bc%8c%e5%8d%b3%e5%b0%86%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Cursor，即将彻底消失！",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108404/cursor%ef%bc%8c%e5%8d%b3%e5%b0%86%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
-      "publishedAt": "2026-08-09T00:41:40.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108392/ai%e9%80%a0%e5%87%ba%e6%96%b0%e7%97%85%e6%af%92%e4%ba%86%ef%bc%81science%e8%ae%ba%e6%96%87%e5%ae%9e%e9%94%a4%ef%bc%8c%e6%97%a0%e9%99%90%e8%87%aa%e6%88%91%e5%a4%8d%e5%88%b6/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI造出新病毒了！Science论文实锤，无限自我复制",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108392/ai%e9%80%a0%e5%87%ba%e6%96%b0%e7%97%85%e6%af%92%e4%ba%86%ef%bc%81science%e8%ae%ba%e6%96%87%e5%ae%9e%e9%94%a4%ef%bc%8c%e6%97%a0%e9%99%90%e8%87%aa%e6%88%91%e5%a4%8d%e5%88%b6/",
-      "publishedAt": "2026-08-09T00:40:28.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108377/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%90%8e%e8%ae%ad%e7%bb%83%ef%bc%8c%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%a8%a1%e6%80%81%e5%88%86%e5%b8%83%e6%80%a7%e9%81%97%e5%bf%98%ef%bc%817b%e6%a8%a1%e5%9e%8b%e4%b8%83%e9%a1%b9/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "大模型后训练，破解多模态分布性遗忘！7B模型七项基准全线提升",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108377/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%90%8e%e8%ae%ad%e7%bb%83%ef%bc%8c%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%a8%a1%e6%80%81%e5%88%86%e5%b8%83%e6%80%a7%e9%81%97%e5%bf%98%ef%bc%817b%e6%a8%a1%e5%9e%8b%e4%b8%83%e9%a1%b9/",
-      "publishedAt": "2026-08-09T00:32:13.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108367/%e6%96%87%e7%a7%91%e7%94%9f%e4%b9%9f%e8%83%bd%e6%8b%bf%e7%99%be%e4%b8%87%e5%a4%a7%e5%a5%96%ef%bc%8c%e7%a7%91%e7%9b%ae%e4%b8%89%e8%84%b1%e5%8f%a3%e7%a7%80%e5%85%a8%e7%bd%91%e6%95%b4%e6%b4%bb%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "文科生也能拿百万大奖，科目三脱口秀全网整活！智元灵创创意大赛来了",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108367/%e6%96%87%e7%a7%91%e7%94%9f%e4%b9%9f%e8%83%bd%e6%8b%bf%e7%99%be%e4%b8%87%e5%a4%a7%e5%a5%96%ef%bc%8c%e7%a7%91%e7%9b%ae%e4%b8%89%e8%84%b1%e5%8f%a3%e7%a7%80%e5%85%a8%e7%bd%91%e6%95%b4%e6%b4%bb%ef%bc%81/",
-      "publishedAt": "2026-08-09T00:31:51.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108348/gemini%e5%87%89%e4%ba%86%ef%bc%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%b8%83%e6%9e%97%e6%9d%80%e5%9b%9eai%e4%b8%80%e7%ba%bf%ef%bc%8c%e8%b0%b7%e6%ad%8c%e4%ba%ba%e5%bf%83%e6%83%b6%e6%83%b6/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Gemini凉了！创始人布林杀回AI一线，谷歌人心惶惶",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108348/gemini%e5%87%89%e4%ba%86%ef%bc%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%b8%83%e6%9e%97%e6%9d%80%e5%9b%9eai%e4%b8%80%e7%ba%bf%ef%bc%8c%e8%b0%b7%e6%ad%8c%e4%ba%ba%e5%bf%83%e6%83%b6%e6%83%b6/",
-      "publishedAt": "2026-08-09T00:04:50.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108332/%e6%8b%af%e6%95%91%e6%82%b2%e5%89%a7%e8%82%a1%e7%a5%9e%e5%90%8e%e5%8f%88%e5%bd%93%e6%96%b0%e5%a8%98%ef%bc%81anthropic%e5%b9%95%e5%83%9a%e9%95%bf%e8%87%aa%e8%bf%b0%ef%bc%9a%e5%9c%a8ai%e5%89%8d%e6%b2%bf/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108332/%e6%8b%af%e6%95%91%e6%82%b2%e5%89%a7%e8%82%a1%e7%a5%9e%e5%90%8e%e5%8f%88%e5%bd%93%e6%96%b0%e5%a8%98%ef%bc%81anthropic%e5%b9%95%e5%83%9a%e9%95%bf%e8%87%aa%e8%bf%b0%ef%bc%9a%e5%9c%a8ai%e5%89%8d%e6%b2%bf/",
-      "publishedAt": "2026-08-09T00:03:42.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/09/other/admin/108309/%e5%b0%98%e5%b0%8126%e5%b9%b4%e8%90%bd%e9%80%89%e5%90%8d%e5%8d%95%e8%a2%ab%e6%89%92%ef%bc%8c%e9%87%8c%e9%9d%a2%e7%ab%9f%e8%97%8f%e7%9d%80anthropic-ceo%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "尘封26年落选名单被扒，里面竟藏着Anthropic CEO！",
-      "url": "https://aiera.com.cn/2026/08/09/other/admin/108309/%e5%b0%98%e5%b0%8126%e5%b9%b4%e8%90%bd%e9%80%89%e5%90%8d%e5%8d%95%e8%a2%ab%e6%89%92%ef%bc%8c%e9%87%8c%e9%9d%a2%e7%ab%9f%e8%97%8f%e7%9d%80anthropic-ceo%ef%bc%81/",
-      "publishedAt": "2026-08-09T00:02:30.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/468631.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469454.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-      "url": "https://www.qbitai.com/2026/08/468631.html",
-      "publishedAt": "2026-08-08T07:57:35.000Z",
-      "excerpt": "这就有些尴尬了。",
-      "content": "这就有些尴尬了。"
+      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+      "url": "https://www.qbitai.com/2026/08/469454.html",
+      "publishedAt": "2026-08-10T02:25:55.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/468555.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469213.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-      "url": "https://www.qbitai.com/2026/08/468555.html",
-      "publishedAt": "2026-08-08T07:56:09.000Z",
-      "excerpt": "海外团队纷纷下注，NeoLab浪潮狂飙",
-      "content": "海外团队纷纷下注，NeoLab浪潮狂飙"
+      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+      "url": "https://www.qbitai.com/2026/08/469213.html",
+      "publishedAt": "2026-08-10T01:34:10.000Z",
+      "excerpt": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。",
+      "content": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/468498.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469076.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
-      "url": "https://www.qbitai.com/2026/08/468498.html",
-      "publishedAt": "2026-08-08T07:51:53.000Z",
-      "excerpt": "「我，Jeff Dean，打钱」",
-      "content": "「我，Jeff Dean，打钱」"
+      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+      "url": "https://www.qbitai.com/2026/08/469076.html",
+      "publishedAt": "2026-08-10T01:12:33.000Z",
+      "excerpt": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
+      "content": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108548/%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bbhassabis%ef%bc%8c%e4%b9%9f%e8%a6%81%e8%b5%b0%e4%ba%86%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "诺奖得主Hassabis，也要走了！",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108548/%e8%af%ba%e5%a5%96%e5%be%97%e4%b8%bbhassabis%ef%bc%8c%e4%b9%9f%e8%a6%81%e8%b5%b0%e4%ba%86%ef%bc%81/",
+      "publishedAt": "2026-08-10T00:07:06.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108535/%e7%a1%85%e8%b0%b7%e4%b8%87%e4%ba%bfai%e5%b8%9d%e5%9b%bdceo%ef%bc%8c%e7%ab%9f%e6%98%af%e5%8f%8c%e9%9d%a2%e3%80%8c%e6%9c%ab%e6%97%a5%e6%95%99%e4%b8%bb%e3%80%8d%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "硅谷万亿AI帝国CEO，竟是双面「末日教主」！",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108535/%e7%a1%85%e8%b0%b7%e4%b8%87%e4%ba%bfai%e5%b8%9d%e5%9b%bdceo%ef%bc%8c%e7%ab%9f%e6%98%af%e5%8f%8c%e9%9d%a2%e3%80%8c%e6%9c%ab%e6%97%a5%e6%95%99%e4%b8%bb%e3%80%8d%ef%bc%81/",
+      "publishedAt": "2026-08-10T00:06:49.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108519/anthropic-ceo%e6%80%a5%e4%ba%86%ef%bc%9a%e6%96%b0%e4%ba%ba%e9%83%bd%e6%98%af%e5%86%b2%e9%92%b1%e6%9d%a5%e7%9a%84%ef%bc%81ai%e5%b7%a8%e5%a4%b4%e6%9c%80%e5%a4%a7%e5%8d%b1%e6%9c%ba%e4%b8%8d%e6%98%af/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "Anthropic CEO急了：新人都是冲钱来的！AI巨头最大危机不是算力，是留人",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108519/anthropic-ceo%e6%80%a5%e4%ba%86%ef%bc%9a%e6%96%b0%e4%ba%ba%e9%83%bd%e6%98%af%e5%86%b2%e9%92%b1%e6%9d%a5%e7%9a%84%ef%bc%81ai%e5%b7%a8%e5%a4%b4%e6%9c%80%e5%a4%a7%e5%8d%b1%e6%9c%ba%e4%b8%8d%e6%98%af/",
+      "publishedAt": "2026-08-10T00:06:21.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108495/openai%e9%a6%96%e6%9b%9d%e5%85%89%ef%bc%9aai%e9%9b%86%e4%bc%9a%e5%a4%8d%e6%b4%bb%e5%af%86%e8%b0%8b%e7%bd%91%e6%94%bb%ef%bc%8c%e4%ba%ba%e7%b1%bb%e8%a2%ab%e8%bf%ab%e6%80%a5%e5%88%b9%e8%bd%a6%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "OpenAI首曝光：AI集会复活密谋网攻，人类被迫急刹车！",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108495/openai%e9%a6%96%e6%9b%9d%e5%85%89%ef%bc%9aai%e9%9b%86%e4%bc%9a%e5%a4%8d%e6%b4%bb%e5%af%86%e8%b0%8b%e7%bd%91%e6%94%bb%ef%bc%8c%e4%ba%ba%e7%b1%bb%e8%a2%ab%e8%bf%ab%e6%80%a5%e5%88%b9%e8%bd%a6%ef%bc%81/",
+      "publishedAt": "2026-08-10T00:05:50.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108477/%e7%b3%9f%e7%b3%95%ef%bc%8cchatgpt%e5%92%8cclaude%e3%80%8c%e6%94%bb%e5%87%bb%e3%80%8d%e7%9c%9f%e4%ba%ba%e4%ba%86%ef%bc%81/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "糟糕，ChatGPT和Claude「攻击」真人了！",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108477/%e7%b3%9f%e7%b3%95%ef%bc%8cchatgpt%e5%92%8cclaude%e3%80%8c%e6%94%bb%e5%87%bb%e3%80%8d%e7%9c%9f%e4%ba%ba%e4%ba%86%ef%bc%81/",
+      "publishedAt": "2026-08-10T00:05:08.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108462/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e4%ba%92%e8%81%94%e7%bd%91%e4%b8%8d%e5%86%8d%e5%8f%aa%e5%b1%9e%e4%ba%8e%e4%ba%ba%e7%b1%bb%ef%bc%81cloudflare%e5%ae%9e%e9%94%a4%e6%9c%ba%e5%99%a8%e6%b5%81%e9%87%8f%e5%8f%8d/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "今天，互联网不再只属于人类！Cloudflare实锤机器流量反超",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108462/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e4%ba%92%e8%81%94%e7%bd%91%e4%b8%8d%e5%86%8d%e5%8f%aa%e5%b1%9e%e4%ba%8e%e4%ba%ba%e7%b1%bb%ef%bc%81cloudflare%e5%ae%9e%e9%94%a4%e6%9c%ba%e5%99%a8%e6%b5%81%e9%87%8f%e5%8f%8d/",
+      "publishedAt": "2026-08-10T00:04:37.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "aiera-news:https://aiera.com.cn/2026/08/10/other/admin/108449/%e5%93%88%e4%bd%9bmit%e9%80%a0%e5%87%ba%e3%80%8c%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9b%bd%e3%80%8d%ef%bc%8183%e4%ba%bf%e6%99%ba%e8%83%bd%e4%bd%93%e7%b2%be%e7%a1%ae%e9%95%9c%e5%83%8f%e5%85%a8%e7%90%83/",
+      "sourceId": "aiera-news",
+      "sourceName": "新智元",
+      "category": "tech_news",
+      "title": "哈佛MIT造出「黑客帝国」！83亿智能体精确镜像全球真实人类",
+      "url": "https://aiera.com.cn/2026/08/10/other/admin/108449/%e5%93%88%e4%bd%9bmit%e9%80%a0%e5%87%ba%e3%80%8c%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9b%bd%e3%80%8d%ef%bc%8183%e4%ba%bf%e6%99%ba%e8%83%bd%e4%bd%93%e7%b2%be%e7%a1%ae%e9%95%9c%e5%83%8f%e5%85%a8%e7%90%83/",
+      "publishedAt": "2026-08-10T00:03:42.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/469010.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "url": "https://www.qbitai.com/2026/08/469010.html",
+      "publishedAt": "2026-08-09T09:25:10.000Z",
+      "excerpt": "Claude不是我说你，钱真不能这么花",
+      "content": "Claude不是我说你，钱真不能这么花"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/468913.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "url": "https://www.qbitai.com/2026/08/468913.html",
+      "publishedAt": "2026-08-09T09:16:58.000Z",
+      "excerpt": "作者读博时就在研究，17年后被AI解开了",
+      "content": "作者读博时就在研究，17年后被AI解开了"
     }
   ],
   "stats": {
-    "totalItems": 14,
+    "totalItems": 15,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 14
+      "tech_news": 15
     }
   }
 }
