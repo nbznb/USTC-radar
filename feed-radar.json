@@ -1,212 +1,138 @@
 {
-  "generatedAt": "2026-08-15T06:31:12.970Z",
+  "generatedAt": "2026-08-16T06:33:16.578Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473407.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/473947.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-      "url": "https://www.qbitai.com/2026/08/473407.html",
-      "publishedAt": "2026-08-15T04:21:09.000Z",
-      "excerpt": "1.9万字全文实录",
-      "content": "1.9万字全文实录"
+      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "url": "https://www.qbitai.com/2026/08/473947.html",
+      "publishedAt": "2026-08-16T05:28:42.000Z",
+      "excerpt": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
+      "content": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473395.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
-      "url": "https://www.qbitai.com/2026/08/473395.html",
-      "publishedAt": "2026-08-15T04:03:37.000Z",
-      "excerpt": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
-      "content": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。"
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109218/gpt-5-6%e4%b8%80%e5%a4%9c%e5%88%b7%e6%96%b0ai%e6%99%ba%e8%83%bd%e5%a4%a9%e8%8a%b1%e6%9d%bf%ef%bc%81%e6%9c%80%e5%b0%8f%e6%a8%a1%e5%9e%8b%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d25%e5%80%8d/",
+      "id": "aiera-news:https://aiera.com.cn/2026/08/16/other/admin/109319/388%e4%b8%aapr%e5%85%a8%e9%83%a8ai%e6%93%8d%e5%88%80%ef%bc%8c180%e4%b8%aa%e5%b7%b2%e5%90%88%e5%b9%b6%ef%bc%81claude%e4%b9%8b%e7%88%b6%ef%bc%9a%e7%a8%8b%e5%ba%8f%e5%91%98%e5%8f%aa%e5%89%a9%e4%b8%8b/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "GPT",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109218/gpt-5-6%e4%b8%80%e5%a4%9c%e5%88%b7%e6%96%b0ai%e6%99%ba%e8%83%bd%e5%a4%a9%e8%8a%b1%e6%9d%bf%ef%bc%81%e6%9c%80%e5%b0%8f%e6%a8%a1%e5%9e%8b%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d25%e5%80%8d/",
-      "publishedAt": "2026-08-15T00:01:59.000Z",
+      "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109319/388%e4%b8%aapr%e5%85%a8%e9%83%a8ai%e6%93%8d%e5%88%80%ef%bc%8c180%e4%b8%aa%e5%b7%b2%e5%90%88%e5%b9%b6%ef%bc%81claude%e4%b9%8b%e7%88%b6%ef%bc%9a%e7%a8%8b%e5%ba%8f%e5%91%98%e5%8f%aa%e5%89%a9%e4%b8%8b/",
+      "publishedAt": "2026-08-16T00:02:45.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109207/%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8c%e7%a2%be%e5%8e%8b%e8%b0%b7%e6%ad%8c%ef%bc%81%e4%b8%ad%e5%9b%bd%e7%89%88thinking-machines%e8%af%9e%e7%94%9f%ef%bc%8c%e8%af%ad%e9%9f%b3%e8%b5%9b%e9%81%93/",
+      "id": "aiera-news:https://aiera.com.cn/2026/08/16/other/admin/109307/anthropic%e8%87%aa%e6%9b%9d%e3%80%8c%e7%a7%81%e8%97%8f%e6%a0%b8%e6%ad%a6%e5%99%a8%e3%80%8d%ef%bc%8cmodel-2%e6%af%94mythos-5%e6%9b%b4%e5%bc%ba%ef%bc%81/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109207/%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8c%e7%a2%be%e5%8e%8b%e8%b0%b7%e6%ad%8c%ef%bc%81%e4%b8%ad%e5%9b%bd%e7%89%88thinking-machines%e8%af%9e%e7%94%9f%ef%bc%8c%e8%af%ad%e9%9f%b3%e8%b5%9b%e9%81%93/",
-      "publishedAt": "2026-08-15T00:01:49.000Z",
+      "title": "Anthropic自曝「私藏核武器」，Model 2比Mythos 5更强！",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109307/anthropic%e8%87%aa%e6%9b%9d%e3%80%8c%e7%a7%81%e8%97%8f%e6%a0%b8%e6%ad%a6%e5%99%a8%e3%80%8d%ef%bc%8cmodel-2%e6%af%94mythos-5%e6%9b%b4%e5%bc%ba%ef%bc%81/",
+      "publishedAt": "2026-08-16T00:02:34.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109184/%e8%8b%a6%e7%ad%89%e4%b8%a4%e5%b9%b4%ef%bc%81chatgpt%e6%9d%80%e5%85%a5linux%ef%bc%8ccodex%e4%b8%8a%e6%89%8b%e8%83%bd%e6%94%b9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81/",
+      "id": "aiera-news:https://aiera.com.cn/2026/08/16/other/admin/109288/%e5%88%9a%e5%88%9a%ef%bc%8ccursor%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109184/%e8%8b%a6%e7%ad%89%e4%b8%a4%e5%b9%b4%ef%bc%81chatgpt%e6%9d%80%e5%85%a5linux%ef%bc%8ccodex%e4%b8%8a%e6%89%8b%e8%83%bd%e6%94%b9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81/",
-      "publishedAt": "2026-08-15T00:01:35.000Z",
+      "title": "刚刚，Cursor彻底消失！",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109288/%e5%88%9a%e5%88%9a%ef%bc%8ccursor%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%ef%bc%81/",
+      "publishedAt": "2026-08-16T00:02:18.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109170/gpt-5%e4%b9%9f%e4%bc%9a%e8%af%9d%e5%88%b0%e5%98%b4%e8%be%b9%e6%83%b3%e4%b8%8d%e8%b5%b7%e6%9d%a5%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%b5%8b%e4%ba%86450%e4%b8%87%e6%ac%a1%ef%bc%9a%e9%92%a5%e5%8c%99%e4%b8%a2/",
+      "id": "aiera-news:https://aiera.com.cn/2026/08/16/other/admin/109270/%e5%85%a8%e7%90%83%e7%a8%8b%e5%ba%8f%e5%91%98%e9%83%bd%e5%9c%a8%e7%bb%99anthropic%e7%99%bd%e9%80%81%e9%92%b1%ef%bc%81%e5%ae%98%e6%96%b9%e7%bb%88%e4%ba%8e%e7%9c%8b%e4%b8%8d%e4%b8%8b%e5%8e%bb%e4%ba%86/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "GPT",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109170/gpt-5%e4%b9%9f%e4%bc%9a%e8%af%9d%e5%88%b0%e5%98%b4%e8%be%b9%e6%83%b3%e4%b8%8d%e8%b5%b7%e6%9d%a5%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%b5%8b%e4%ba%86450%e4%b8%87%e6%ac%a1%ef%bc%9a%e9%92%a5%e5%8c%99%e4%b8%a2/",
-      "publishedAt": "2026-08-15T00:01:25.000Z",
+      "title": "全球程序员都在给Anthropic白送钱！官方终于看不下去了",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109270/%e5%85%a8%e7%90%83%e7%a8%8b%e5%ba%8f%e5%91%98%e9%83%bd%e5%9c%a8%e7%bb%99anthropic%e7%99%bd%e9%80%81%e9%92%b1%ef%bc%81%e5%ae%98%e6%96%b9%e7%bb%88%e4%ba%8e%e7%9c%8b%e4%b8%8d%e4%b8%8b%e5%8e%bb%e4%ba%86/",
+      "publishedAt": "2026-08-16T00:02:03.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109158/openai%e6%9b%9d%e3%80%8c%e6%8a%84%e8%a2%ad%e9%97%a8%e3%80%8d%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3gpt%e6%94%bb%e7%a0%b410%e5%a4%a7%e8%8f%b2%e5%a5%96%e9%9a%be%e9%a2%98%e8%a2%ab%e6%89%93%e5%81%87/",
+      "id": "aiera-news:https://aiera.com.cn/2026/08/16/other/admin/109254/openai%e7%a0%94%e7%a9%b6%e5%91%98%ef%bc%9a100%e4%bb%a3%e7%a0%81%e5%b7%b2%e4%ba%a4%e7%bb%99ai%ef%bc%81claude%e9%87%8d%e5%86%99python%e5%ba%93/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "OpenAI曝「抄袭门」！下一代GPT攻破10大菲奖难题被打假",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109158/openai%e6%9b%9d%e3%80%8c%e6%8a%84%e8%a2%ad%e9%97%a8%e3%80%8d%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3gpt%e6%94%bb%e7%a0%b410%e5%a4%a7%e8%8f%b2%e5%a5%96%e9%9a%be%e9%a2%98%e8%a2%ab%e6%89%93%e5%81%87/",
-      "publishedAt": "2026-08-15T00:01:13.000Z",
+      "title": "OpenAI研究员：100%代码已交给AI！Claude重写Python库",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109254/openai%e7%a0%94%e7%a9%b6%e5%91%98%ef%bc%9a100%e4%bb%a3%e7%a0%81%e5%b7%b2%e4%ba%a4%e7%bb%99ai%ef%bc%81claude%e9%87%8d%e5%86%99python%e5%ba%93/",
+      "publishedAt": "2026-08-16T00:01:44.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109141/%e8%b0%b7%e6%ad%8c%e7%a5%ad%e5%87%bagemini-3-7-flash%ef%bc%8152%e5%b2%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e4%ba%b2%e8%87%aa%e7%9d%a3%e6%88%98%ef%bc%8cdeepmind%e7%9c%9f%e6%80%a5%e4%ba%86/",
+      "id": "aiera-news:https://aiera.com.cn/2026/08/16/other/admin/109236/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e7%bb%99claude%e8%a3%85%e4%ba%86%e9%9a%90%e5%bd%a2%e5%8d%a7%e5%ba%95%ef%bc%81%e5%85%a8%e7%90%83%e7%94%9f%e6%95%88/",
       "sourceId": "aiera-news",
       "sourceName": "新智元",
       "category": "tech_news",
-      "title": "谷歌祭出Gemini 3.7 Flash！52岁创始人亲自督战，DeepMind真急了",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109141/%e8%b0%b7%e6%ad%8c%e7%a5%ad%e5%87%bagemini-3-7-flash%ef%bc%8152%e5%b2%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e4%ba%b2%e8%87%aa%e7%9d%a3%e6%88%98%ef%bc%8cdeepmind%e7%9c%9f%e6%80%a5%e4%ba%86/",
-      "publishedAt": "2026-08-15T00:00:59.000Z",
+      "title": "刚刚，Anthropic给Claude装了隐形卧底！全球生效",
+      "url": "https://aiera.com.cn/2026/08/16/other/admin/109236/%e5%88%9a%e5%88%9a%ef%bc%8canthropic%e7%bb%99claude%e8%a3%85%e4%ba%86%e9%9a%90%e5%bd%a2%e5%8d%a7%e5%ba%95%ef%bc%81%e5%85%a8%e7%90%83%e7%94%9f%e6%95%88/",
+      "publishedAt": "2026-08-16T00:01:24.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/08/15/other/admin/109119/%e5%88%9a%e5%88%9a%ef%bc%8cglm-5-3%e6%92%95%e5%bc%80%e9%97%ad%e6%ba%90%e5%ae%89%e5%85%a8%e7%a5%9e%e8%af%9d%ef%bc%810-1%e5%80%8d%e5%8f%82%e6%95%b0%e8%bf%bd%e5%b9%b3mythos%e6%88%98%e5%8a%9b/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，GLM",
-      "url": "https://aiera.com.cn/2026/08/15/other/admin/109119/%e5%88%9a%e5%88%9a%ef%bc%8cglm-5-3%e6%92%95%e5%bc%80%e9%97%ad%e6%ba%90%e5%ae%89%e5%85%a8%e7%a5%9e%e8%af%9d%ef%bc%810-1%e5%80%8d%e5%8f%82%e6%95%b0%e8%bf%bd%e5%b9%b3mythos%e6%88%98%e5%8a%9b/",
-      "publishedAt": "2026-08-15T00:00:43.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473379.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/473876.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-      "url": "https://www.qbitai.com/2026/08/473379.html",
-      "publishedAt": "2026-08-14T15:41:12.000Z",
-      "excerpt": "所有人都可免费下载部署及商用。",
-      "content": "所有人都可免费下载部署及商用。"
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "url": "https://www.qbitai.com/2026/08/473876.html",
+      "publishedAt": "2026-08-15T06:42:23.000Z",
+      "excerpt": "理解大模型，无需再训练一个替代网络",
+      "content": "理解大模型，无需再训练一个替代网络"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473261.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/473866.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "7亿年薪留不住！余家辉离职Meta创业",
-      "url": "https://www.qbitai.com/2026/08/473261.html",
-      "publishedAt": "2026-08-14T14:59:25.000Z",
-      "excerpt": "真就只待了一年",
-      "content": "真就只待了一年"
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "publishedAt": "2026-08-15T06:36:05.000Z",
+      "excerpt": "音潮API限时免费开放",
+      "content": "音潮API限时免费开放"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473153.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/473669.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-      "url": "https://www.qbitai.com/2026/08/473153.html",
-      "publishedAt": "2026-08-14T14:51:48.000Z",
-      "excerpt": "布林亲自下场督战",
-      "content": "布林亲自下场督战"
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "publishedAt": "2026-08-15T06:05:31.000Z",
+      "excerpt": "推理能力还能自定义",
+      "content": "推理能力还能自定义"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473149.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/08/473597.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-      "url": "https://www.qbitai.com/2026/08/473149.html",
-      "publishedAt": "2026-08-14T10:25:36.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473038.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "publishedAt": "2026-08-14T08:47:51.000Z",
-      "excerpt": "顺手拿下最强开源安全模型",
-      "content": "顺手拿下最强开源安全模型"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/08/473144.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "publishedAt": "2026-08-14T08:36:00.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/95969.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大直接观测复动量空间中的非厄米能谱形变",
-      "url": "https://news.ustc.edu.cn/info/1055/95969.htm",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "excerpt": "我校郭光灿院士团队在非布洛赫能带与非厄米物理量子模拟研究中取得重要进展。该团队李传锋、许金时、易为、杨木等人，基于简并光学谐振腔中的光子轨道角动量（OAM）合成维度，发展了复动量分辨谱探测方法，直接观测到复动量空间中的非厄米能谱形变，揭示了奇异点、开放边界能谱和广义布里渊区等关键信息。相关成果以“Observation of Non-Hermitian Spectral Deformation in Complex Momentum Space”为题，8月10日发表在国际知...",
-      "content": "我校郭光灿院士团队在非布洛赫能带与非厄米物理量子模拟研究中取得重要进展。该团队李传锋、许金时、易为、杨木等人，基于简并光学谐振腔中的光子轨道角动量（OAM）合成维度，发展了复动量分辨谱探测方法，直接观测到复动量空间中的非厄米能谱形变，揭示了奇异点、开放边界能谱和广义布里渊区等关键信息。相关成果以“Observation of Non-Hermitian Spectral Deformation in Complex Momentum Space”为题，8月10日发表在国际知..."
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/95965.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "科学家观测到核子内部奇特结构，中国科大发挥主导作用",
-      "url": "https://news.ustc.edu.cn/info/1055/95965.htm",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "excerpt": "中国科学技术大学与美国肯特州立大学、布鲁克海文国家实验室等单位在STAR国际实验组中发挥主导作用，通过高能原子核-原子核对撞实验中净重子数和净电荷数的精确测量发现核子内部存在一种奇特结构，可能颠覆人们对核子内部结构的根本认识。8月14日凌晨，该成果以“Tracking the baryon number with nuclear collisions”为题，在《科学》杂志上在线发表。核子是组成物质世界的基本粒子，宇宙中可见物质世界99%以上的质量由核子携...",
-      "content": "中国科学技术大学与美国肯特州立大学、布鲁克海文国家实验室等单位在STAR国际实验组中发挥主导作用，通过高能原子核-原子核对撞实验中净重子数和净电荷数的精确测量发现核子内部存在一种奇特结构，可能颠覆人们对核子内部结构的根本认识。8月14日凌晨，该成果以“Tracking the baryon number with nuclear collisions”为题，在《科学》杂志上在线发表。核子是组成物质世界的基本粒子，宇宙中可见物质世界99%以上的质量由核子携..."
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25238",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25238",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+      "url": "https://www.qbitai.com/2026/08/473597.html",
+      "publishedAt": "2026-08-15T05:53:01.000Z",
+      "excerpt": "大家已经给DeepSeek装上了啥",
+      "content": "大家已经给DeepSeek装上了啥"
     }
   ],
   "stats": {
-    "totalItems": 18,
+    "totalItems": 11,
     "byCategory": {
-      "campus_notices": 1,
-      "community": 2,
-      "tech_news": 15
+      "campus_notices": 0,
+      "community": 0,
+      "tech_news": 11
     }
-  }
+  },
+  "errors": [
+    "中国科大新闻网: fetch failed"
+  ]
 }
