@@ -1,201 +1,102 @@
 {
-  "generatedAt": "2026-09-03T10:37:00.333Z",
+  "generatedAt": "2026-09-04T10:37:25.479Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483189.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484547.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-      "url": "https://www.qbitai.com/2026/09/483189.html",
-      "publishedAt": "2026-09-03T10:18:36.000Z",
-      "excerpt": "单图直出场景，顶会最佳论文落地",
-      "content": "单图直出场景，顶会最佳论文落地"
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "publishedAt": "2026-09-04T09:23:24.000Z",
+      "excerpt": "国产卡跑出高品质 AI Token 生产级性能",
+      "content": "国产卡跑出高品质 AI Token 生产级性能"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483600.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484437.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "陈大年复出，入局大模型",
-      "url": "https://www.qbitai.com/2026/09/483600.html",
-      "publishedAt": "2026-09-03T10:13:24.000Z",
-      "excerpt": "首秀逼近DeepSeek万亿旗舰",
-      "content": "首秀逼近DeepSeek万亿旗舰"
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "publishedAt": "2026-09-04T09:19:29.000Z",
+      "excerpt": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "content": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111947/ai%e6%96%b0%e7%bb%8f%e6%b5%8e%e5%a4%87%e5%8f%97%e5%85%b3%e6%b3%a8%ef%bc%8c2026%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e6%8a%a5%e5%90%8d%e4%ba%ba%e6%95%b0%e7%a0%b45%e4%b8%87%ef%bc%8c%e5%90%b8%e5%bc%95-50/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI新经济备受关注，2026外滩大会报名人数破5万，吸引 50 多个国家和地区参与",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111947/ai%e6%96%b0%e7%bb%8f%e6%b5%8e%e5%a4%87%e5%8f%97%e5%85%b3%e6%b3%a8%ef%bc%8c2026%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e6%8a%a5%e5%90%8d%e4%ba%ba%e6%95%b0%e7%a0%b45%e4%b8%87%ef%bc%8c%e5%90%b8%e5%bc%95-50/",
-      "publishedAt": "2026-09-03T08:38:02.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483565.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484293.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "url": "https://www.qbitai.com/2026/09/483565.html",
-      "publishedAt": "2026-09-03T03:16:43.000Z",
-      "excerpt": "从工厂一路干到家庭",
-      "content": "从工厂一路干到家庭"
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "publishedAt": "2026-09-04T08:57:14.000Z",
+      "excerpt": "不训练模型、不调参数",
+      "content": "不训练模型、不调参数"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483552.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484203.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "url": "https://www.qbitai.com/2026/09/483552.html",
-      "publishedAt": "2026-09-03T01:31:45.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "url": "https://www.qbitai.com/2026/09/484203.html",
+      "publishedAt": "2026-09-04T07:09:43.000Z",
+      "excerpt": "5000支队伍同台做题，写尽行业四年变化",
+      "content": "5000支队伍同台做题，写尽行业四年变化"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483462.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484163.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-      "url": "https://www.qbitai.com/2026/09/483462.html",
-      "publishedAt": "2026-09-03T01:27:05.000Z",
-      "excerpt": "4激光雷达+双M100上车",
-      "content": "4激光雷达+双M100上车"
+      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+      "url": "https://www.qbitai.com/2026/09/484163.html",
+      "publishedAt": "2026-09-04T06:54:12.000Z",
+      "excerpt": "智能不只是模式识别，更是对世界的建模",
+      "content": "智能不只是模式识别，更是对世界的建模"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483351.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484159.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "今年最难的机器人Demo，“机器人含量”为0",
-      "url": "https://www.qbitai.com/2026/09/483351.html",
-      "publishedAt": "2026-09-03T00:51:16.000Z",
-      "excerpt": "遥操，可能真的危险了",
-      "content": "遥操，可能真的危险了"
+      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+      "url": "https://www.qbitai.com/2026/09/484159.html",
+      "publishedAt": "2026-09-04T05:53:09.000Z",
+      "excerpt": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+      "content": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
     },
     {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111945/%e5%88%9a%e5%88%9a%ef%bc%8c%e7%a5%9e%e8%af%9d%e7%ba%a7fable-5-1%e6%9d%a5%e4%ba%86%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，神话级Fable 5.1来了！",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111945/%e5%88%9a%e5%88%9a%ef%bc%8c%e7%a5%9e%e8%af%9d%e7%ba%a7fable-5-1%e6%9d%a5%e4%ba%86%ef%bc%81/",
-      "publishedAt": "2026-09-03T00:04:44.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111917/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-1%e9%81%ad%e9%bb%91%e5%ae%a2%e7%a0%b4%e8%a7%a3%ef%bc%8c27%e4%b8%87%e5%ad%97%e6%8f%90%e7%a4%ba%e8%af%8d%e6%b3%84%e9%9c%b2/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "突发！Fable 5.1遭黑客破解，27万字提示词泄露",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111917/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-1%e9%81%ad%e9%bb%91%e5%ae%a2%e7%a0%b4%e8%a7%a3%ef%bc%8c27%e4%b8%87%e5%ad%97%e6%8f%90%e7%a4%ba%e8%af%8d%e6%b3%84%e9%9c%b2/",
-      "publishedAt": "2026-09-03T00:04:12.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111886/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e9%a6%96%e5%8f%b0%e3%80%8c%e4%b8%87%e5%85%83%e7%ba%a7%e3%80%8d%e9%ab%98%e6%80%a7%e8%83%bd%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e8%af%9e%e7%94%9f/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "刚刚，全球首台「万元级」高性能人形机器人诞生！比Mac还便宜",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111886/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e9%a6%96%e5%8f%b0%e3%80%8c%e4%b8%87%e5%85%83%e7%ba%a7%e3%80%8d%e9%ab%98%e6%80%a7%e8%83%bd%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e8%af%9e%e7%94%9f/",
-      "publishedAt": "2026-09-03T00:03:32.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111870/openai-astra%e5%8f%91%e5%b8%83%e5%9c%a8%e5%8d%b3%ef%bc%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e7%bd%91%e7%bb%9c%e6%94%bb%e9%98%b2%e8%83%bd%e5%8a%9b%e5%b7%b2%e7%aa%81%e7%a0%b4%e5%a4%a9%e9%99%85%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "OpenAI Astra发布在即，全自动网络攻防能力已突破天际！",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111870/openai-astra%e5%8f%91%e5%b8%83%e5%9c%a8%e5%8d%b3%ef%bc%8c%e5%85%a8%e8%87%aa%e5%8a%a8%e7%bd%91%e7%bb%9c%e6%94%bb%e9%98%b2%e8%83%bd%e5%8a%9b%e5%b7%b2%e7%aa%81%e7%a0%b4%e5%a4%a9%e9%99%85%ef%bc%81/",
-      "publishedAt": "2026-09-03T00:02:33.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111859/ai%e6%9b%bf%e4%b8%bb%e4%ba%ba%e6%8a%a2%e5%81%a5%e8%ba%ab%e8%af%be%ef%bc%8c%e9%a1%ba%e6%89%8b%e5%88%a0%e4%ba%86%e9%99%8c%e7%94%9f%e4%ba%ba%e7%9a%84%e9%a2%84%e7%ba%a6%ef%bc%81%e5%a4%aa%e5%90%ac%e8%af%9d/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "AI替主人抢健身课，顺手删了陌生人的预约！太听话的AI才最可怕",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111859/ai%e6%9b%bf%e4%b8%bb%e4%ba%ba%e6%8a%a2%e5%81%a5%e8%ba%ab%e8%af%be%ef%bc%8c%e9%a1%ba%e6%89%8b%e5%88%a0%e4%ba%86%e9%99%8c%e7%94%9f%e4%ba%ba%e7%9a%84%e9%a2%84%e7%ba%a6%ef%bc%81%e5%a4%aa%e5%90%ac%e8%af%9d/",
-      "publishedAt": "2026-09-03T00:01:55.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111845/gemini-3-8%ef%bc%8c%e6%98%8e%e6%97%a5%e7%99%bb%e5%9c%ba%ef%bc%81/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "Gemini 3.8，明日登场！",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111845/gemini-3-8%ef%bc%8c%e6%98%8e%e6%97%a5%e7%99%bb%e5%9c%ba%ef%bc%81/",
-      "publishedAt": "2026-09-03T00:01:23.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "aiera-news:https://aiera.com.cn/2026/09/03/other/admin/111822/%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7%ef%bc%814b%e6%a8%a1%e5%9e%8b%e8%b6%8a%e7%ba%a7%e6%89%93%e6%80%aa%ef%bc%8c%e6%9d%80%e5%85%a5%e4%b8%87%e4%ba%bf%e8%b5%9b%e9%81%93/",
-      "sourceId": "aiera-news",
-      "sourceName": "新智元",
-      "category": "tech_news",
-      "title": "纯血国产！4B模型越级打怪，杀入万亿赛道",
-      "url": "https://aiera.com.cn/2026/09/03/other/admin/111822/%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7%ef%bc%814b%e6%a8%a1%e5%9e%8b%e8%b6%8a%e7%ba%a7%e6%89%93%e6%80%aa%ef%bc%8c%e6%9d%80%e5%85%a5%e4%b8%87%e4%ba%bf%e8%b5%9b%e9%81%93/",
-      "publishedAt": "2026-09-03T00:00:41.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483274.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484155.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-      "url": "https://www.qbitai.com/2026/09/483274.html",
-      "publishedAt": "2026-09-02T09:22:16.000Z",
-      "excerpt": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-      "content": "SkyProduction（天工工作台）全新版本于8月31日正式上线"
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "url": "https://www.qbitai.com/2026/09/484155.html",
+      "publishedAt": "2026-09-04T05:48:53.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483104.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/483984.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "url": "https://www.qbitai.com/2026/09/483104.html",
-      "publishedAt": "2026-09-02T06:20:17.000Z",
-      "excerpt": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-      "content": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96093.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大提出Wi",
-      "url": "https://news.ustc.edu.cn/info/1055/96093.htm",
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学卢汉成教授团队郭凤谦特任副研究员在无线局域网低时延与资源调度领域取得两项研究成果：作为第一作者完成的论文“Concord: Airtime-Aware Contention Control for Taming Tail Latency from Wi-Fi Frame Bursting”，被计算机网络领域顶级学术会议ACM SIGCOMM 2026录用；提出的“无线局域网内多终端流量自适应调度技术”方案获华为“火花奖”。两项成果分别从下行与上行两个方向切入WLAN低时延传输的核心...",
-      "content": "近日，中国科学技术大学卢汉成教授团队郭凤谦特任副研究员在无线局域网低时延与资源调度领域取得两项研究成果：作为第一作者完成的论文“Concord: Airtime-Aware Contention Control for Taming Tail Latency from Wi-Fi Frame Bursting”，被计算机网络领域顶级学术会议ACM SIGCOMM 2026录用；提出的“无线局域网内多终端流量自适应调度技术”方案获华为“火花奖”。两项成果分别从下行与上行两个方向切入WLAN低时延传输的核心..."
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "url": "https://www.qbitai.com/2026/09/483984.html",
+      "publishedAt": "2026-09-04T04:03:04.000Z",
+      "excerpt": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+      "content": "比新业务更考验一家公司的，可能是怎么对待年轻人。"
     }
   ],
   "stats": {
-    "totalItems": 17,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
-      "community": 1,
-      "tech_news": 16
+      "community": 0,
+      "tech_news": 8
     }
   }
 }
