@@ -1,102 +1,47 @@
 {
-  "generatedAt": "2026-09-04T10:37:25.479Z",
+  "generatedAt": "2026-09-05T09:54:29.636Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484547.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484649.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "url": "https://www.qbitai.com/2026/09/484547.html",
-      "publishedAt": "2026-09-04T09:23:24.000Z",
-      "excerpt": "国产卡跑出高品质 AI Token 生产级性能",
-      "content": "国产卡跑出高品质 AI Token 生产级性能"
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "publishedAt": "2026-09-05T04:24:25.000Z",
+      "excerpt": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "content": "AI直接吐出正确答案，但最关键的可能不是答案"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484437.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484611.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "url": "https://www.qbitai.com/2026/09/484437.html",
-      "publishedAt": "2026-09-04T09:19:29.000Z",
-      "excerpt": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-      "content": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "publishedAt": "2026-09-05T04:18:54.000Z",
+      "excerpt": "如此“反骨”的方法，具体又是怎么实现的？",
+      "content": "如此“反骨”的方法，具体又是怎么实现的？"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484293.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/484551.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "url": "https://www.qbitai.com/2026/09/484293.html",
-      "publishedAt": "2026-09-04T08:57:14.000Z",
-      "excerpt": "不训练模型、不调参数",
-      "content": "不训练模型、不调参数"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484203.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "url": "https://www.qbitai.com/2026/09/484203.html",
-      "publishedAt": "2026-09-04T07:09:43.000Z",
-      "excerpt": "5000支队伍同台做题，写尽行业四年变化",
-      "content": "5000支队伍同台做题，写尽行业四年变化"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484163.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
-      "url": "https://www.qbitai.com/2026/09/484163.html",
-      "publishedAt": "2026-09-04T06:54:12.000Z",
-      "excerpt": "智能不只是模式识别，更是对世界的建模",
-      "content": "智能不只是模式识别，更是对世界的建模"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484159.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
-      "url": "https://www.qbitai.com/2026/09/484159.html",
-      "publishedAt": "2026-09-04T05:53:09.000Z",
-      "excerpt": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
-      "content": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484155.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-      "url": "https://www.qbitai.com/2026/09/484155.html",
-      "publishedAt": "2026-09-04T05:48:53.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/483984.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
-      "url": "https://www.qbitai.com/2026/09/483984.html",
-      "publishedAt": "2026-09-04T04:03:04.000Z",
-      "excerpt": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
-      "content": "比新业务更考验一家公司的，可能是怎么对待年轻人。"
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "publishedAt": "2026-09-05T01:17:56.000Z",
+      "excerpt": "最后靠Harness救回来",
+      "content": "最后靠Harness救回来"
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 3,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 3
     }
   }
 }
