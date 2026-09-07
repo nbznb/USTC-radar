@@ -1,47 +1,105 @@
 {
-  "generatedAt": "2026-09-06T10:12:18.507Z",
+  "generatedAt": "2026-09-07T11:29:19.768Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484890.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485525.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-      "url": "https://www.qbitai.com/2026/09/484890.html",
-      "publishedAt": "2026-09-06T04:40:15.000Z",
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "url": "https://www.qbitai.com/2026/09/485525.html",
+      "publishedAt": "2026-09-07T09:34:06.000Z",
+      "excerpt": "谁说现在机器人都长得差不多的！",
+      "content": "谁说现在机器人都长得差不多的！"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485431.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "url": "https://www.qbitai.com/2026/09/485431.html",
+      "publishedAt": "2026-09-07T09:04:06.000Z",
+      "excerpt": "OpenAI研究院人均带3个AI实习生",
+      "content": "OpenAI研究院人均带3个AI实习生"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485154.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+      "url": "https://www.qbitai.com/2026/09/485154.html",
+      "publishedAt": "2026-09-07T08:51:30.000Z",
+      "excerpt": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+      "content": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485108.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "url": "https://www.qbitai.com/2026/09/485108.html",
+      "publishedAt": "2026-09-07T08:36:30.000Z",
+      "excerpt": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "content": "“在两个模型之间找到数学上的共同基础其实非常困难”"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485064.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "url": "https://www.qbitai.com/2026/09/485064.html",
+      "publishedAt": "2026-09-07T06:53:26.000Z",
+      "excerpt": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+      "content": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485056.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "url": "https://www.qbitai.com/2026/09/485056.html",
+      "publishedAt": "2026-09-07T06:03:34.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484726.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485046.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "url": "https://www.qbitai.com/2026/09/484726.html",
-      "publishedAt": "2026-09-05T15:07:08.000Z",
-      "excerpt": "手握两篇顶会论文",
-      "content": "手握两篇顶会论文"
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "url": "https://www.qbitai.com/2026/09/485046.html",
+      "publishedAt": "2026-09-07T05:04:44.000Z",
+      "excerpt": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+      "content": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/484683.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/485039.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "url": "https://www.qbitai.com/2026/09/484683.html",
-      "publishedAt": "2026-09-05T14:46:15.000Z",
-      "excerpt": "当AI开始“预演”一场暴雨",
-      "content": "当AI开始“预演”一场暴雨"
+      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+      "url": "https://www.qbitai.com/2026/09/485039.html",
+      "publishedAt": "2026-09-07T04:01:09.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 3,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 3
+      "tech_news": 8
     }
-  }
+  },
+  "errors": [
+    "新智元: The operation was aborted due to timeout"
+  ]
 }
