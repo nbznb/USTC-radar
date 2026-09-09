@@ -1,67 +1,78 @@
 {
-  "generatedAt": "2026-09-08T10:31:10.476Z",
+  "generatedAt": "2026-09-09T10:42:47.456Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/485854.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/486370.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
-      "publishedAt": "2026-09-08T06:05:30.000Z",
-      "excerpt": "Blender也不用学了",
-      "content": "Blender也不用学了"
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "url": "https://www.qbitai.com/2026/09/486370.html",
+      "publishedAt": "2026-09-09T09:57:54.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/485794.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/486288.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "publishedAt": "2026-09-08T05:05:03.000Z",
-      "excerpt": "百万奖金、大厂直通、VC跟投",
-      "content": "百万奖金、大厂直通、VC跟投"
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "publishedAt": "2026-09-09T05:02:30.000Z",
+      "excerpt": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "content": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/485784.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/486280.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "publishedAt": "2026-09-08T03:22:17.000Z",
-      "excerpt": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-      "content": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "publishedAt": "2026-09-09T04:52:12.000Z",
+      "excerpt": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "content": "从Demo到货架，这两家公司要让具身智能算得过账"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/485630.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/486052.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
-      "publishedAt": "2026-09-08T02:42:24.000Z",
-      "excerpt": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-      "content": "从看市场，到见场景；从认识伙伴，到寻找合作。"
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "url": "https://www.qbitai.com/2026/09/486052.html",
+      "publishedAt": "2026-09-09T03:39:58.000Z",
+      "excerpt": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "content": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/485555.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/486038.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "王云鹤创业后交出首个模型",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "publishedAt": "2026-09-08T02:14:47.000Z",
-      "excerpt": "把多模型执行经验用到了模型训练",
-      "content": "把多模型执行经验用到了模型训练"
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "publishedAt": "2026-09-09T02:15:54.000Z",
+      "excerpt": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "content": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 5,
+    "totalItems": 6,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
       "tech_news": 5
     }
