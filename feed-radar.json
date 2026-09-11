@@ -1,124 +1,102 @@
 {
-  "generatedAt": "2026-09-10T10:31:30.409Z",
+  "generatedAt": "2026-09-11T10:32:34.157Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486900.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/487282.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "url": "https://www.qbitai.com/2026/09/486900.html",
-      "publishedAt": "2026-09-10T08:17:05.000Z",
-      "excerpt": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-      "content": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486747.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "url": "https://www.qbitai.com/2026/09/486747.html",
-      "publishedAt": "2026-09-10T07:57:55.000Z",
-      "excerpt": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
-      "content": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486716.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-      "url": "https://www.qbitai.com/2026/09/486716.html",
-      "publishedAt": "2026-09-10T07:44:00.000Z",
-      "excerpt": "轻量版LingBot-World 2.0",
-      "content": "轻量版LingBot-World 2.0"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486684.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-      "url": "https://www.qbitai.com/2026/09/486684.html",
-      "publishedAt": "2026-09-10T07:25:39.000Z",
-      "excerpt": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
-      "content": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486651.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
-      "url": "https://www.qbitai.com/2026/09/486651.html",
-      "publishedAt": "2026-09-10T06:25:22.000Z",
-      "excerpt": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
-      "content": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486625.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "url": "https://www.qbitai.com/2026/09/486625.html",
-      "publishedAt": "2026-09-10T04:55:38.000Z",
-      "excerpt": "模型可以开源，部署经验不能",
-      "content": "模型可以开源，部署经验不能"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486436.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "publishedAt": "2026-09-10T01:39:13.000Z",
-      "excerpt": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
-      "content": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/486350.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486350.html",
-      "publishedAt": "2026-09-10T00:42:06.000Z",
-      "excerpt": "赶上了API限时五折",
-      "content": "赶上了API限时五折"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25460",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25460",
-      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "url": "https://www.qbitai.com/2026/09/487282.html",
+      "publishedAt": "2026-09-11T08:59:28.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25272.htm",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/487273.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "url": "https://www.qbitai.com/2026/09/487273.html",
+      "publishedAt": "2026-09-11T06:19:03.000Z",
+      "excerpt": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "content": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/487176.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "publishedAt": "2026-09-11T03:57:32.000Z",
+      "excerpt": "今年12月，北京，MEET2027智能未来大会！",
+      "content": "今年12月，北京，MEET2027智能未来大会！"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/487163.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "publishedAt": "2026-09-11T02:50:47.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/487092.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "publishedAt": "2026-09-11T01:46:55.000Z",
+      "excerpt": "爆料直指霍奇猜想",
+      "content": "爆料直指霍奇猜想"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/487055.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "publishedAt": "2026-09-11T00:55:01.000Z",
+      "excerpt": "15秒视频，50秒出片",
+      "content": "15秒视频，50秒出片"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "关于举办中国科大“一〇七杯”算力与智能体开发大赛的通知——从中国第一台自主设计的通用计算机出发，面向新一代算力与智能体开发",
-      "url": "https://www.ustc.edu.cn/info/1360/25272.htm",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "excerpt": "为进一步推动人工智能赋能教育教学及智慧科大建设工作，提升学生人工智能应用素养和科研实践能力，教务处、网络信息中心联合学生工作部（处）、研究生院、对外联络与基金事务处、团委等校内有关部门以及中国科学技术大学教育基金会共同举办中国科大“一〇七杯”算力与智能体开发大赛。此次大赛得到了阿里巴巴集团及阿里巴巴公益基金会的战略支持。现将有关事项通知如下：一、赛道设置大赛设算力平台赛道和智能体赛道。1、算力平...",
-      "content": "为进一步推动人工智能赋能教育教学及智慧科大建设工作，提升学生人工智能应用素养和科研实践能力，教务处、网络信息中心联合学生工作部（处）、研究生院、对外联络与基金事务处、团委等校内有关部门以及中国科学技术大学教育基金会共同举办中国科大“一〇七杯”算力与智能体开发大赛。此次大赛得到了阿里巴巴集团及阿里巴巴公益基金会的战略支持。现将有关事项通知如下：一、赛道设置大赛设算力平台赛道和智能体赛道。1、算力平..."
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/486934.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "url": "https://www.qbitai.com/2026/09/486934.html",
+      "publishedAt": "2026-09-10T10:17:46.000Z",
+      "excerpt": "多模态AI大牛轮番登台，全球64支团队组团解题",
+      "content": "多模态AI大牛轮番登台，全球64支团队组团解题"
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 2,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 7
     }
   }
 }
