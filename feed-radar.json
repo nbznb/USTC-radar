@@ -1,80 +1,116 @@
 {
-  "generatedAt": "2026-09-13T11:01:45.178Z",
+  "generatedAt": "2026-09-14T11:40:48.448Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/488672.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/489105.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "url": "https://www.qbitai.com/2026/09/488672.html",
-      "publishedAt": "2026-09-13T07:38:20.000Z",
-      "excerpt": "亮源新创的Physical Al路线清晰了",
-      "content": "亮源新创的Physical Al路线清晰了"
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "url": "https://www.qbitai.com/2026/09/489105.html",
+      "publishedAt": "2026-09-14T09:47:07.000Z",
+      "excerpt": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+      "content": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/488519.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/489106.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-      "url": "https://www.qbitai.com/2026/09/488519.html",
-      "publishedAt": "2026-09-13T07:20:19.000Z",
-      "excerpt": "出身寒微不是耻辱，放弃自己才是。",
-      "content": "出身寒微不是耻辱，放弃自己才是。"
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "publishedAt": "2026-09-14T09:46:40.000Z",
+      "excerpt": "业界首个5A算电协同认证",
+      "content": "业界首个5A算电协同认证"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/488447.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/489037.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "url": "https://www.qbitai.com/2026/09/488447.html",
-      "publishedAt": "2026-09-13T06:40:25.000Z",
-      "excerpt": "Agent的下一步是关系型生产力",
-      "content": "Agent的下一步是关系型生产力"
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "url": "https://www.qbitai.com/2026/09/489037.html",
+      "publishedAt": "2026-09-14T09:36:28.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/488380.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/489023.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "url": "https://www.qbitai.com/2026/09/488380.html",
-      "publishedAt": "2026-09-13T03:13:00.000Z",
-      "excerpt": "RSI太危险，得管！",
-      "content": "RSI太危险，得管！"
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "url": "https://www.qbitai.com/2026/09/489023.html",
+      "publishedAt": "2026-09-14T08:17:22.000Z",
+      "excerpt": "AI 蛋白质设计迈入“动态时代”",
+      "content": "AI 蛋白质设计迈入“动态时代”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/487860.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/488933.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-      "url": "https://www.qbitai.com/2026/09/487860.html",
-      "publishedAt": "2026-09-12T11:38:16.000Z",
-      "excerpt": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
-      "content": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "url": "https://www.qbitai.com/2026/09/488933.html",
+      "publishedAt": "2026-09-14T08:08:29.000Z",
+      "excerpt": "让模型和设备共同进化",
+      "content": "让模型和设备共同进化"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/487796.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/488912.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "url": "https://www.qbitai.com/2026/09/487796.html",
-      "publishedAt": "2026-09-12T08:49:02.000Z",
-      "excerpt": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
-      "content": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "url": "https://www.qbitai.com/2026/09/488912.html",
+      "publishedAt": "2026-09-14T07:55:12.000Z",
+      "excerpt": "险资、券商与头部创投持续加码",
+      "content": "险资、券商与头部创投持续加码"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/488875.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+      "url": "https://www.qbitai.com/2026/09/488875.html",
+      "publishedAt": "2026-09-14T06:20:36.000Z",
+      "excerpt": "共话AI时代的生活、影像与创造。",
+      "content": "共话AI时代的生活、影像与创造。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/488832.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+      "url": "https://www.qbitai.com/2026/09/488832.html",
+      "publishedAt": "2026-09-14T03:45:46.000Z",
+      "excerpt": "小模型突破瓶颈，旗舰模型打开新空间",
+      "content": "小模型突破瓶颈，旗舰模型打开新空间"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25720.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之宋泽滨教授报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25720.htm",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "excerpt": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重...",
+      "content": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重..."
     }
   ],
   "stats": {
-    "totalItems": 6,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 6
+      "tech_news": 8
     }
-  }
+  },
+  "errors": [
+    "中国科大新闻网: fetch failed"
+  ]
 }
