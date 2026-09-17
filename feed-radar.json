@@ -1,102 +1,116 @@
 {
-  "generatedAt": "2026-09-16T10:47:16.747Z",
+  "generatedAt": "2026-09-17T10:53:51.960Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490760.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491391.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "url": "https://www.qbitai.com/2026/09/490760.html",
-      "publishedAt": "2026-09-16T08:51:02.000Z",
-      "excerpt": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
-      "content": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。"
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "url": "https://www.qbitai.com/2026/09/491391.html",
+      "publishedAt": "2026-09-17T09:07:25.000Z",
+      "excerpt": "文档和PPT都能做了",
+      "content": "文档和PPT都能做了"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490756.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491357.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-      "url": "https://www.qbitai.com/2026/09/490756.html",
-      "publishedAt": "2026-09-16T08:18:44.000Z",
-      "excerpt": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
-      "content": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地"
+      "title": "刚刚，唐杰发布智谱RSI首个成果",
+      "url": "https://www.qbitai.com/2026/09/491357.html",
+      "publishedAt": "2026-09-17T08:28:23.000Z",
+      "excerpt": "GLM已经开始参与构建GLM了",
+      "content": "GLM已经开始参与构建GLM了"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490750.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491280.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "url": "https://www.qbitai.com/2026/09/490750.html",
-      "publishedAt": "2026-09-16T08:09:53.000Z",
-      "excerpt": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
-      "content": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。"
+      "title": "马斯克睡进工地！为AI基建拼了",
+      "url": "https://www.qbitai.com/2026/09/491280.html",
+      "publishedAt": "2026-09-17T04:37:26.000Z",
+      "excerpt": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+      "content": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490686.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491147.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
-      "url": "https://www.qbitai.com/2026/09/490686.html",
-      "publishedAt": "2026-09-16T07:46:38.000Z",
-      "excerpt": "AI协同办公的新官配，我先磕了",
-      "content": "AI协同办公的新官配，我先磕了"
+      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+      "url": "https://www.qbitai.com/2026/09/491147.html",
+      "publishedAt": "2026-09-17T03:39:43.000Z",
+      "excerpt": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
+      "content": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490416.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491091.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
-      "url": "https://www.qbitai.com/2026/09/490416.html",
-      "publishedAt": "2026-09-16T07:38:18.000Z",
-      "excerpt": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
-      "content": "帮助成熟赛道复制方案，帮助新赛道长出场景。"
+      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+      "url": "https://www.qbitai.com/2026/09/491091.html",
+      "publishedAt": "2026-09-17T03:26:21.000Z",
+      "excerpt": "1亿Tokens人人免费领",
+      "content": "1亿Tokens人人免费领"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490400.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491062.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-      "url": "https://www.qbitai.com/2026/09/490400.html",
-      "publishedAt": "2026-09-16T06:32:31.000Z",
-      "excerpt": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "content": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。"
+      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+      "url": "https://www.qbitai.com/2026/09/491062.html",
+      "publishedAt": "2026-09-17T02:01:15.000Z",
+      "excerpt": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
+      "content": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490396.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/490974.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-      "url": "https://www.qbitai.com/2026/09/490396.html",
-      "publishedAt": "2026-09-16T06:23:05.000Z",
-      "excerpt": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-      "content": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。"
+      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
+      "url": "https://www.qbitai.com/2026/09/490974.html",
+      "publishedAt": "2026-09-17T01:55:14.000Z",
+      "excerpt": "9月16日，网易有道「NEXT，AGENT 有道AI Open Day」在北京举办。",
+      "content": "9月16日，网易有道「NEXT，AGENT 有道AI Open Day」在北京举办。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490329.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/490950.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "量子位2026人工智能年度榜单，正式启动！",
-      "url": "https://www.qbitai.com/2026/09/490329.html",
-      "publishedAt": "2026-09-16T04:16:10.000Z",
-      "excerpt": "报名通道已开启，欢迎参与！",
-      "content": "报名通道已开启，欢迎参与！"
+      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+      "url": "https://www.qbitai.com/2026/09/490950.html",
+      "publishedAt": "2026-09-17T01:09:25.000Z",
+      "excerpt": "奖励曲线、显卡故障全公开",
+      "content": "奖励曲线、显卡故障全公开"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
       "tech_news": 8
     }
-  }
+  },
+  "errors": [
+    "中国科大新闻网: fetch failed"
+  ]
 }
