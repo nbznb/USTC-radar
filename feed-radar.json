@@ -1,116 +1,102 @@
 {
-  "generatedAt": "2026-09-17T10:53:51.960Z",
+  "generatedAt": "2026-09-18T10:29:37.895Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/491391.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/492015.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "url": "https://www.qbitai.com/2026/09/491391.html",
-      "publishedAt": "2026-09-17T09:07:25.000Z",
-      "excerpt": "文档和PPT都能做了",
-      "content": "文档和PPT都能做了"
+      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
+      "url": "https://www.qbitai.com/2026/09/492015.html",
+      "publishedAt": "2026-09-18T09:19:37.000Z",
+      "excerpt": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
+      "content": "那些数以亿万计的，仍在等待被市场看见的小农户们。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/491357.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491875.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，唐杰发布智谱RSI首个成果",
-      "url": "https://www.qbitai.com/2026/09/491357.html",
-      "publishedAt": "2026-09-17T08:28:23.000Z",
-      "excerpt": "GLM已经开始参与构建GLM了",
-      "content": "GLM已经开始参与构建GLM了"
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "publishedAt": "2026-09-18T06:11:06.000Z",
+      "excerpt": "用通用AI去啃最硬的骨头，这条路走得通",
+      "content": "用通用AI去啃最硬的骨头，这条路走得通"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/491280.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491764.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "马斯克睡进工地！为AI基建拼了",
-      "url": "https://www.qbitai.com/2026/09/491280.html",
-      "publishedAt": "2026-09-17T04:37:26.000Z",
-      "excerpt": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
-      "content": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "publishedAt": "2026-09-18T00:37:13.000Z",
+      "excerpt": "作价40亿美元推进新融资",
+      "content": "作价40亿美元推进新融资"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/491147.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491711.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-      "url": "https://www.qbitai.com/2026/09/491147.html",
-      "publishedAt": "2026-09-17T03:39:43.000Z",
-      "excerpt": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
-      "content": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动"
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "publishedAt": "2026-09-18T00:34:34.000Z",
+      "excerpt": "Git白学了？？？",
+      "content": "Git白学了？？？"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/491091.html",
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96332.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大首次在电弱统一能标下实现对玻色子间量子纠缠的测量",
+      "url": "https://news.ustc.edu.cn/info/1055/96332.htm",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "excerpt": "欧洲核子中心大型强子对撞机LHC上的ATLAS实验组近期在国际学术期刊《物理评论快报》（Physical Review Letters）上在线发表了关于首次测量衰变自希格斯玻色子（自旋为0）的一对Z矢量玻色子（自旋为1）间量子纠缠效应的实验研究（Phys. Rev. Lett. 137 (2026) 111804）。该项工作系世界上首次在电磁-弱相互作用统一的能量标度下测量基本玻色子间的纠缠效应，为精确检验粒子物理标准模型及验证自然界中量子力学的普适性再添重要一...",
+      "content": "欧洲核子中心大型强子对撞机LHC上的ATLAS实验组近期在国际学术期刊《物理评论快报》（Physical Review Letters）上在线发表了关于首次测量衰变自希格斯玻色子（自旋为0）的一对Z矢量玻色子（自旋为1）间量子纠缠效应的实验研究（Phys. Rev. Lett. 137 (2026) 111804）。该项工作系世界上首次在电磁-弱相互作用统一的能量标度下测量基本玻色子间的纠缠效应，为精确检验粒子物理标准模型及验证自然界中量子力学的普适性再添重要一..."
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491649.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "publishedAt": "2026-09-17T03:26:21.000Z",
-      "excerpt": "1亿Tokens人人免费领",
-      "content": "1亿Tokens人人免费领"
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "publishedAt": "2026-09-17T12:03:24.000Z",
+      "excerpt": "构建个体专属AI助理",
+      "content": "构建个体专属AI助理"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/491062.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491596.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-      "url": "https://www.qbitai.com/2026/09/491062.html",
-      "publishedAt": "2026-09-17T02:01:15.000Z",
-      "excerpt": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
-      "content": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行"
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "url": "https://www.qbitai.com/2026/09/491596.html",
+      "publishedAt": "2026-09-17T11:56:13.000Z",
+      "excerpt": "工程师的核心永远是Problem Solving。",
+      "content": "工程师的核心永远是Problem Solving。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490974.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/491454.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "url": "https://www.qbitai.com/2026/09/490974.html",
-      "publishedAt": "2026-09-17T01:55:14.000Z",
-      "excerpt": "9月16日，网易有道「NEXT，AGENT 有道AI Open Day」在北京举办。",
-      "content": "9月16日，网易有道「NEXT，AGENT 有道AI Open Day」在北京举办。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/490950.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-      "url": "https://www.qbitai.com/2026/09/490950.html",
-      "publishedAt": "2026-09-17T01:09:25.000Z",
-      "excerpt": "奖励曲线、显卡故障全公开",
-      "content": "奖励曲线、显卡故障全公开"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "url": "https://www.qbitai.com/2026/09/491454.html",
+      "publishedAt": "2026-09-17T09:39:19.000Z",
+      "excerpt": "中国电信，TeleAgent",
+      "content": "中国电信，TeleAgent"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
-      "community": 0,
-      "tech_news": 8
+      "campus_notices": 0,
+      "community": 1,
+      "tech_news": 7
     }
-  },
-  "errors": [
-    "中国科大新闻网: fetch failed"
-  ]
+  }
 }
