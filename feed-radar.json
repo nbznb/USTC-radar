@@ -1,113 +1,106 @@
 {
-  "generatedAt": "2026-09-20T10:33:19.969Z",
+  "generatedAt": "2026-09-21T11:53:39.017Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492939.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493268.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "url": "https://www.qbitai.com/2026/09/492939.html",
-      "publishedAt": "2026-09-20T08:30:32.000Z",
-      "excerpt": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
-      "content": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
+      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+      "url": "https://www.qbitai.com/2026/09/493268.html",
+      "publishedAt": "2026-09-21T08:25:44.000Z",
+      "excerpt": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
+      "content": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492912.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493241.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "url": "https://www.qbitai.com/2026/09/492912.html",
-      "publishedAt": "2026-09-20T08:01:13.000Z",
-      "excerpt": "亚马逊云科技给企业安全用Agent打了个样",
-      "content": "亚马逊云科技给企业安全用Agent打了个样"
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "url": "https://www.qbitai.com/2026/09/493241.html",
+      "publishedAt": "2026-09-21T08:21:55.000Z",
+      "excerpt": "97%尝试危险行为",
+      "content": "97%尝试危险行为"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492873.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493235.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
-      "url": "https://www.qbitai.com/2026/09/492873.html",
-      "publishedAt": "2026-09-20T07:51:09.000Z",
-      "excerpt": "腾势Z9S迎来成都车展首秀",
-      "content": "腾势Z9S迎来成都车展首秀"
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "url": "https://www.qbitai.com/2026/09/493235.html",
+      "publishedAt": "2026-09-21T07:52:46.000Z",
+      "excerpt": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+      "content": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492849.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493231.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-      "url": "https://www.qbitai.com/2026/09/492849.html",
-      "publishedAt": "2026-09-20T02:48:18.000Z",
-      "excerpt": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
-      "content": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "url": "https://www.qbitai.com/2026/09/493231.html",
+      "publishedAt": "2026-09-21T07:31:26.000Z",
+      "excerpt": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+      "content": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492755.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493218.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "“留给人类阻止AI的时间不多了”",
-      "url": "https://www.qbitai.com/2026/09/492755.html",
-      "publishedAt": "2026-09-19T11:53:12.000Z",
-      "excerpt": "AI有可能终结我们所有人",
-      "content": "AI有可能终结我们所有人"
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "url": "https://www.qbitai.com/2026/09/493218.html",
+      "publishedAt": "2026-09-21T06:22:37.000Z",
+      "excerpt": "在物理世界真正干活的具身智能体",
+      "content": "在物理世界真正干活的具身智能体"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492661.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493179.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-      "url": "https://www.qbitai.com/2026/09/492661.html",
-      "publishedAt": "2026-09-19T11:48:06.000Z",
-      "excerpt": "老马想买倒闭公司数据为哪般",
-      "content": "老马想买倒闭公司数据为哪般"
+      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+      "url": "https://www.qbitai.com/2026/09/493179.html",
+      "publishedAt": "2026-09-21T03:46:43.000Z",
+      "excerpt": "激活参数仅27B",
+      "content": "激活参数仅27B"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492573.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493175.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-      "url": "https://www.qbitai.com/2026/09/492573.html",
-      "publishedAt": "2026-09-19T11:43:12.000Z",
-      "excerpt": "设计、前端一口气全干了，结果后端没来上班",
-      "content": "设计、前端一口气全干了，结果后端没来上班"
+      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+      "url": "https://www.qbitai.com/2026/09/493175.html",
+      "publishedAt": "2026-09-21T03:32:03.000Z",
+      "excerpt": "沙利文报告",
+      "content": "沙利文报告"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/492550.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493114.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-      "url": "https://www.qbitai.com/2026/09/492550.html",
-      "publishedAt": "2026-09-19T11:36:11.000Z",
-      "excerpt": "AI能否提出相对论？",
-      "content": "AI能否提出相对论？"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
-      "publishedAt": "2026-09-11T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+      "url": "https://www.qbitai.com/2026/09/493114.html",
+      "publishedAt": "2026-09-21T02:28:46.000Z",
+      "excerpt": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+      "content": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
       "tech_news": 8
     }
-  }
+  },
+  "errors": [
+    "中国科大通知公告 detail: https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710 (fetch failed)",
+    "中国科大通知公告 detail: https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677 (fetch failed)"
+  ]
 }
