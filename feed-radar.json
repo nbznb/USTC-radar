@@ -1,100 +1,111 @@
 {
-  "generatedAt": "2026-09-21T11:53:39.017Z",
+  "generatedAt": "2026-09-22T10:54:10.299Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493268.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493865.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
-      "url": "https://www.qbitai.com/2026/09/493268.html",
-      "publishedAt": "2026-09-21T08:25:44.000Z",
-      "excerpt": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
-      "content": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！"
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "url": "https://www.qbitai.com/2026/09/493865.html",
+      "publishedAt": "2026-09-22T08:49:12.000Z",
+      "excerpt": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+      "content": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493241.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493819.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "url": "https://www.qbitai.com/2026/09/493241.html",
-      "publishedAt": "2026-09-21T08:21:55.000Z",
-      "excerpt": "97%尝试危险行为",
-      "content": "97%尝试危险行为"
+      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+      "url": "https://www.qbitai.com/2026/09/493819.html",
+      "publishedAt": "2026-09-22T08:35:24.000Z",
+      "excerpt": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+      "content": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493235.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493629.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "url": "https://www.qbitai.com/2026/09/493235.html",
-      "publishedAt": "2026-09-21T07:52:46.000Z",
-      "excerpt": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-      "content": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+      "url": "https://www.qbitai.com/2026/09/493629.html",
+      "publishedAt": "2026-09-22T03:48:05.000Z",
+      "excerpt": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+      "content": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493231.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493625.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "url": "https://www.qbitai.com/2026/09/493231.html",
-      "publishedAt": "2026-09-21T07:31:26.000Z",
-      "excerpt": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-      "content": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "publishedAt": "2026-09-22T03:42:43.000Z",
+      "excerpt": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "content": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493218.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493510.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "url": "https://www.qbitai.com/2026/09/493218.html",
-      "publishedAt": "2026-09-21T06:22:37.000Z",
-      "excerpt": "在物理世界真正干活的具身智能体",
-      "content": "在物理世界真正干活的具身智能体"
+      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "publishedAt": "2026-09-22T03:13:44.000Z",
+      "excerpt": "“潮起之时，靠岸相见”",
+      "content": "“潮起之时，靠岸相见”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493179.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493502.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "url": "https://www.qbitai.com/2026/09/493179.html",
-      "publishedAt": "2026-09-21T03:46:43.000Z",
-      "excerpt": "激活参数仅27B",
-      "content": "激活参数仅27B"
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "url": "https://www.qbitai.com/2026/09/493502.html",
+      "publishedAt": "2026-09-22T02:59:29.000Z",
+      "excerpt": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+      "content": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493175.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493485.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "url": "https://www.qbitai.com/2026/09/493175.html",
-      "publishedAt": "2026-09-21T03:32:03.000Z",
-      "excerpt": "沙利文报告",
-      "content": "沙利文报告"
+      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "url": "https://www.qbitai.com/2026/09/493485.html",
+      "publishedAt": "2026-09-22T02:52:05.000Z",
+      "excerpt": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "content": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493114.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/493363.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "url": "https://www.qbitai.com/2026/09/493114.html",
-      "publishedAt": "2026-09-21T02:28:46.000Z",
-      "excerpt": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "content": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
+      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+      "url": "https://www.qbitai.com/2026/09/493363.html",
+      "publishedAt": "2026-09-22T02:22:06.000Z",
+      "excerpt": "弥补算力缺口，不能只靠堆料",
+      "content": "弥补算力缺口，不能只靠堆料"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25720.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之宋泽滨教授报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25720.htm",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "excerpt": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重...",
+      "content": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重..."
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
       "tech_news": 8
     }
