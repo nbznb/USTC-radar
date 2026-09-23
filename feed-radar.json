@@ -1,117 +1,105 @@
 {
-  "generatedAt": "2026-09-22T10:54:10.299Z",
+  "generatedAt": "2026-09-23T10:42:16.650Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493865.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496578.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "url": "https://www.qbitai.com/2026/09/493865.html",
-      "publishedAt": "2026-09-22T08:49:12.000Z",
-      "excerpt": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
-      "content": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "url": "https://www.qbitai.com/2026/09/496578.html",
+      "publishedAt": "2026-09-23T09:56:53.000Z",
+      "excerpt": "商汤大装置异构混推创新实践与技术演进",
+      "content": "商汤大装置异构混推创新实践与技术演进"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493819.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496493.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
-      "url": "https://www.qbitai.com/2026/09/493819.html",
-      "publishedAt": "2026-09-22T08:35:24.000Z",
-      "excerpt": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
-      "content": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行"
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "url": "https://www.qbitai.com/2026/09/496493.html",
+      "publishedAt": "2026-09-23T09:50:26.000Z",
+      "excerpt": "企业AI服务迎来平台化交付时代",
+      "content": "企业AI服务迎来平台化交付时代"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493629.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496494.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-      "url": "https://www.qbitai.com/2026/09/493629.html",
-      "publishedAt": "2026-09-22T03:48:05.000Z",
-      "excerpt": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
-      "content": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。"
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "url": "https://www.qbitai.com/2026/09/496494.html",
+      "publishedAt": "2026-09-23T09:46:57.000Z",
+      "excerpt": "打造算电协同领域“Windows”级操作系统",
+      "content": "打造算电协同领域“Windows”级操作系统"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493625.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496481.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "url": "https://www.qbitai.com/2026/09/493625.html",
-      "publishedAt": "2026-09-22T03:42:43.000Z",
-      "excerpt": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
-      "content": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。"
+      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+      "url": "https://www.qbitai.com/2026/09/496481.html",
+      "publishedAt": "2026-09-23T08:54:04.000Z",
+      "excerpt": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
+      "content": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493510.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496471.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-      "url": "https://www.qbitai.com/2026/09/493510.html",
-      "publishedAt": "2026-09-22T03:13:44.000Z",
-      "excerpt": "“潮起之时，靠岸相见”",
-      "content": "“潮起之时，靠岸相见”"
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "url": "https://www.qbitai.com/2026/09/496471.html",
+      "publishedAt": "2026-09-23T08:45:22.000Z",
+      "excerpt": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "content": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493502.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496393.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-      "url": "https://www.qbitai.com/2026/09/493502.html",
-      "publishedAt": "2026-09-22T02:59:29.000Z",
-      "excerpt": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
-      "content": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。"
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "url": "https://www.qbitai.com/2026/09/496393.html",
+      "publishedAt": "2026-09-23T07:29:50.000Z",
+      "excerpt": "每秒能产生5000+个沙盒",
+      "content": "每秒能产生5000+个沙盒"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493485.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496384.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
-      "url": "https://www.qbitai.com/2026/09/493485.html",
-      "publishedAt": "2026-09-22T02:52:05.000Z",
-      "excerpt": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
-      "content": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。"
+      "title": "Qwen一号位定了！刘大一恒接棒",
+      "url": "https://www.qbitai.com/2026/09/496384.html",
+      "publishedAt": "2026-09-23T07:27:49.000Z",
+      "excerpt": "与稚晖君同届天才少年",
+      "content": "与稚晖君同届天才少年"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/493363.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496352.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
-      "url": "https://www.qbitai.com/2026/09/493363.html",
-      "publishedAt": "2026-09-22T02:22:06.000Z",
-      "excerpt": "弥补算力缺口，不能只靠堆料",
-      "content": "弥补算力缺口，不能只靠堆料"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25720.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之宋泽滨教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25720.htm",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "excerpt": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重...",
-      "content": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重..."
+      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+      "url": "https://www.qbitai.com/2026/09/496352.html",
+      "publishedAt": "2026-09-23T06:38:07.000Z",
+      "excerpt": "对复杂现实进行推演与决策",
+      "content": "对复杂现实进行推演与决策"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
       "tech_news": 8
     }
   },
   "errors": [
-    "中国科大通知公告 detail: https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710 (fetch failed)",
-    "中国科大通知公告 detail: https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677 (fetch failed)"
+    "中国科大通知公告: fetch failed"
   ]
 }
