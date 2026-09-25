@@ -1,100 +1,111 @@
 {
-  "generatedAt": "2026-09-24T11:03:05.076Z",
+  "generatedAt": "2026-09-25T11:02:59.497Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496816.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/497108.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-      "url": "https://www.qbitai.com/2026/09/496816.html",
-      "publishedAt": "2026-09-24T08:20:12.000Z",
-      "excerpt": "人类演示一次，机器人即可实现跨场景任务复用",
-      "content": "人类演示一次，机器人即可实现跨场景任务复用"
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "url": "https://www.qbitai.com/2026/09/497108.html",
+      "publishedAt": "2026-09-25T10:00:14.000Z",
+      "excerpt": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+      "content": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496779.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/497075.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-      "url": "https://www.qbitai.com/2026/09/496779.html",
-      "publishedAt": "2026-09-24T05:46:10.000Z",
-      "excerpt": "Stripe Managed Payments (SMP) 现已全面上线",
-      "content": "Stripe Managed Payments (SMP) 现已全面上线"
+      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+      "url": "https://www.qbitai.com/2026/09/497075.html",
+      "publishedAt": "2026-09-25T06:20:56.000Z",
+      "excerpt": "Agent的手越伸越长",
+      "content": "Agent的手越伸越长"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496778.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/497070.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-      "url": "https://www.qbitai.com/2026/09/496778.html",
-      "publishedAt": "2026-09-24T05:45:20.000Z",
-      "excerpt": "专治人机动作对不齐",
-      "content": "专治人机动作对不齐"
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "publishedAt": "2026-09-25T06:14:07.000Z",
+      "excerpt": "一场物理世界的基模实验",
+      "content": "一场物理世界的基模实验"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496767.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/497060.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-      "url": "https://www.qbitai.com/2026/09/496767.html",
-      "publishedAt": "2026-09-24T05:19:55.000Z",
-      "excerpt": "开源一座具身智能的新“塔台”",
-      "content": "开源一座具身智能的新“塔台”"
+      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+      "url": "https://www.qbitai.com/2026/09/497060.html",
+      "publishedAt": "2026-09-25T06:11:10.000Z",
+      "excerpt": "人工外包团队",
+      "content": "人工外包团队"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496658.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/497012.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-      "url": "https://www.qbitai.com/2026/09/496658.html",
-      "publishedAt": "2026-09-24T02:51:18.000Z",
-      "excerpt": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
-      "content": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496647.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "url": "https://www.qbitai.com/2026/09/496647.html",
-      "publishedAt": "2026-09-24T02:23:12.000Z",
-      "excerpt": "美国也开启了全民养虾狂潮",
-      "content": "美国也开启了全民养虾狂潮"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496615.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "成立九年，中科类脑把积累装进Token工厂",
-      "url": "https://www.qbitai.com/2026/09/496615.html",
-      "publishedAt": "2026-09-24T00:48:02.000Z",
+      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+      "url": "https://www.qbitai.com/2026/09/497012.html",
+      "publishedAt": "2026-09-25T05:52:18.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/496609.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496961.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-      "url": "https://www.qbitai.com/2026/09/496609.html",
-      "publishedAt": "2026-09-23T10:35:16.000Z",
-      "excerpt": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-      "content": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会"
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496961.html",
+      "publishedAt": "2026-09-24T14:20:14.000Z",
+      "excerpt": "懂出海，能记忆，自进化",
+      "content": "懂出海，能记忆，自进化"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496925.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "url": "https://www.qbitai.com/2026/09/496925.html",
+      "publishedAt": "2026-09-24T14:17:48.000Z",
+      "excerpt": "1.5台6000D跑赢1台B300！",
+      "content": "1.5台6000D跑赢1台B300！"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/496834.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "时隔十年，AI大牛署名新论文",
+      "url": "https://www.qbitai.com/2026/09/496834.html",
+      "publishedAt": "2026-09-24T12:58:55.000Z",
+      "excerpt": "让自动驾驶“走一步想十步”",
+      "content": "让自动驾驶“走一步想十步”"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
       "tech_news": 8
     }
