@@ -1,36 +1,51 @@
 {
-  "generatedAt": "2026-09-27T11:19:33.182Z",
+  "generatedAt": "2026-09-28T12:48:16.923Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/498546.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/498633.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "url": "https://www.qbitai.com/2026/09/498546.html",
-      "publishedAt": "2026-09-27T09:44:16.000Z",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "publishedAt": "2026-09-27T14:20:35.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/498478.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/498605.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "publishedAt": "2026-09-26T11:49:43.000Z",
-      "excerpt": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "content": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://www.qbitai.com/2026/09/498605.html",
+      "publishedAt": "2026-09-27T13:57:57.000Z",
+      "excerpt": "想让开发者“说句话就能跑量子计算”",
+      "content": "想让开发者“说句话就能跑量子计算”"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/498584.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "url": "https://www.qbitai.com/2026/09/498584.html",
+      "publishedAt": "2026-09-27T13:40:02.000Z",
+      "excerpt": "中秋假期文具OpenRouter调用日榜榜首",
+      "content": "中秋假期文具OpenRouter调用日榜榜首"
     }
   ],
   "stats": {
-    "totalItems": 2,
+    "totalItems": 3,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 2
+      "tech_news": 3
     }
-  }
+  },
+  "errors": [
+    "中国科大通知公告: fetch failed",
+    "中国科大新闻网: fetch failed"
+  ]
 }
