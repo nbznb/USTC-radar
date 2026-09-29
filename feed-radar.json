@@ -1,51 +1,113 @@
 {
-  "generatedAt": "2026-09-28T12:48:16.923Z",
+  "generatedAt": "2026-09-29T12:03:27.323Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/498633.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499239.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "url": "https://www.qbitai.com/2026/09/498633.html",
-      "publishedAt": "2026-09-27T14:20:35.000Z",
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "url": "https://www.qbitai.com/2026/09/499239.html",
+      "publishedAt": "2026-09-29T10:56:33.000Z",
+      "excerpt": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+      "content": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499188.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "url": "https://www.qbitai.com/2026/09/499188.html",
+      "publishedAt": "2026-09-29T07:59:46.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/498605.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499140.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "publishedAt": "2026-09-27T13:57:57.000Z",
-      "excerpt": "想让开发者“说句话就能跑量子计算”",
-      "content": "想让开发者“说句话就能跑量子计算”"
+      "title": "OpenAI因新模型太强叫停发布",
+      "url": "https://www.qbitai.com/2026/09/499140.html",
+      "publishedAt": "2026-09-29T07:49:20.000Z",
+      "excerpt": "AGI计划暂停。",
+      "content": "AGI计划暂停。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/498584.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499135.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "url": "https://www.qbitai.com/2026/09/498584.html",
-      "publishedAt": "2026-09-27T13:40:02.000Z",
-      "excerpt": "中秋假期文具OpenRouter调用日榜榜首",
-      "content": "中秋假期文具OpenRouter调用日榜榜首"
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "url": "https://www.qbitai.com/2026/09/499135.html",
+      "publishedAt": "2026-09-29T07:10:59.000Z",
+      "excerpt": "诺因从Demo走向家庭",
+      "content": "诺因从Demo走向家庭"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499098.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "publishedAt": "2026-09-29T00:49:30.000Z",
+      "excerpt": "李飞飞将入职AMD首席科学家",
+      "content": "李飞飞将入职AMD首席科学家"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/498877.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "publishedAt": "2026-09-28T12:43:53.000Z",
+      "excerpt": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+      "content": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/498787.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "publishedAt": "2026-09-28T11:18:27.000Z",
+      "excerpt": "AI基础设施下一站：算电协同",
+      "content": "AI基础设施下一站：算电协同"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96439.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大首次观测到共振荧光中的多光子纠缠",
+      "url": "https://news.ustc.edu.cn/info/1055/96439.htm",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "excerpt": "我校郭光灿院士团队在冷原子共振荧光研究中取得重要进展。该团队李传锋、王健等人揭示了共振荧光中的多光子散射过程，提出并实现了一种基于单个二能级原子制备多光子纠缠态的新方法，拓展了对共振荧光物理过程的认识，为多光子纠缠在量子计算和量子网络等领域的应用提供了新的途径。相关研究成果以“Observation of multiphoton entanglement in resonance fluorescence”为题，9日24日在线发表于国际知名学术期刊《自然·光子学...",
+      "content": "我校郭光灿院士团队在冷原子共振荧光研究中取得重要进展。该团队李传锋、王健等人揭示了共振荧光中的多光子散射过程，提出并实现了一种基于单个二能级原子制备多光子纠缠态的新方法，拓展了对共振荧光物理过程的认识，为多光子纠缠在量子计算和量子网络等领域的应用提供了新的途径。相关研究成果以“Observation of multiphoton entanglement in resonance fluorescence”为题，9日24日在线发表于国际知名学术期刊《自然·光子学..."
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 3,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
-      "community": 0,
-      "tech_news": 3
+      "campus_notices": 1,
+      "community": 1,
+      "tech_news": 7
     }
-  },
-  "errors": [
-    "中国科大通知公告: fetch failed",
-    "中国科大新闻网: fetch failed"
-  ]
+  }
 }
