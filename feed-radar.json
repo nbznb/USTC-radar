@@ -1,135 +1,36 @@
 {
-  "generatedAt": "2026-09-30T11:51:51.768Z",
+  "generatedAt": "2026-10-01T12:21:24.088Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499597.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499654.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Anthropic，你是来给智谱打广告的吧！",
-      "url": "https://www.qbitai.com/2026/09/499597.html",
-      "publishedAt": "2026-09-30T10:04:12.000Z",
-      "excerpt": "实测说GLM-5.3很强",
-      "content": "实测说GLM-5.3很强"
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "publishedAt": "2026-09-30T14:03:43.000Z",
+      "excerpt": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+      "content": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499592.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/09/499605.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "url": "https://www.qbitai.com/2026/09/499592.html",
-      "publishedAt": "2026-09-30T07:58:37.000Z",
-      "excerpt": "给Agent配上手机号，再拉个群",
-      "content": "给Agent配上手机号，再拉个群"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499493.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "publishedAt": "2026-09-30T07:54:54.000Z",
-      "excerpt": "让GPT把机器人技能当工具调用",
-      "content": "让GPT把机器人技能当工具调用"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499308.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "url": "https://www.qbitai.com/2026/09/499308.html",
-      "publishedAt": "2026-09-30T05:18:05.000Z",
-      "excerpt": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-      "content": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499280.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "url": "https://www.qbitai.com/2026/09/499280.html",
-      "publishedAt": "2026-09-30T04:42:22.000Z",
-      "excerpt": "机器人上市，风向有变",
-      "content": "机器人上市，风向有变"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499263.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "url": "https://www.qbitai.com/2026/09/499263.html",
-      "publishedAt": "2026-09-30T02:53:17.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25830.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举行第二十六届RoboGame机器人大赛决赛的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25830.htm",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "excerpt": "RoboGame机器人大赛是我校一项具有广泛影响力的学生科技创新与综合实践品牌活动，由教务处、校团委、党委学生工作部（处）、党委宣传部、保卫与校园管理处联合主办，工程科学学院承办，工程科学实验教学中心和校学生机器人俱乐部协办。本届大赛以“未来月球基地智能建设”为背景，围绕智能机器人技术与未来应用场景设置竞技组和展示组两大赛道。其中，竞技组以“构筑巅峰”为主题，采用两队对抗竞赛形式，重点考察机器人智能感...",
-      "content": "RoboGame机器人大赛是我校一项具有广泛影响力的学生科技创新与综合实践品牌活动，由教务处、校团委、党委学生工作部（处）、党委宣传部、保卫与校园管理处联合主办，工程科学学院承办，工程科学实验教学中心和校学生机器人俱乐部协办。本届大赛以“未来月球基地智能建设”为背景，围绕智能机器人技术与未来应用场景设置竞技组和展示组两大赛道。其中，竞技组以“构筑巅峰”为主题，采用两队对抗竞赛形式，重点考察机器人智能感..."
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96473.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大在《自然综述·化学》发表锂介导合成氨综述文章",
-      "url": "https://news.ustc.edu.cn/info/1055/96473.htm",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学化学与材料科学学院、精准智能化学全国重点实验室李少锋特任教授团队在《自然综述·化学》（Nature ReviewsChemistry）在线发表题为“Operando and multiscale insights into the solid electrolyte interphase in lithium-mediated nitrogen reduction”的综述文章。文章聚焦锂介导氮还原反应（Li-NRR）中的固体电解质界面（SEI），系统总结了SEI形成、动态演变及其功能，并提出融合工况/原位与多尺度非...",
-      "content": "近日，中国科学技术大学化学与材料科学学院、精准智能化学全国重点实验室李少锋特任教授团队在《自然综述·化学》（Nature ReviewsChemistry）在线发表题为“Operando and multiscale insights into the solid electrolyte interphase in lithium-mediated nitrogen reduction”的综述文章。文章聚焦锂介导氮还原反应（Li-NRR）中的固体电解质界面（SEI），系统总结了SEI形成、动态演变及其功能，并提出融合工况/原位与多尺度非..."
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96470.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大实现抗噪声量子密钥分发",
-      "url": "https://news.ustc.edu.cn/info/1055/96470.htm",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "excerpt": "我校郭光灿院士团队在量子密钥分发实用化研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与河南省量子信息与量子密码重点实验室、南京邮电大学合作，针对量子通信实际应用中的强背景噪声问题，首次实现了基于优势提取的实用化测量设备无关量子密钥分发，结合高速并行编码与小型化半导体单光子探测技术，将噪声容忍能力提升4个数量级，验证了典型城际通信距离下量子密钥分发与现网光通信设备共纤传输的可行性。相关研...",
-      "content": "我校郭光灿院士团队在量子密钥分发实用化研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与河南省量子信息与量子密码重点实验室、南京邮电大学合作，针对量子通信实际应用中的强背景噪声问题，首次实现了基于优势提取的实用化测量设备无关量子密钥分发，结合高速并行编码与小型化半导体单光子探测技术，将噪声容忍能力提升4个数量级，验证了典型城际通信距离下量子密钥分发与现网光通信设备共纤传输的可行性。相关研..."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/09/499246.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "url": "https://www.qbitai.com/2026/09/499246.html",
-      "publishedAt": "2026-09-29T23:01:05.000Z",
-      "excerpt": "今年devday牙膏挤爆",
-      "content": "今年devday牙膏挤爆"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25720.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之宋泽滨教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25720.htm",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "excerpt": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重...",
-      "content": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重..."
+      "title": "直播回顾：工业AI的下一个机会在哪？",
+      "url": "https://www.qbitai.com/2026/09/499605.html",
+      "publishedAt": "2026-09-30T12:11:24.000Z",
+      "excerpt": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+      "content": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
     }
   ],
   "stats": {
-    "totalItems": 11,
+    "totalItems": 2,
     "byCategory": {
-      "campus_notices": 2,
-      "community": 2,
-      "tech_news": 7
+      "campus_notices": 0,
+      "community": 0,
+      "tech_news": 2
     }
   }
 }
