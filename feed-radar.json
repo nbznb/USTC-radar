@@ -1,56 +1,45 @@
 {
-  "generatedAt": "2026-10-03T11:02:54.106Z",
+  "generatedAt": "2026-10-04T11:44:06.761Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501381.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501605.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
-      "publishedAt": "2026-10-03T07:54:43.000Z",
-      "excerpt": "岗位JD甩了篇技术报告",
-      "content": "岗位JD甩了篇技术报告"
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "publishedAt": "2026-10-04T06:12:22.000Z",
+      "excerpt": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "content": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501368.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501506.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "publishedAt": "2026-10-03T04:41:24.000Z",
-      "excerpt": "又咋啦。。。",
-      "content": "又咋啦。。。"
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "publishedAt": "2026-10-04T06:05:35.000Z",
+      "excerpt": "什么是FDE？它会一直存在吗？",
+      "content": "什么是FDE？它会一直存在吗？"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/500148.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501451.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
-      "publishedAt": "2026-10-03T02:38:19.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25677",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "publishedAt": "2026-10-04T00:53:29.000Z",
+      "excerpt": "专业3D模型反而更稀缺了",
+      "content": "专业3D模型反而更稀缺了"
     }
   ],
   "stats": {
-    "totalItems": 4,
+    "totalItems": 3,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
       "tech_news": 3
     }
