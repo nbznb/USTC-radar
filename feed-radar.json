@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-04T11:44:06.761Z",
+  "generatedAt": "2026-10-05T13:29:43.104Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501605.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501720.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "publishedAt": "2026-10-04T06:12:22.000Z",
-      "excerpt": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-      "content": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "url": "https://www.qbitai.com/2026/10/501720.html",
+      "publishedAt": "2026-10-05T10:37:01.000Z",
+      "excerpt": "从绿藻里的光开关，到控制神经元",
+      "content": "从绿藻里的光开关，到控制神经元"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501506.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501705.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "publishedAt": "2026-10-04T06:05:35.000Z",
-      "excerpt": "什么是FDE？它会一直存在吗？",
-      "content": "什么是FDE？它会一直存在吗？"
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "publishedAt": "2026-10-05T04:42:52.000Z",
+      "excerpt": "AI已经开始真正进入「造下一代AI」的流水线",
+      "content": "AI已经开始真正进入「造下一代AI」的流水线"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501451.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501700.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "publishedAt": "2026-10-04T00:53:29.000Z",
-      "excerpt": "专业3D模型反而更稀缺了",
-      "content": "专业3D模型反而更稀缺了"
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "publishedAt": "2026-10-05T02:50:46.000Z",
+      "excerpt": "有改进就体验，没改进就重置，横竖不亏。",
+      "content": "有改进就体验，没改进就重置，横竖不亏。"
     }
   ],
   "stats": {
