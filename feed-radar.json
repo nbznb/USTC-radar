@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-05T13:29:43.104Z",
+  "generatedAt": "2026-10-06T12:41:22.603Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501720.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501746.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，诺贝尔奖颁给光遗传学！",
-      "url": "https://www.qbitai.com/2026/10/501720.html",
-      "publishedAt": "2026-10-05T10:37:01.000Z",
-      "excerpt": "从绿藻里的光开关，到控制神经元",
-      "content": "从绿藻里的光开关，到控制神经元"
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "publishedAt": "2026-10-06T10:44:58.000Z",
+      "excerpt": "南极洲甚至有一座高地以他名字命名",
+      "content": "南极洲甚至有一座高地以他名字命名"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501705.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501736.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，Hinton发了首篇RSI论文",
-      "url": "https://www.qbitai.com/2026/10/501705.html",
-      "publishedAt": "2026-10-05T04:42:52.000Z",
-      "excerpt": "AI已经开始真正进入「造下一代AI」的流水线",
-      "content": "AI已经开始真正进入「造下一代AI」的流水线"
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "publishedAt": "2026-10-06T07:59:17.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501700.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501726.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-      "url": "https://www.qbitai.com/2026/10/501700.html",
-      "publishedAt": "2026-10-05T02:50:46.000Z",
-      "excerpt": "有改进就体验，没改进就重置，横竖不亏。",
-      "content": "有改进就体验，没改进就重置，横竖不亏。"
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "publishedAt": "2026-10-06T06:45:40.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
