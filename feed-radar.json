@@ -1,47 +1,69 @@
 {
-  "generatedAt": "2026-10-06T12:41:22.603Z",
+  "generatedAt": "2026-10-07T12:35:04.951Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501746.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501803.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
-      "publishedAt": "2026-10-06T10:44:58.000Z",
-      "excerpt": "南极洲甚至有一座高地以他名字命名",
-      "content": "南极洲甚至有一座高地以他名字命名"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501736.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
-      "publishedAt": "2026-10-06T07:59:17.000Z",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "url": "https://www.qbitai.com/2026/10/501803.html",
+      "publishedAt": "2026-10-07T11:34:47.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/501726.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501796.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "url": "https://www.qbitai.com/2026/10/501726.html",
-      "publishedAt": "2026-10-06T06:45:40.000Z",
+      "title": "晕…这年头还有说人话的AI不",
+      "url": "https://www.qbitai.com/2026/10/501796.html",
+      "publishedAt": "2026-10-07T08:41:13.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501791.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "publishedAt": "2026-10-07T06:39:36.000Z",
+      "excerpt": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "content": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/501749.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "publishedAt": "2026-10-07T01:05:13.000Z",
+      "excerpt": "三位菲尔兹奖得主：不代表认可",
+      "content": "三位菲尔兹奖得主：不代表认可"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科学技术大学统一身份认证",
+      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=25710",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
       "excerpt": "",
       "content": ""
     }
   ],
   "stats": {
-    "totalItems": 3,
+    "totalItems": 5,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 3
+      "tech_news": 4
     }
   }
 }
