@@ -1,102 +1,25 @@
 {
-  "generatedAt": "2026-10-09T12:30:50.241Z",
+  "generatedAt": "2026-10-10T11:50:33.022Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502426.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502467.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "TRAE终于把Code和Work合并了",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
-      "publishedAt": "2026-10-09T09:19:57.000Z",
-      "excerpt": "大写的方便",
-      "content": "大写的方便"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502422.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "url": "https://www.qbitai.com/2026/10/502422.html",
-      "publishedAt": "2026-10-09T08:53:08.000Z",
-      "excerpt": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
-      "content": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502411.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-      "url": "https://www.qbitai.com/2026/10/502411.html",
-      "publishedAt": "2026-10-09T08:47:34.000Z",
-      "excerpt": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
-      "content": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502364.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "publishedAt": "2026-10-09T07:11:55.000Z",
-      "excerpt": "答不答得对，得看Token站位",
-      "content": "答不答得对，得看Token站位"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502359.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "url": "https://www.qbitai.com/2026/10/502359.html",
-      "publishedAt": "2026-10-09T06:28:55.000Z",
-      "excerpt": "Google 研究成果首次登上《柳叶刀》主刊",
-      "content": "Google 研究成果首次登上《柳叶刀》主刊"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502330.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "url": "https://www.qbitai.com/2026/10/502330.html",
-      "publishedAt": "2026-10-09T04:15:05.000Z",
-      "excerpt": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
-      "content": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502125.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "publishedAt": "2026-10-09T03:52:21.000Z",
-      "excerpt": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
-      "content": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502114.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-      "url": "https://www.qbitai.com/2026/10/502114.html",
-      "publishedAt": "2026-10-09T02:51:10.000Z",
-      "excerpt": "江淮再度跌停",
-      "content": "江淮再度跌停"
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "url": "https://www.qbitai.com/2026/10/502467.html",
+      "publishedAt": "2026-10-10T06:59:02.000Z",
+      "excerpt": "马斯克反而发文道谢？",
+      "content": "马斯克反而发文道谢？"
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 1,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 1
     }
   }
 }
