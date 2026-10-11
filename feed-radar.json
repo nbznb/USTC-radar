@@ -1,25 +1,113 @@
 {
-  "generatedAt": "2026-10-10T11:50:33.022Z",
+  "generatedAt": "2026-10-11T12:02:18.032Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502467.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502584.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "publishedAt": "2026-10-10T06:59:02.000Z",
-      "excerpt": "马斯克反而发文道谢？",
-      "content": "马斯克反而发文道谢？"
+      "title": "王的猜想，刚刚扩展到四维",
+      "url": "https://www.qbitai.com/2026/10/502584.html",
+      "publishedAt": "2026-10-11T05:23:47.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502585.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
+      "publishedAt": "2026-10-11T05:22:38.000Z",
+      "excerpt": "马斯克连横A社，硅谷VC开始囤GPU",
+      "content": "马斯克连横A社，硅谷VC开始囤GPU"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502550.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "url": "https://www.qbitai.com/2026/10/502550.html",
+      "publishedAt": "2026-10-11T05:18:04.000Z",
+      "excerpt": "初代4o的API快照进入停用倒计时",
+      "content": "初代4o的API快照进入停用倒计时"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502544.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+      "url": "https://www.qbitai.com/2026/10/502544.html",
+      "publishedAt": "2026-10-11T03:27:08.000Z",
+      "excerpt": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+      "content": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25873.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之张晓亮副教授报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25873.htm",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "excerpt": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精...",
+      "content": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精..."
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502541.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "url": "https://www.qbitai.com/2026/10/502541.html",
+      "publishedAt": "2026-10-10T10:30:36.000Z",
+      "excerpt": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+      "content": "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502496.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+      "url": "https://www.qbitai.com/2026/10/502496.html",
+      "publishedAt": "2026-10-10T09:07:43.000Z",
+      "excerpt": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+      "content": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502492.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+      "url": "https://www.qbitai.com/2026/10/502492.html",
+      "publishedAt": "2026-10-10T08:54:08.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502484.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+      "url": "https://www.qbitai.com/2026/10/502484.html",
+      "publishedAt": "2026-10-10T08:52:16.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 1,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 1
+      "tech_news": 8
     }
   }
 }
