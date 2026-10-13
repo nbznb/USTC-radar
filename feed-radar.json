@@ -1,69 +1,124 @@
 {
-  "generatedAt": "2026-10-12T14:19:17.122Z",
+  "generatedAt": "2026-10-13T13:28:40.913Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502654.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503107.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "url": "https://www.qbitai.com/2026/10/502654.html",
-      "publishedAt": "2026-10-12T05:48:36.000Z",
-      "excerpt": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "content": "游戏打到21:0，AI甚至不用再调用大模型了"
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "publishedAt": "2026-10-13T11:05:39.000Z",
+      "excerpt": "让VLA从“演示可用”逼近“产线可用”",
+      "content": "让VLA从“演示可用”逼近“产线可用”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502649.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503093.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "智谱新模型，490 tokens/s！",
-      "url": "https://www.qbitai.com/2026/10/502649.html",
-      "publishedAt": "2026-10-12T02:37:04.000Z",
-      "excerpt": "GLM「速度仙人」来了？",
-      "content": "GLM「速度仙人」来了？"
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "publishedAt": "2026-10-13T09:33:37.000Z",
+      "excerpt": "Winverse AI",
+      "content": "Winverse AI"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502644.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502992.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "url": "https://www.qbitai.com/2026/10/502644.html",
-      "publishedAt": "2026-10-11T09:04:31.000Z",
-      "excerpt": "一套生成论文初稿的多智能体工作流",
-      "content": "一套生成论文初稿的多智能体工作流"
+      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+      "url": "https://www.qbitai.com/2026/10/502992.html",
+      "publishedAt": "2026-10-13T07:20:23.000Z",
+      "excerpt": "宝马保时捷缺席",
+      "content": "宝马保时捷缺席"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502628.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502954.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "何恺明团队发布多模态Harness框架",
-      "url": "https://www.qbitai.com/2026/10/502628.html",
-      "publishedAt": "2026-10-11T08:59:06.000Z",
-      "excerpt": "多模态模型的视觉原生Harness，来了！",
-      "content": "多模态模型的视觉原生Harness，来了！"
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+      "url": "https://www.qbitai.com/2026/10/502954.html",
+      "publishedAt": "2026-10-13T07:19:21.000Z",
+      "excerpt": "让材料感知压力，造出超薄高密度电子皮肤",
+      "content": "让材料感知压力，造出超薄高密度电子皮肤"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502594.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502920.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "陶哲轩：数学2.0时代已至！",
-      "url": "https://www.qbitai.com/2026/10/502594.html",
-      "publishedAt": "2026-10-11T07:52:16.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "url": "https://www.qbitai.com/2026/10/502920.html",
+      "publishedAt": "2026-10-13T06:19:10.000Z",
+      "excerpt": "拉马克进化的幽灵",
+      "content": "拉马克进化的幽灵"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502907.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+      "url": "https://www.qbitai.com/2026/10/502907.html",
+      "publishedAt": "2026-10-13T06:00:20.000Z",
+      "excerpt": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+      "content": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502784.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+      "url": "https://www.qbitai.com/2026/10/502784.html",
+      "publishedAt": "2026-10-13T04:07:04.000Z",
+      "excerpt": "赢奖金、拿融资、送出海",
+      "content": "赢奖金、拿融资、送出海"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/502849.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+      "url": "https://www.qbitai.com/2026/10/502849.html",
+      "publishedAt": "2026-10-13T04:04:22.000Z",
+      "excerpt": "丢一句话进去，事儿就办完了",
+      "content": "丢一句话进去，事儿就办完了"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96573.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大实现硫脲介导的氧杂环丁烷一步氧硫交换",
+      "url": "https://news.ustc.edu.cn/info/1055/96573.htm",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学张海军特任教授课题组与傅尧教授课题组合作，在四元杂环骨架精准编辑方面取得新进展。研究团队发展了一种硫脲介导的一步骨架编辑策略，实现氧杂环丁烷向硫杂环丁烷的直接转化，为优势杂环之间的高效互换和杂原子效应的快速评估提供了新的合成工具。相关成果以“One-step skeletal editing of oxetanes to thietanes using thiourea”为题，10月12日在线发表于国际知名学术期刊《自然·合成》（Nature Synt...",
+      "content": "近日，中国科学技术大学张海军特任教授课题组与傅尧教授课题组合作，在四元杂环骨架精准编辑方面取得新进展。研究团队发展了一种硫脲介导的一步骨架编辑策略，实现氧杂环丁烷向硫杂环丁烷的直接转化，为优势杂环之间的高效互换和杂原子效应的快速评估提供了新的合成工具。相关成果以“One-step skeletal editing of oxetanes to thietanes using thiourea”为题，10月12日在线发表于国际知名学术期刊《自然·合成》（Nature Synt..."
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96567.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大实现离子阱量子存储器和光纤网络的高效互联",
+      "url": "https://news.ustc.edu.cn/info/1055/96567.htm",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "excerpt": "中国科学技术大学潘建伟、张强等与济南量子技术研究院郑名扬等，在紫外波段离子阱存储器和通信光纤的高效量子互联方面取得重要进展。研究团队成功实现393nm至1550nm的高效率、低噪声量子频率转换（QFC，Quantum Frequency Conversion），刷新了该波段量子频率转换效率与噪声水平的国际纪录，为可扩展量子网络中囚禁离子节点的远程互连提供了关键技术。10月13日，相关成果发表于国际知名物理学期刊《物理评论快报》。囚禁离子体...",
+      "content": "中国科学技术大学潘建伟、张强等与济南量子技术研究院郑名扬等，在紫外波段离子阱存储器和通信光纤的高效量子互联方面取得重要进展。研究团队成功实现393nm至1550nm的高效率、低噪声量子频率转换（QFC，Quantum Frequency Conversion），刷新了该波段量子频率转换效率与噪声水平的国际纪录，为可扩展量子网络中囚禁离子节点的远程互连提供了关键技术。10月13日，相关成果发表于国际知名物理学期刊《物理评论快报》。囚禁离子体..."
     }
   ],
   "stats": {
-    "totalItems": 5,
+    "totalItems": 10,
     "byCategory": {
       "campus_notices": 0,
-      "community": 0,
-      "tech_news": 5
+      "community": 2,
+      "tech_news": 8
     }
   }
 }
