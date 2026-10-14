@@ -1,116 +1,116 @@
 {
-  "generatedAt": "2026-10-13T13:28:40.913Z",
+  "generatedAt": "2026-10-14T11:05:58.820Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503107.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503244.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
-      "publishedAt": "2026-10-13T11:05:39.000Z",
-      "excerpt": "让VLA从“演示可用”逼近“产线可用”",
-      "content": "让VLA从“演示可用”逼近“产线可用”"
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "publishedAt": "2026-10-14T08:01:18.000Z",
+      "excerpt": "这妥妥是个物理版Agent啊！",
+      "content": "这妥妥是个物理版Agent啊！"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503093.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503231.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "publishedAt": "2026-10-13T09:33:37.000Z",
-      "excerpt": "Winverse AI",
-      "content": "Winverse AI"
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "publishedAt": "2026-10-14T07:12:02.000Z",
+      "excerpt": "汽车竞争正在回归汽车本身",
+      "content": "汽车竞争正在回归汽车本身"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502992.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503211.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "url": "https://www.qbitai.com/2026/10/502992.html",
-      "publishedAt": "2026-10-13T07:20:23.000Z",
-      "excerpt": "宝马保时捷缺席",
-      "content": "宝马保时捷缺席"
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "publishedAt": "2026-10-14T07:03:44.000Z",
+      "excerpt": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "content": "从创意到成本，AI正在重写综艺的生产逻辑"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502954.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503201.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "url": "https://www.qbitai.com/2026/10/502954.html",
-      "publishedAt": "2026-10-13T07:19:21.000Z",
-      "excerpt": "让材料感知压力，造出超薄高密度电子皮肤",
-      "content": "让材料感知压力，造出超薄高密度电子皮肤"
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "url": "https://www.qbitai.com/2026/10/503201.html",
+      "publishedAt": "2026-10-14T06:45:38.000Z",
+      "excerpt": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "content": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502920.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503198.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "url": "https://www.qbitai.com/2026/10/502920.html",
-      "publishedAt": "2026-10-13T06:19:10.000Z",
-      "excerpt": "拉马克进化的幽灵",
-      "content": "拉马克进化的幽灵"
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "url": "https://www.qbitai.com/2026/10/503198.html",
+      "publishedAt": "2026-10-14T06:24:00.000Z",
+      "excerpt": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+      "content": "CMOS标准工艺兼容的1TnR技术路线加速研发。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502907.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503172.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-      "url": "https://www.qbitai.com/2026/10/502907.html",
-      "publishedAt": "2026-10-13T06:00:20.000Z",
-      "excerpt": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-      "content": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "url": "https://www.qbitai.com/2026/10/503172.html",
+      "publishedAt": "2026-10-14T04:51:32.000Z",
+      "excerpt": "给Ego补上缺失的交互信息",
+      "content": "给Ego补上缺失的交互信息"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502784.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503173.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-      "url": "https://www.qbitai.com/2026/10/502784.html",
-      "publishedAt": "2026-10-13T04:07:04.000Z",
-      "excerpt": "赢奖金、拿融资、送出海",
-      "content": "赢奖金、拿融资、送出海"
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "publishedAt": "2026-10-14T04:09:29.000Z",
+      "excerpt": "从“懂空间”到“能干活”",
+      "content": "从“懂空间”到“能干活”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/502849.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503165.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
-      "url": "https://www.qbitai.com/2026/10/502849.html",
-      "publishedAt": "2026-10-13T04:04:22.000Z",
-      "excerpt": "丢一句话进去，事儿就办完了",
-      "content": "丢一句话进去，事儿就办完了"
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "publishedAt": "2026-10-14T03:32:48.000Z",
+      "excerpt": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "content": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96573.htm",
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96587.htm",
       "sourceId": "ustc-news",
       "sourceName": "中国科大新闻网",
       "category": "community",
-      "title": "中国科大实现硫脲介导的氧杂环丁烷一步氧硫交换",
-      "url": "https://news.ustc.edu.cn/info/1055/96573.htm",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学张海军特任教授课题组与傅尧教授课题组合作，在四元杂环骨架精准编辑方面取得新进展。研究团队发展了一种硫脲介导的一步骨架编辑策略，实现氧杂环丁烷向硫杂环丁烷的直接转化，为优势杂环之间的高效互换和杂原子效应的快速评估提供了新的合成工具。相关成果以“One-step skeletal editing of oxetanes to thietanes using thiourea”为题，10月12日在线发表于国际知名学术期刊《自然·合成》（Nature Synt...",
-      "content": "近日，中国科学技术大学张海军特任教授课题组与傅尧教授课题组合作，在四元杂环骨架精准编辑方面取得新进展。研究团队发展了一种硫脲介导的一步骨架编辑策略，实现氧杂环丁烷向硫杂环丁烷的直接转化，为优势杂环之间的高效互换和杂原子效应的快速评估提供了新的合成工具。相关成果以“One-step skeletal editing of oxetanes to thietanes using thiourea”为题，10月12日在线发表于国际知名学术期刊《自然·合成》（Nature Synt..."
+      "title": "中国科大发现地球海洋在岩浆洋固化后一万年内形成",
+      "url": "https://news.ustc.edu.cn/info/1055/96587.htm",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学地球和空间科学学院黄方教授团队在地球早期水圈演化研究方面取得进展。团队通过热收支模型，首次定量计算了岩浆洋固化后原始大气凝结成海洋所需的时间，发现这一过程不到一万年，岩浆洋固化即为地球水圈的“时间零点”。相关成果以“The timescale of forming Earth’s earliest water ocean in the Hadean Eon”为题，在线发表于10月的《国家科学评论》。形成月球的大撞击产生了全球性的岩浆洋，岩浆洋...",
+      "content": "近日，中国科学技术大学地球和空间科学学院黄方教授团队在地球早期水圈演化研究方面取得进展。团队通过热收支模型，首次定量计算了岩浆洋固化后原始大气凝结成海洋所需的时间，发现这一过程不到一万年，岩浆洋固化即为地球水圈的“时间零点”。相关成果以“The timescale of forming Earth’s earliest water ocean in the Hadean Eon”为题，在线发表于10月的《国家科学评论》。形成月球的大撞击产生了全球性的岩浆洋，岩浆洋..."
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96567.htm",
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96548.htm",
       "sourceId": "ustc-news",
       "sourceName": "中国科大新闻网",
       "category": "community",
-      "title": "中国科大实现离子阱量子存储器和光纤网络的高效互联",
-      "url": "https://news.ustc.edu.cn/info/1055/96567.htm",
+      "title": "中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+      "url": "https://news.ustc.edu.cn/info/1055/96548.htm",
       "publishedAt": "2026-10-13T00:00:00.000Z",
-      "excerpt": "中国科学技术大学潘建伟、张强等与济南量子技术研究院郑名扬等，在紫外波段离子阱存储器和通信光纤的高效量子互联方面取得重要进展。研究团队成功实现393nm至1550nm的高效率、低噪声量子频率转换（QFC，Quantum Frequency Conversion），刷新了该波段量子频率转换效率与噪声水平的国际纪录，为可扩展量子网络中囚禁离子节点的远程互连提供了关键技术。10月13日，相关成果发表于国际知名物理学期刊《物理评论快报》。囚禁离子体...",
-      "content": "中国科学技术大学潘建伟、张强等与济南量子技术研究院郑名扬等，在紫外波段离子阱存储器和通信光纤的高效量子互联方面取得重要进展。研究团队成功实现393nm至1550nm的高效率、低噪声量子频率转换（QFC，Quantum Frequency Conversion），刷新了该波段量子频率转换效率与噪声水平的国际纪录，为可扩展量子网络中囚禁离子节点的远程互连提供了关键技术。10月13日，相关成果发表于国际知名物理学期刊《物理评论快报》。囚禁离子体..."
+      "excerpt": "近日，中国科学技术大学物理学院陈仙辉教授、王震宇教授团队联合该校化学与材料科学学院向斌教授、香港科技大学刘军伟教授等合作者，将一类量子自旋霍尔绝缘体制备成扫描隧道显微探针，发展了原子尺度自旋探测的新方法。利用这一技术，研究团队实现了实空间原子成像、准粒子干涉成像和磁场响应谱学测量，为二维d波交错磁序提供了直接的实验证据。10月13日，题为“Atomic-scale spin sensing of a 2D d-wave altermagnet via hel...",
+      "content": "近日，中国科学技术大学物理学院陈仙辉教授、王震宇教授团队联合该校化学与材料科学学院向斌教授、香港科技大学刘军伟教授等合作者，将一类量子自旋霍尔绝缘体制备成扫描隧道显微探针，发展了原子尺度自旋探测的新方法。利用这一技术，研究团队实现了实空间原子成像、准粒子干涉成像和磁场响应谱学测量，为二维d波交错磁序提供了直接的实验证据。10月13日，题为“Atomic-scale spin sensing of a 2D d-wave altermagnet via hel..."
     }
   ],
   "stats": {
