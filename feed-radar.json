@@ -1,124 +1,36 @@
 {
-  "generatedAt": "2026-10-14T11:05:58.820Z",
+  "generatedAt": "2026-10-15T10:47:45.361Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503244.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503303.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "url": "https://www.qbitai.com/2026/10/503244.html",
-      "publishedAt": "2026-10-14T08:01:18.000Z",
-      "excerpt": "这妥妥是个物理版Agent啊！",
-      "content": "这妥妥是个物理版Agent啊！"
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "publishedAt": "2026-10-15T01:56:20.000Z",
+      "excerpt": "给企业Agent打了个样",
+      "content": "给企业Agent打了个样"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503231.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503294.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "url": "https://www.qbitai.com/2026/10/503231.html",
-      "publishedAt": "2026-10-14T07:12:02.000Z",
-      "excerpt": "汽车竞争正在回归汽车本身",
-      "content": "汽车竞争正在回归汽车本身"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503211.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "url": "https://www.qbitai.com/2026/10/503211.html",
-      "publishedAt": "2026-10-14T07:03:44.000Z",
-      "excerpt": "从创意到成本，AI正在重写综艺的生产逻辑",
-      "content": "从创意到成本，AI正在重写综艺的生产逻辑"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503201.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "url": "https://www.qbitai.com/2026/10/503201.html",
-      "publishedAt": "2026-10-14T06:45:38.000Z",
-      "excerpt": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
-      "content": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503198.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "url": "https://www.qbitai.com/2026/10/503198.html",
-      "publishedAt": "2026-10-14T06:24:00.000Z",
-      "excerpt": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-      "content": "CMOS标准工艺兼容的1TnR技术路线加速研发。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503172.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
-      "publishedAt": "2026-10-14T04:51:32.000Z",
-      "excerpt": "给Ego补上缺失的交互信息",
-      "content": "给Ego补上缺失的交互信息"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503173.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
-      "publishedAt": "2026-10-14T04:09:29.000Z",
-      "excerpt": "从“懂空间”到“能干活”",
-      "content": "从“懂空间”到“能干活”"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503165.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "publishedAt": "2026-10-14T03:32:48.000Z",
-      "excerpt": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-      "content": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96587.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大发现地球海洋在岩浆洋固化后一万年内形成",
-      "url": "https://news.ustc.edu.cn/info/1055/96587.htm",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学地球和空间科学学院黄方教授团队在地球早期水圈演化研究方面取得进展。团队通过热收支模型，首次定量计算了岩浆洋固化后原始大气凝结成海洋所需的时间，发现这一过程不到一万年，岩浆洋固化即为地球水圈的“时间零点”。相关成果以“The timescale of forming Earth’s earliest water ocean in the Hadean Eon”为题，在线发表于10月的《国家科学评论》。形成月球的大撞击产生了全球性的岩浆洋，岩浆洋...",
-      "content": "近日，中国科学技术大学地球和空间科学学院黄方教授团队在地球早期水圈演化研究方面取得进展。团队通过热收支模型，首次定量计算了岩浆洋固化后原始大气凝结成海洋所需的时间，发现这一过程不到一万年，岩浆洋固化即为地球水圈的“时间零点”。相关成果以“The timescale of forming Earth’s earliest water ocean in the Hadean Eon”为题，在线发表于10月的《国家科学评论》。形成月球的大撞击产生了全球性的岩浆洋，岩浆洋..."
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96548.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
-      "url": "https://news.ustc.edu.cn/info/1055/96548.htm",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学物理学院陈仙辉教授、王震宇教授团队联合该校化学与材料科学学院向斌教授、香港科技大学刘军伟教授等合作者，将一类量子自旋霍尔绝缘体制备成扫描隧道显微探针，发展了原子尺度自旋探测的新方法。利用这一技术，研究团队实现了实空间原子成像、准粒子干涉成像和磁场响应谱学测量，为二维d波交错磁序提供了直接的实验证据。10月13日，题为“Atomic-scale spin sensing of a 2D d-wave altermagnet via hel...",
-      "content": "近日，中国科学技术大学物理学院陈仙辉教授、王震宇教授团队联合该校化学与材料科学学院向斌教授、香港科技大学刘军伟教授等合作者，将一类量子自旋霍尔绝缘体制备成扫描隧道显微探针，发展了原子尺度自旋探测的新方法。利用这一技术，研究团队实现了实空间原子成像、准粒子干涉成像和磁场响应谱学测量，为二维d波交错磁序提供了直接的实验证据。10月13日，题为“Atomic-scale spin sensing of a 2D d-wave altermagnet via hel..."
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "publishedAt": "2026-10-14T10:41:47.000Z",
+      "excerpt": "“具身进实景，劳动最光荣”",
+      "content": "“具身进实景，劳动最光荣”"
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 2,
     "byCategory": {
       "campus_notices": 0,
-      "community": 2,
-      "tech_news": 8
+      "community": 0,
+      "tech_news": 2
     }
   }
 }
