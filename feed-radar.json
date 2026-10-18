@@ -1,124 +1,80 @@
 {
-  "generatedAt": "2026-10-17T10:05:36.496Z",
+  "generatedAt": "2026-10-18T10:19:13.476Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503880.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504067.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "url": "https://www.qbitai.com/2026/10/503880.html",
-      "publishedAt": "2026-10-16T12:54:54.000Z",
-      "excerpt": "从搭载物理建模能力的世界模型切入",
-      "content": "从搭载物理建模能力的世界模型切入"
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "publishedAt": "2026-10-17T12:21:09.000Z",
+      "excerpt": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "content": "新版本V4.1-Flash-1017，还开放了自研搜索API"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503865.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503965.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "url": "https://www.qbitai.com/2026/10/503865.html",
-      "publishedAt": "2026-10-16T08:12:01.000Z",
-      "excerpt": "VLA解决“能干”，世界模型解决“想清楚再干”",
-      "content": "VLA解决“能干”，世界模型解决“想清楚再干”"
+      "title": "智谱新模型，懂法方面全球第一了",
+      "url": "https://www.qbitai.com/2026/10/503965.html",
+      "publishedAt": "2026-10-17T12:13:45.000Z",
+      "excerpt": "AI的风还是刮到了法律圈",
+      "content": "AI的风还是刮到了法律圈"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503861.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503935.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
-      "url": "https://www.qbitai.com/2026/10/503861.html",
-      "publishedAt": "2026-10-16T08:07:33.000Z",
-      "excerpt": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
-      "content": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议"
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "url": "https://www.qbitai.com/2026/10/503935.html",
+      "publishedAt": "2026-10-17T12:10:35.000Z",
+      "excerpt": "整套系统原生支持MCP",
+      "content": "整套系统原生支持MCP"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503843.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503910.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
-      "publishedAt": "2026-10-16T08:00:31.000Z",
-      "excerpt": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
-      "content": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "url": "https://www.qbitai.com/2026/10/503910.html",
+      "publishedAt": "2026-10-17T12:06:51.000Z",
+      "excerpt": "谜底指向时间",
+      "content": "谜底指向时间"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503829.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/503893.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
-      "url": "https://www.qbitai.com/2026/10/503829.html",
-      "publishedAt": "2026-10-16T07:16:11.000Z",
-      "excerpt": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-      "content": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "url": "https://www.qbitai.com/2026/10/503893.html",
+      "publishedAt": "2026-10-17T09:05:08.000Z",
+      "excerpt": "通往全球市场的超级跳板",
+      "content": "通往全球市场的超级跳板"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503815.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504116.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
-      "url": "https://www.qbitai.com/2026/10/503815.html",
-      "publishedAt": "2026-10-16T07:01:31.000Z",
-      "excerpt": "经验没有压缩算法",
-      "content": "经验没有压缩算法"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503782.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
-      "url": "https://www.qbitai.com/2026/10/503782.html",
-      "publishedAt": "2026-10-16T06:17:53.000Z",
-      "excerpt": "9.8万元起售，冲刺万台量产",
-      "content": "9.8万元起售，冲刺万台量产"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503779.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-      "url": "https://www.qbitai.com/2026/10/503779.html",
-      "publishedAt": "2026-10-16T06:07:41.000Z",
-      "excerpt": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
-      "content": "10月15日，百度官方公众号发文公布百度世界2026五大亮点"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25830.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举行第二十六届RoboGame机器人大赛决赛的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25830.htm",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "excerpt": "RoboGame机器人大赛是我校一项具有广泛影响力的学生科技创新与综合实践品牌活动，由教务处、校团委、党委学生工作部（处）、党委宣传部、保卫与校园管理处联合主办，工程科学学院承办，工程科学实验教学中心和校学生机器人俱乐部协办。本届大赛以“未来月球基地智能建设”为背景，围绕智能机器人技术与未来应用场景设置竞技组和展示组两大赛道。其中，竞技组以“构筑巅峰”为主题，采用两队对抗竞赛形式，重点考察机器人智能感...",
-      "content": "RoboGame机器人大赛是我校一项具有广泛影响力的学生科技创新与综合实践品牌活动，由教务处、校团委、党委学生工作部（处）、党委宣传部、保卫与校园管理处联合主办，工程科学学院承办，工程科学实验教学中心和校学生机器人俱乐部协办。本届大赛以“未来月球基地智能建设”为背景，围绕智能机器人技术与未来应用场景设置竞技组和展示组两大赛道。其中，竞技组以“构筑巅峰”为主题，采用两队对抗竞赛形式，重点考察机器人智能感..."
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25720.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之宋泽滨教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25720.htm",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "excerpt": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重...",
-      "content": "横空出世，倚天抽剑。在国家安全面临严峻挑战之际，中国果断决策，白手起家铸剑卫国。十年厉兵秣马，自力更生、艰苦奋斗，以国之重器打破霸权垄断；大漠深处，一代代奋斗者舍身许国、砺剑护尊严；面对风险挑战，逢敌亮剑、熔铸魂魄，挺起民族脊梁。历史深刻昭示：能战方能止战，强军才能安邦。唯有以武止戈、御气仗剑，方能守护和平、安定天下。本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重..."
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "url": "https://www.qbitai.com/2026/10/504116.html",
+      "publishedAt": "2026-10-16T13:48:10.000Z",
+      "excerpt": "买AIPC就选联想YOGA。",
+      "content": "买AIPC就选联想YOGA。"
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 6,
     "byCategory": {
-      "campus_notices": 2,
+      "campus_notices": 0,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 6
     }
   }
 }
