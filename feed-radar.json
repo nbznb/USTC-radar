@@ -1,80 +1,36 @@
 {
-  "generatedAt": "2026-10-18T10:19:13.476Z",
+  "generatedAt": "2026-10-19T12:00:16.683Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504067.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "publishedAt": "2026-10-17T12:21:09.000Z",
-      "excerpt": "新版本V4.1-Flash-1017，还开放了自研搜索API",
-      "content": "新版本V4.1-Flash-1017，还开放了自研搜索API"
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25905.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科大“理实交融”马理学科系列讲座第36讲通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25905.htm",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "excerpt": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18",
+      "content": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503965.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504136.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "智谱新模型，懂法方面全球第一了",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "publishedAt": "2026-10-17T12:13:45.000Z",
-      "excerpt": "AI的风还是刮到了法律圈",
-      "content": "AI的风还是刮到了法律圈"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503935.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "publishedAt": "2026-10-17T12:10:35.000Z",
-      "excerpt": "整套系统原生支持MCP",
-      "content": "整套系统原生支持MCP"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503910.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "url": "https://www.qbitai.com/2026/10/503910.html",
-      "publishedAt": "2026-10-17T12:06:51.000Z",
-      "excerpt": "谜底指向时间",
-      "content": "谜底指向时间"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/503893.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "url": "https://www.qbitai.com/2026/10/503893.html",
-      "publishedAt": "2026-10-17T09:05:08.000Z",
-      "excerpt": "通往全球市场的超级跳板",
-      "content": "通往全球市场的超级跳板"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504116.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
-      "url": "https://www.qbitai.com/2026/10/504116.html",
-      "publishedAt": "2026-10-16T13:48:10.000Z",
-      "excerpt": "买AIPC就选联想YOGA。",
-      "content": "买AIPC就选联想YOGA。"
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "publishedAt": "2026-10-18T11:49:49.000Z",
+      "excerpt": "让人人都能自由创造并体验可交互世界",
+      "content": "让人人都能自由创造并体验可交互世界"
     }
   ],
   "stats": {
-    "totalItems": 6,
+    "totalItems": 2,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 6
+      "tech_news": 1
     }
   }
 }
