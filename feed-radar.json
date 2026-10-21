@@ -1,105 +1,105 @@
 {
-  "generatedAt": "2026-10-20T10:52:36.532Z",
+  "generatedAt": "2026-10-21T11:05:26.758Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504314.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504608.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "url": "https://www.qbitai.com/2026/10/504314.html",
-      "publishedAt": "2026-10-20T01:09:43.000Z",
-      "excerpt": "OpenAI只掏出一个6.1 Terra…",
-      "content": "OpenAI只掏出一个6.1 Terra…"
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "publishedAt": "2026-10-21T02:37:39.000Z",
+      "excerpt": "先看真实问题解决力",
+      "content": "先看真实问题解决力"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504277.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504551.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "url": "https://www.qbitai.com/2026/10/504277.html",
-      "publishedAt": "2026-10-19T14:33:26.000Z",
-      "excerpt": "同步搭建千比特规模量子算力云平台",
-      "content": "同步搭建千比特规模量子算力云平台"
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "url": "https://www.qbitai.com/2026/10/504551.html",
+      "publishedAt": "2026-10-21T01:04:35.000Z",
+      "excerpt": "电池、电驱、超充一把梭，冬天多跑30公里",
+      "content": "电池、电驱、超充一把梭，冬天多跑30公里"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504294.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "url": "https://www.qbitai.com/2026/10/504294.html",
-      "publishedAt": "2026-10-19T14:31:12.000Z",
-      "excerpt": "当AI越来越懂你，如何让智能真正属于你？",
-      "content": "当AI越来越懂你，如何让智能真正属于你？"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504266.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-      "url": "https://www.qbitai.com/2026/10/504266.html",
-      "publishedAt": "2026-10-19T10:27:39.000Z",
-      "excerpt": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-      "content": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504225.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "全栈自研！国产高端互连芯片，稳了!",
-      "url": "https://www.qbitai.com/2026/10/504225.html",
-      "publishedAt": "2026-10-19T10:15:19.000Z",
-      "excerpt": "六年蛰伏出货80万颗",
-      "content": "六年蛰伏出货80万颗"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504242.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "AI 开始挑战最复杂的系统：生命",
-      "url": "https://www.qbitai.com/2026/10/504242.html",
-      "publishedAt": "2026-10-19T10:04:18.000Z",
-      "excerpt": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-      "content": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504238.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
-      "url": "https://www.qbitai.com/2026/10/504238.html",
-      "publishedAt": "2026-10-19T09:56:38.000Z",
-      "excerpt": "10月19日，RISC-V中国峰会在深圳举行。",
-      "content": "10月19日，RISC-V中国峰会在深圳举行。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504199.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-      "url": "https://www.qbitai.com/2026/10/504199.html",
-      "publishedAt": "2026-10-19T08:12:45.000Z",
-      "excerpt": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
-      "content": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25873.htm",
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之张晓亮副教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25873.htm",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
-      "excerpt": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精...",
-      "content": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精..."
+      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
+      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504517.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "url": "https://www.qbitai.com/2026/10/504517.html",
+      "publishedAt": "2026-10-20T13:29:54.000Z",
+      "excerpt": "兔皮底下，竟然是MiniMax！",
+      "content": "兔皮底下，竟然是MiniMax！"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504456.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "publishedAt": "2026-10-20T12:50:34.000Z",
+      "excerpt": "把记忆原生焊进Transformer",
+      "content": "把记忆原生焊进Transformer"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504452.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "url": "https://www.qbitai.com/2026/10/504452.html",
+      "publishedAt": "2026-10-20T09:57:35.000Z",
+      "excerpt": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+      "content": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504435.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+      "url": "https://www.qbitai.com/2026/10/504435.html",
+      "publishedAt": "2026-10-20T09:13:14.000Z",
+      "excerpt": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+      "content": "当地时间10月12日，2026巴黎国际车展正式启幕。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504421.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "url": "https://www.qbitai.com/2026/10/504421.html",
+      "publishedAt": "2026-10-20T08:01:25.000Z",
+      "excerpt": "最新发布TokenFleet调度框架",
+      "content": "最新发布TokenFleet调度框架"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504415.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "publishedAt": "2026-10-20T04:59:04.000Z",
+      "excerpt": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+      "content": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
     }
   ],
   "stats": {
