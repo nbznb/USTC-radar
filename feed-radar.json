@@ -1,111 +1,100 @@
 {
-  "generatedAt": "2026-10-21T11:05:26.758Z",
+  "generatedAt": "2026-10-22T11:05:25.401Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504608.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504879.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "publishedAt": "2026-10-21T02:37:39.000Z",
-      "excerpt": "先看真实问题解决力",
-      "content": "先看真实问题解决力"
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "publishedAt": "2026-10-22T09:07:05.000Z",
+      "excerpt": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "content": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504551.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504841.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "publishedAt": "2026-10-21T01:04:35.000Z",
-      "excerpt": "电池、电驱、超充一把梭，冬天多跑30公里",
-      "content": "电池、电驱、超充一把梭，冬天多跑30公里"
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "publishedAt": "2026-10-22T07:14:48.000Z",
+      "excerpt": "FSD一年增长70万付费用户",
+      "content": "FSD一年增长70万付费用户"
     },
     {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
-      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504517.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504832.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "publishedAt": "2026-10-20T13:29:54.000Z",
-      "excerpt": "兔皮底下，竟然是MiniMax！",
-      "content": "兔皮底下，竟然是MiniMax！"
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "publishedAt": "2026-10-22T07:11:14.000Z",
+      "excerpt": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "content": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504456.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504800.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "url": "https://www.qbitai.com/2026/10/504456.html",
-      "publishedAt": "2026-10-20T12:50:34.000Z",
-      "excerpt": "把记忆原生焊进Transformer",
-      "content": "把记忆原生焊进Transformer"
+      "title": "谁在给OpenAI供应具身数据？",
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "publishedAt": "2026-10-22T07:05:59.000Z",
+      "excerpt": "挤进全球Physical AI核心供应链",
+      "content": "挤进全球Physical AI核心供应链"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504452.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504734.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "url": "https://www.qbitai.com/2026/10/504452.html",
-      "publishedAt": "2026-10-20T09:57:35.000Z",
-      "excerpt": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-      "content": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "publishedAt": "2026-10-21T11:30:59.000Z",
+      "excerpt": "医疗AI质变时刻",
+      "content": "医疗AI质变时刻"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504435.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504730.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
-      "url": "https://www.qbitai.com/2026/10/504435.html",
-      "publishedAt": "2026-10-20T09:13:14.000Z",
-      "excerpt": "当地时间10月12日，2026巴黎国际车展正式启幕。",
-      "content": "当地时间10月12日，2026巴黎国际车展正式启幕。"
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "url": "https://www.qbitai.com/2026/10/504730.html",
+      "publishedAt": "2026-10-21T09:45:22.000Z",
+      "excerpt": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "content": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504421.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504653.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
-      "url": "https://www.qbitai.com/2026/10/504421.html",
-      "publishedAt": "2026-10-20T08:01:25.000Z",
-      "excerpt": "最新发布TokenFleet调度框架",
-      "content": "最新发布TokenFleet调度框架"
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "url": "https://www.qbitai.com/2026/10/504653.html",
+      "publishedAt": "2026-10-21T07:15:05.000Z",
+      "excerpt": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+      "content": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504415.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/504638.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
-      "url": "https://www.qbitai.com/2026/10/504415.html",
-      "publishedAt": "2026-10-20T04:59:04.000Z",
-      "excerpt": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
-      "content": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
+      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+      "url": "https://www.qbitai.com/2026/10/504638.html",
+      "publishedAt": "2026-10-21T06:40:46.000Z",
+      "excerpt": "百万台搭载打底，智驾普及与安全并重",
+      "content": "百万台搭载打底，智驾普及与安全并重"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
       "tech_news": 8
     }
