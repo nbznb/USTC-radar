@@ -1,25 +1,13 @@
 {
-  "generatedAt": "2026-10-23T10:57:20.991Z",
+  "generatedAt": "2026-10-24T10:12:58.960Z",
   "lookbackHours": 72,
-  "items": [
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/504901.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "publishedAt": "2026-10-23T07:35:51.000Z",
-      "excerpt": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "content": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。"
-    }
-  ],
+  "items": [],
   "stats": {
-    "totalItems": 1,
+    "totalItems": 0,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 1
+      "tech_news": 0
     }
   }
 }
