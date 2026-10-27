@@ -1,13 +1,113 @@
 {
-  "generatedAt": "2026-10-26T12:11:16.415Z",
+  "generatedAt": "2026-10-27T11:32:29.580Z",
   "lookbackHours": 72,
-  "items": [],
+  "items": [
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505580.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work   TGC 2026科技增长大会",
+      "url": "https://www.qbitai.com/2026/10/505580.html",
+      "publishedAt": "2026-10-27T03:23:55.000Z",
+      "excerpt": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "content": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505551.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "publishedAt": "2026-10-26T16:06:31.000Z",
+      "excerpt": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "content": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505539.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "publishedAt": "2026-10-26T09:46:13.000Z",
+      "excerpt": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "content": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505529.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://www.qbitai.com/2026/10/505529.html",
+      "publishedAt": "2026-10-26T09:37:57.000Z",
+      "excerpt": "模型开始利用GPU缓存聊天？",
+      "content": "模型开始利用GPU缓存聊天？"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505521.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "A社联创演讲：AI奇点已来",
+      "url": "https://www.qbitai.com/2026/10/505521.html",
+      "publishedAt": "2026-10-26T09:35:14.000Z",
+      "excerpt": "所谓奇点，或许是AI跃过人类的那个点。",
+      "content": "所谓奇点，或许是AI跃过人类的那个点。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505478.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "url": "https://www.qbitai.com/2026/10/505478.html",
+      "publishedAt": "2026-10-26T09:31:47.000Z",
+      "excerpt": "从冲刺AGI到转售GPU。",
+      "content": "从冲刺AGI到转售GPU。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505454.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "中国近50%的新云生意，竟被这家公司包揽！",
+      "url": "https://www.qbitai.com/2026/10/505454.html",
+      "publishedAt": "2026-10-26T09:02:44.000Z",
+      "excerpt": "有点意外，但也不意外",
+      "content": "有点意外，但也不意外"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505443.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "url": "https://www.qbitai.com/2026/10/505443.html",
+      "publishedAt": "2026-10-26T08:38:49.000Z",
+      "excerpt": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "content": "人工智能正在从人机“言传身教”走向自学“触类旁通”。"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25905.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科大“理实交融”马理学科系列讲座第36讲通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25905.htm",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "excerpt": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18",
+      "content": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18"
+    }
+  ],
   "stats": {
-    "totalItems": 0,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 0
+      "tech_news": 8
     }
   }
 }
