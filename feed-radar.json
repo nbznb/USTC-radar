@@ -1,105 +1,105 @@
 {
-  "generatedAt": "2026-10-28T12:02:34.964Z",
+  "generatedAt": "2026-10-29T12:12:59.337Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505928.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506281.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "publishedAt": "2026-10-28T04:04:48.000Z",
-      "excerpt": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
-      "content": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "publishedAt": "2026-10-29T03:27:50.000Z",
+      "excerpt": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "content": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505865.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506273.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
-      "publishedAt": "2026-10-27T12:57:51.000Z",
-      "excerpt": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
-      "content": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "publishedAt": "2026-10-29T02:51:45.000Z",
+      "excerpt": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+      "content": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505852.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/505934.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "印奇把4D雷达也端到端了",
-      "url": "https://www.qbitai.com/2026/10/505852.html",
-      "publishedAt": "2026-10-27T10:40:12.000Z",
-      "excerpt": "毫米波雷达，AI算力10TOPS",
-      "content": "毫米波雷达，AI算力10TOPS"
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "publishedAt": "2026-10-29T02:18:28.000Z",
+      "excerpt": "用扩散模型怎么做做Agent？",
+      "content": "用扩散模型怎么做做Agent？"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505830.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506246.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "url": "https://www.qbitai.com/2026/10/505830.html",
-      "publishedAt": "2026-10-27T09:54:51.000Z",
-      "excerpt": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-      "content": "顶尖智能汽车玩家的终局，不会停在智能汽车"
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "publishedAt": "2026-10-29T00:59:26.000Z",
+      "excerpt": "理想今年最后一场发布会，自研电池芯片全部上车",
+      "content": "理想今年最后一场发布会，自研电池芯片全部上车"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505799.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506227.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "url": "https://www.qbitai.com/2026/10/505799.html",
-      "publishedAt": "2026-10-27T08:46:12.000Z",
-      "excerpt": "无人在环进店实测啃下长尾场景",
-      "content": "无人在环进店实测啃下长尾场景"
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "publishedAt": "2026-10-29T00:03:58.000Z",
+      "excerpt": "能连肝数日修Bug，免疫提示词注入",
+      "content": "能连肝数日修Bug，免疫提示词注入"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505773.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506194.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-      "url": "https://www.qbitai.com/2026/10/505773.html",
-      "publishedAt": "2026-10-27T08:35:33.000Z",
-      "excerpt": "OCR 3.0时代，来了",
-      "content": "OCR 3.0时代，来了"
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了 详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506194.html",
+      "publishedAt": "2026-10-28T11:09:10.000Z",
+      "excerpt": "让基建作为常驻buff",
+      "content": "让基建作为常驻buff"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505719.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506098.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "url": "https://www.qbitai.com/2026/10/505719.html",
-      "publishedAt": "2026-10-27T08:27:46.000Z",
-      "excerpt": "同一天，OpenAI还甩出3项AI科学新发现",
-      "content": "同一天，OpenAI还甩出3项AI科学新发现"
+      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了 详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506098.html",
+      "publishedAt": "2026-10-28T10:32:39.000Z",
+      "excerpt": "让基建作为常驻buff",
+      "content": "让基建作为常驻buff"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505694.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506063.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "url": "https://www.qbitai.com/2026/10/505694.html",
-      "publishedAt": "2026-10-27T08:18:59.000Z",
-      "excerpt": "还是专业的模型做专业的事情",
-      "content": "还是专业的模型做专业的事情"
+      "title": "威卡：用数据集链接具身智能和工程机械",
+      "url": "https://www.qbitai.com/2026/10/506063.html",
+      "publishedAt": "2026-10-28T09:01:27.000Z",
+      "excerpt": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+      "content": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
     },
     {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25873.htm",
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之张晓亮副教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25873.htm",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
-      "excerpt": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精...",
-      "content": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精..."
+      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
+      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
     }
   ],
   "stats": {
