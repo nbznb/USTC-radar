@@ -1,111 +1,100 @@
 {
-  "generatedAt": "2026-10-29T12:12:59.337Z",
+  "generatedAt": "2026-10-30T12:03:30.986Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506281.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506743.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "publishedAt": "2026-10-29T03:27:50.000Z",
-      "excerpt": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
-      "content": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "publishedAt": "2026-10-30T07:31:11.000Z",
+      "excerpt": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "content": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506273.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506686.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "publishedAt": "2026-10-29T02:51:45.000Z",
-      "excerpt": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-      "content": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "publishedAt": "2026-10-30T05:52:47.000Z",
+      "excerpt": "解析一切",
+      "content": "解析一切"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/505934.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506674.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "publishedAt": "2026-10-29T02:18:28.000Z",
-      "excerpt": "用扩散模型怎么做做Agent？",
-      "content": "用扩散模型怎么做做Agent？"
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "publishedAt": "2026-10-30T05:50:44.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506246.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506662.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "publishedAt": "2026-10-29T00:59:26.000Z",
-      "excerpt": "理想今年最后一场发布会，自研电池芯片全部上车",
-      "content": "理想今年最后一场发布会，自研电池芯片全部上车"
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "publishedAt": "2026-10-30T03:48:04.000Z",
+      "excerpt": "让机器人成为彼此的“老师”",
+      "content": "让机器人成为彼此的“老师”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506227.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506609.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "publishedAt": "2026-10-29T00:03:58.000Z",
-      "excerpt": "能连肝数日修Bug，免疫提示词注入",
-      "content": "能连肝数日修Bug，免疫提示词注入"
+      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+      "url": "https://www.qbitai.com/2026/10/506609.html",
+      "publishedAt": "2026-10-30T03:40:21.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506194.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506569.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了 详解FluxVLA Engine技术报告",
-      "url": "https://www.qbitai.com/2026/10/506194.html",
-      "publishedAt": "2026-10-28T11:09:10.000Z",
-      "excerpt": "让基建作为常驻buff",
-      "content": "让基建作为常驻buff"
+      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+      "url": "https://www.qbitai.com/2026/10/506569.html",
+      "publishedAt": "2026-10-30T00:19:06.000Z",
+      "excerpt": "Momenta世界模型上车",
+      "content": "Momenta世界模型上车"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506098.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506554.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了 详解FluxVLA Engine技术报告",
-      "url": "https://www.qbitai.com/2026/10/506098.html",
-      "publishedAt": "2026-10-28T10:32:39.000Z",
-      "excerpt": "让基建作为常驻buff",
-      "content": "让基建作为常驻buff"
+      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+      "url": "https://www.qbitai.com/2026/10/506554.html",
+      "publishedAt": "2026-10-29T09:58:26.000Z",
+      "excerpt": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+      "content": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506063.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506550.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "威卡：用数据集链接具身智能和工程机械",
-      "url": "https://www.qbitai.com/2026/10/506063.html",
-      "publishedAt": "2026-10-28T09:01:27.000Z",
-      "excerpt": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
-      "content": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
-      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
+      "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+      "url": "https://www.qbitai.com/2026/10/506550.html",
+      "publishedAt": "2026-10-29T09:52:05.000Z",
+      "excerpt": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
+      "content": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
       "tech_news": 8
     }
