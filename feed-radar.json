@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-30T12:03:30.986Z",
+  "generatedAt": "2026-10-31T11:38:05.306Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506743.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506884.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
-      "publishedAt": "2026-10-30T07:31:11.000Z",
-      "excerpt": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "content": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "publishedAt": "2026-10-31T05:17:50.000Z",
+      "excerpt": "苹果“牛奶倒河里”式操作翻红",
+      "content": "苹果“牛奶倒河里”式操作翻红"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506686.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506866.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "url": "https://www.qbitai.com/2026/10/506686.html",
-      "publishedAt": "2026-10-30T05:52:47.000Z",
-      "excerpt": "解析一切",
-      "content": "解析一切"
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "publishedAt": "2026-10-31T05:11:19.000Z",
+      "excerpt": "AI算力利用“九九成”",
+      "content": "AI算力利用“九九成”"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506674.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506855.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "url": "https://www.qbitai.com/2026/10/506674.html",
-      "publishedAt": "2026-10-30T05:50:44.000Z",
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "publishedAt": "2026-10-31T05:05:29.000Z",
+      "excerpt": "200美元Ultra用户先用",
+      "content": "200美元Ultra用户先用"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506819.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+      "url": "https://www.qbitai.com/2026/10/506819.html",
+      "publishedAt": "2026-10-30T12:58:31.000Z",
+      "excerpt": "xs，还要给机器人打绩效",
+      "content": "xs，还要给机器人打绩效"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506785.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "url": "https://www.qbitai.com/2026/10/506785.html",
+      "publishedAt": "2026-10-30T11:05:06.000Z",
+      "excerpt": "之前还连登昇腾三榜第一",
+      "content": "之前还连登昇腾三榜第一"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506779.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+      "url": "https://www.qbitai.com/2026/10/506779.html",
+      "publishedAt": "2026-10-30T10:44:01.000Z",
+      "excerpt": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+      "content": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506771.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+      "url": "https://www.qbitai.com/2026/10/506771.html",
+      "publishedAt": "2026-10-30T08:50:44.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506662.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/10/506747.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-      "url": "https://www.qbitai.com/2026/10/506662.html",
-      "publishedAt": "2026-10-30T03:48:04.000Z",
-      "excerpt": "让机器人成为彼此的“老师”",
-      "content": "让机器人成为彼此的“老师”"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506609.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
-      "url": "https://www.qbitai.com/2026/10/506609.html",
-      "publishedAt": "2026-10-30T03:40:21.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506569.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
-      "url": "https://www.qbitai.com/2026/10/506569.html",
-      "publishedAt": "2026-10-30T00:19:06.000Z",
-      "excerpt": "Momenta世界模型上车",
-      "content": "Momenta世界模型上车"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506554.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
-      "url": "https://www.qbitai.com/2026/10/506554.html",
-      "publishedAt": "2026-10-29T09:58:26.000Z",
-      "excerpt": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
-      "content": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506550.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
-      "url": "https://www.qbitai.com/2026/10/506550.html",
-      "publishedAt": "2026-10-29T09:52:05.000Z",
-      "excerpt": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
-      "content": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
+      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+      "url": "https://www.qbitai.com/2026/10/506747.html",
+      "publishedAt": "2026-10-30T08:12:11.000Z",
+      "excerpt": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+      "content": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
     }
   ],
   "stats": {
