@@ -1,61 +1,91 @@
 {
-  "generatedAt": "2026-11-01T12:37:00.615Z",
+  "generatedAt": "2026-11-02T14:40:12.667Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507031.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507260.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "url": "https://www.qbitai.com/2026/11/507031.html",
-      "publishedAt": "2026-11-01T08:02:37.000Z",
-      "excerpt": "让AI像牛顿一样思考",
-      "content": "让AI像牛顿一样思考"
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "publishedAt": "2026-11-02T07:47:38.000Z",
+      "excerpt": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
+      "content": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/506990.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507225.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "url": "https://www.qbitai.com/2026/11/506990.html",
-      "publishedAt": "2026-11-01T07:50:57.000Z",
-      "excerpt": "这事还是想得太简单了",
-      "content": "这事还是想得太简单了"
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "url": "https://www.qbitai.com/2026/11/507225.html",
+      "publishedAt": "2026-11-02T07:27:54.000Z",
+      "excerpt": "新版“机器人三定律”。",
+      "content": "新版“机器人三定律”。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/506922.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507150.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Jev新成果，再次引爆开源",
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "publishedAt": "2026-11-01T04:18:37.000Z",
-      "excerpt": "再次“性价比屠夫”",
-      "content": "再次“性价比屠夫”"
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "publishedAt": "2026-11-02T06:28:07.000Z",
+      "excerpt": "模型管线双驱动",
+      "content": "模型管线双驱动"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/10/506904.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507107.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "publishedAt": "2026-10-31T13:49:44.000Z",
-      "excerpt": "AI已经自己找到Bug并提交PR",
-      "content": "AI已经自己找到Bug并提交PR"
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "publishedAt": "2026-11-02T06:08:04.000Z",
+      "excerpt": "能指挥Agent干活，还能控制智能家居",
+      "content": "能指挥Agent干活，还能控制智能家居"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507082.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "publishedAt": "2026-11-02T04:28:53.000Z",
+      "excerpt": "HuggingFace疑似泄露权重已被下5000次",
+      "content": "HuggingFace疑似泄露权重已被下5000次"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507076.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "publishedAt": "2026-11-01T13:28:10.000Z",
+      "excerpt": "西湖世界模型研究中心成立",
+      "content": "西湖世界模型研究中心成立"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507038.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "publishedAt": "2026-11-01T13:09:55.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 4,
+    "totalItems": 7,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 4
+      "tech_news": 7
     }
-  },
-  "errors": [
-    "中国科大通知公告: fetch failed"
-  ]
+  }
 }
