@@ -1,91 +1,102 @@
 {
-  "generatedAt": "2026-11-02T14:40:12.667Z",
+  "generatedAt": "2026-11-03T13:33:11.677Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507260.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507473.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "url": "https://www.qbitai.com/2026/11/507260.html",
-      "publishedAt": "2026-11-02T07:47:38.000Z",
-      "excerpt": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
-      "content": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。"
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+      "url": "https://www.qbitai.com/2026/11/507473.html",
+      "publishedAt": "2026-11-03T12:57:35.000Z",
+      "excerpt": "两位CTO，关起门来吵架",
+      "content": "两位CTO，关起门来吵架"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507225.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507448.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "url": "https://www.qbitai.com/2026/11/507225.html",
-      "publishedAt": "2026-11-02T07:27:54.000Z",
-      "excerpt": "新版“机器人三定律”。",
-      "content": "新版“机器人三定律”。"
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "publishedAt": "2026-11-03T11:13:49.000Z",
+      "excerpt": "AI的下一程是生产力系统之争",
+      "content": "AI的下一程是生产力系统之争"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507150.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507419.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "url": "https://www.qbitai.com/2026/11/507150.html",
-      "publishedAt": "2026-11-02T06:28:07.000Z",
-      "excerpt": "模型管线双驱动",
-      "content": "模型管线双驱动"
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "publishedAt": "2026-11-03T06:55:30.000Z",
+      "excerpt": "终于，有了一个可以触摸的起点",
+      "content": "终于，有了一个可以触摸的起点"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507107.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507410.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "url": "https://www.qbitai.com/2026/11/507107.html",
-      "publishedAt": "2026-11-02T06:08:04.000Z",
-      "excerpt": "能指挥Agent干活，还能控制智能家居",
-      "content": "能指挥Agent干活，还能控制智能家居"
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "publishedAt": "2026-11-03T06:29:11.000Z",
+      "excerpt": "TeleAI智慧看护助手",
+      "content": "TeleAI智慧看护助手"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507082.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507405.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
-      "url": "https://www.qbitai.com/2026/11/507082.html",
-      "publishedAt": "2026-11-02T04:28:53.000Z",
-      "excerpt": "HuggingFace疑似泄露权重已被下5000次",
-      "content": "HuggingFace疑似泄露权重已被下5000次"
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "url": "https://www.qbitai.com/2026/11/507405.html",
+      "publishedAt": "2026-11-03T05:59:05.000Z",
+      "excerpt": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+      "content": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507076.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507396.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "url": "https://www.qbitai.com/2026/11/507076.html",
-      "publishedAt": "2026-11-01T13:28:10.000Z",
-      "excerpt": "西湖世界模型研究中心成立",
-      "content": "西湖世界模型研究中心成立"
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "url": "https://www.qbitai.com/2026/11/507396.html",
+      "publishedAt": "2026-11-03T05:16:35.000Z",
+      "excerpt": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
+      "content": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507038.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507382.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "url": "https://www.qbitai.com/2026/11/507038.html",
-      "publishedAt": "2026-11-01T13:09:55.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+      "url": "https://www.qbitai.com/2026/11/507382.html",
+      "publishedAt": "2026-11-03T03:41:06.000Z",
+      "excerpt": "单季狂揽1130亿人民币，但...",
+      "content": "单季狂揽1130亿人民币，但..."
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507367.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "publishedAt": "2026-11-03T03:16:23.000Z",
+      "excerpt": "GPU迭代一百次的事，它一步做完",
+      "content": "GPU迭代一百次的事，它一步做完"
     }
   ],
   "stats": {
-    "totalItems": 7,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 7
+      "tech_news": 8
     }
   }
 }
