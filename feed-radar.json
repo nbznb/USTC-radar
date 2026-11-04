@@ -1,102 +1,80 @@
 {
-  "generatedAt": "2026-11-03T13:33:11.677Z",
+  "generatedAt": "2026-11-04T13:43:11.939Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507473.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507586.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "url": "https://www.qbitai.com/2026/11/507473.html",
-      "publishedAt": "2026-11-03T12:57:35.000Z",
-      "excerpt": "两位CTO，关起门来吵架",
-      "content": "两位CTO，关起门来吵架"
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界   招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "publishedAt": "2026-11-04T10:08:38.000Z",
+      "excerpt": "仅激活3B参数，十项基准全线提升！",
+      "content": "仅激活3B参数，十项基准全线提升！"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507448.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507574.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "url": "https://www.qbitai.com/2026/11/507448.html",
-      "publishedAt": "2026-11-03T11:13:49.000Z",
-      "excerpt": "AI的下一程是生产力系统之争",
-      "content": "AI的下一程是生产力系统之争"
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "url": "https://www.qbitai.com/2026/11/507574.html",
+      "publishedAt": "2026-11-04T08:59:57.000Z",
+      "excerpt": "一场别开生面的具身智能科技盛宴",
+      "content": "一场别开生面的具身智能科技盛宴"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507419.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507567.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "url": "https://www.qbitai.com/2026/11/507419.html",
-      "publishedAt": "2026-11-03T06:55:30.000Z",
-      "excerpt": "终于，有了一个可以触摸的起点",
-      "content": "终于，有了一个可以触摸的起点"
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "url": "https://www.qbitai.com/2026/11/507567.html",
+      "publishedAt": "2026-11-04T08:49:12.000Z",
+      "excerpt": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+      "content": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507410.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507533.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "url": "https://www.qbitai.com/2026/11/507410.html",
-      "publishedAt": "2026-11-03T06:29:11.000Z",
-      "excerpt": "TeleAI智慧看护助手",
-      "content": "TeleAI智慧看护助手"
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "publishedAt": "2026-11-04T02:49:02.000Z",
+      "excerpt": "长视频记忆精度飙升，问答时延最高降97%",
+      "content": "长视频记忆精度飙升，问答时延最高降97%"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507405.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507507.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
-      "url": "https://www.qbitai.com/2026/11/507405.html",
-      "publishedAt": "2026-11-03T05:59:05.000Z",
-      "excerpt": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
-      "content": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。"
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "publishedAt": "2026-11-03T13:57:11.000Z",
+      "excerpt": "AI接管调度运营，仓库越干越聪明",
+      "content": "AI接管调度运营，仓库越干越聪明"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507396.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
-      "url": "https://www.qbitai.com/2026/11/507396.html",
-      "publishedAt": "2026-11-03T05:16:35.000Z",
-      "excerpt": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
-      "content": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507382.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
-      "url": "https://www.qbitai.com/2026/11/507382.html",
-      "publishedAt": "2026-11-03T03:41:06.000Z",
-      "excerpt": "单季狂揽1130亿人民币，但...",
-      "content": "单季狂揽1130亿人民币，但..."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507367.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
-      "url": "https://www.qbitai.com/2026/11/507367.html",
-      "publishedAt": "2026-11-03T03:16:23.000Z",
-      "excerpt": "GPU迭代一百次的事，它一步做完",
-      "content": "GPU迭代一百次的事，它一步做完"
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25905.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科大“理实交融”马理学科系列讲座第36讲通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25905.htm",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "excerpt": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18",
+      "content": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18"
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 6,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 5
     }
   }
 }
