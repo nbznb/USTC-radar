@@ -1,111 +1,100 @@
 {
-  "generatedAt": "2026-11-06T13:41:00.792Z",
+  "generatedAt": "2026-11-07T12:22:16.630Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508155.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508449.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "url": "https://www.qbitai.com/2026/11/508155.html",
-      "publishedAt": "2026-11-06T07:00:29.000Z",
-      "excerpt": "Q3营收实现数倍增长",
-      "content": "Q3营收实现数倍增长"
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
+      "publishedAt": "2026-11-07T09:38:56.000Z",
+      "excerpt": "AI写代码太快，基础设施跟不上了",
+      "content": "AI写代码太快，基础设施跟不上了"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508118.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508344.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "url": "https://www.qbitai.com/2026/11/508118.html",
-      "publishedAt": "2026-11-06T06:54:17.000Z",
-      "excerpt": "挑战商业视频的高难度场景",
-      "content": "挑战商业视频的高难度场景"
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "publishedAt": "2026-11-07T08:11:25.000Z",
+      "excerpt": "融资缩水，硅谷投资人也谨慎了",
+      "content": "融资缩水，硅谷投资人也谨慎了"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508143.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508330.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "url": "https://www.qbitai.com/2026/11/508143.html",
-      "publishedAt": "2026-11-06T06:43:14.000Z",
-      "excerpt": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-      "content": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。"
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "publishedAt": "2026-11-07T07:59:28.000Z",
+      "excerpt": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "content": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI......."
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508107.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508264.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "url": "https://www.qbitai.com/2026/11/508107.html",
-      "publishedAt": "2026-11-06T05:01:47.000Z",
-      "excerpt": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-      "content": "一举刷新「AI安全世界杯」CyberGym世界纪录"
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "publishedAt": "2026-11-07T05:01:17.000Z",
+      "excerpt": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "content": "苦单Session久矣，两大Agent玩家不谋而合。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507988.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508244.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "url": "https://www.qbitai.com/2026/11/507988.html",
-      "publishedAt": "2026-11-06T03:36:34.000Z",
-      "excerpt": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-      "content": "香港金融科技周 x StartmeupHK 2026踏入第11届"
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "publishedAt": "2026-11-07T03:43:55.000Z",
+      "excerpt": "全新的电脑病毒",
+      "content": "全新的电脑病毒"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507972.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508236.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-      "url": "https://www.qbitai.com/2026/11/507972.html",
-      "publishedAt": "2026-11-06T03:20:05.000Z",
-      "excerpt": "Seedance 2.5 单秒低至0.15元",
-      "content": "Seedance 2.5 单秒低至0.15元"
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型 华为昇腾原生",
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "publishedAt": "2026-11-07T03:31:44.000Z",
+      "excerpt": "中国版cosmos再交卷",
+      "content": "中国版cosmos再交卷"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507967.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508196.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-      "url": "https://www.qbitai.com/2026/11/507967.html",
-      "publishedAt": "2026-11-06T02:00:11.000Z",
-      "excerpt": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-      "content": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容"
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "url": "https://www.qbitai.com/2026/11/508196.html",
+      "publishedAt": "2026-11-07T03:23:29.000Z",
+      "excerpt": "RSI不可能无限快",
+      "content": "RSI不可能无限快"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/507919.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508184.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-      "url": "https://www.qbitai.com/2026/11/507919.html",
-      "publishedAt": "2026-11-05T13:17:00.000Z",
-      "excerpt": "基础规划免费！",
-      "content": "基础规划免费！"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
-      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "url": "https://www.qbitai.com/2026/11/508184.html",
+      "publishedAt": "2026-11-06T15:21:56.000Z",
+      "excerpt": "Dario刚喊减速…",
+      "content": "Dario刚喊减速…"
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 1,
+      "campus_notices": 0,
       "community": 0,
       "tech_news": 8
     }
