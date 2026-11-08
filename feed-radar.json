@@ -1,102 +1,25 @@
 {
-  "generatedAt": "2026-11-07T12:22:16.630Z",
+  "generatedAt": "2026-11-08T12:41:12.840Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508449.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508466.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "url": "https://www.qbitai.com/2026/11/508449.html",
-      "publishedAt": "2026-11-07T09:38:56.000Z",
-      "excerpt": "AI写代码太快，基础设施跟不上了",
-      "content": "AI写代码太快，基础设施跟不上了"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508344.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-      "url": "https://www.qbitai.com/2026/11/508344.html",
-      "publishedAt": "2026-11-07T08:11:25.000Z",
-      "excerpt": "融资缩水，硅谷投资人也谨慎了",
-      "content": "融资缩水，硅谷投资人也谨慎了"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508330.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "为了去AI味，人类开始主动写烂文章了……",
-      "url": "https://www.qbitai.com/2026/11/508330.html",
-      "publishedAt": "2026-11-07T07:59:28.000Z",
-      "excerpt": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
-      "content": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI......."
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508264.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "url": "https://www.qbitai.com/2026/11/508264.html",
-      "publishedAt": "2026-11-07T05:01:17.000Z",
-      "excerpt": "苦单Session久矣，两大Agent玩家不谋而合。",
-      "content": "苦单Session久矣，两大Agent玩家不谋而合。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508244.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "url": "https://www.qbitai.com/2026/11/508244.html",
-      "publishedAt": "2026-11-07T03:43:55.000Z",
-      "excerpt": "全新的电脑病毒",
-      "content": "全新的电脑病毒"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508236.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型 华为昇腾原生",
-      "url": "https://www.qbitai.com/2026/11/508236.html",
-      "publishedAt": "2026-11-07T03:31:44.000Z",
-      "excerpt": "中国版cosmos再交卷",
-      "content": "中国版cosmos再交卷"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508196.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "url": "https://www.qbitai.com/2026/11/508196.html",
-      "publishedAt": "2026-11-07T03:23:29.000Z",
-      "excerpt": "RSI不可能无限快",
-      "content": "RSI不可能无限快"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508184.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "url": "https://www.qbitai.com/2026/11/508184.html",
-      "publishedAt": "2026-11-06T15:21:56.000Z",
-      "excerpt": "Dario刚喊减速…",
-      "content": "Dario刚喊减速…"
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "publishedAt": "2026-11-08T04:09:55.000Z",
+      "excerpt": "没有永远的夏天",
+      "content": "没有永远的夏天"
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 1,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 1
     }
   }
 }
