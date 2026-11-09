@@ -1,25 +1,124 @@
 {
-  "generatedAt": "2026-11-08T12:41:12.840Z",
+  "generatedAt": "2026-11-09T15:02:41.953Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/508466.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508706.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "资本正在撤离“世界模型”",
-      "url": "https://www.qbitai.com/2026/11/508466.html",
-      "publishedAt": "2026-11-08T04:09:55.000Z",
-      "excerpt": "没有永远的夏天",
-      "content": "没有永远的夏天"
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "publishedAt": "2026-11-09T08:57:20.000Z",
+      "excerpt": "教授也用Claude糊弄…",
+      "content": "教授也用Claude糊弄…"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/507843.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "publishedAt": "2026-11-09T08:44:00.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508694.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "publishedAt": "2026-11-09T08:34:03.000Z",
+      "excerpt": "11月9日，千问办公发布2.0版本",
+      "content": "11月9日，千问办公发布2.0版本"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508690.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "url": "https://www.qbitai.com/2026/11/508690.html",
+      "publishedAt": "2026-11-09T08:26:45.000Z",
+      "excerpt": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "content": "厘清故事与现实的边界，回归投资与产业的底层逻辑。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508629.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "url": "https://www.qbitai.com/2026/11/508629.html",
+      "publishedAt": "2026-11-09T07:02:36.000Z",
+      "excerpt": "最早量产的亲自泼冷水",
+      "content": "最早量产的亲自泼冷水"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508607.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "url": "https://www.qbitai.com/2026/11/508607.html",
+      "publishedAt": "2026-11-09T05:47:58.000Z",
+      "excerpt": "Worker不够了主管Agent还能自己招！",
+      "content": "Worker不够了主管Agent还能自己招！"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508603.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "url": "https://www.qbitai.com/2026/11/508603.html",
+      "publishedAt": "2026-11-09T05:09:23.000Z",
+      "excerpt": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "content": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/508586.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+      "url": "https://www.qbitai.com/2026/11/508586.html",
+      "publishedAt": "2026-11-09T03:47:12.000Z",
+      "excerpt": "“让人放心，把人放大。”",
+      "content": "“让人放心，把人放大。”"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96851.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大仿生设计新策略让仿珍珠层材料强韧不再“挑方向”",
+      "url": "https://news.ustc.edu.cn/info/1055/96851.htm",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学高怀岭教授、孙晓昊教授与上海交通大学邹多宏教授等合作，在仿珍珠层复合材料多向强韧化设计方面取得进展。研究团队提出同心砖泥结构（CBM）设计策略，通过重组微片的排列方式，改善材料在压缩、弯曲和扭转条件下的力学表现，并显著提升抗疲劳性能。相关成果以“Concentric brick-and-mortar architecture: beyond planar nacre-mimics”为题，在线发表于《国家科学评论》（National Science Review）。...",
+      "content": "近日，中国科学技术大学高怀岭教授、孙晓昊教授与上海交通大学邹多宏教授等合作，在仿珍珠层复合材料多向强韧化设计方面取得进展。研究团队提出同心砖泥结构（CBM）设计策略，通过重组微片的排列方式，改善材料在压缩、弯曲和扭转条件下的力学表现，并显著提升抗疲劳性能。相关成果以“Concentric brick-and-mortar architecture: beyond planar nacre-mimics”为题，在线发表于《国家科学评论》（National Science Review）。..."
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/96850.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大利用针尖增强拉曼光谱揭示表面吸附CO2分子费米共振的同位素调控机制",
+      "url": "https://news.ustc.edu.cn/info/1055/96850.htm",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学单分子科学团队的董振超研究小组利用低温超高真空扫描隧道显微镜结合针尖增强拉曼光谱（TERS）技术，对表面吸附的二氧化碳（CO2）团簇中的费米共振效应开展了研究，并利用同位素取代揭示了分子非简谐振动与振动态耦合的物理机制。该成果10月28日在国际知名学术期刊《美国化学会志》上发表。在谐振近似下，分子的不同振动模式可以相对独立地描述。然而，在真实分子中，非简谐作用会使某些振动态之间发生耦...",
+      "content": "近日，中国科学技术大学单分子科学团队的董振超研究小组利用低温超高真空扫描隧道显微镜结合针尖增强拉曼光谱（TERS）技术，对表面吸附的二氧化碳（CO2）团簇中的费米共振效应开展了研究，并利用同位素取代揭示了分子非简谐振动与振动态耦合的物理机制。该成果10月28日在国际知名学术期刊《美国化学会志》上发表。在谐振近似下，分子的不同振动模式可以相对独立地描述。然而，在真实分子中，非简谐作用会使某些振动态之间发生耦..."
     }
   ],
   "stats": {
-    "totalItems": 1,
+    "totalItems": 10,
     "byCategory": {
       "campus_notices": 0,
-      "community": 0,
-      "tech_news": 1
+      "community": 2,
+      "tech_news": 8
     }
   }
 }
