@@ -1,124 +1,25 @@
 {
-  "generatedAt": "2026-11-13T13:51:44.628Z",
+  "generatedAt": "2026-11-14T12:54:50.994Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509995.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-      "url": "https://www.qbitai.com/2026/11/509995.html",
-      "publishedAt": "2026-11-13T09:02:39.000Z",
-      "excerpt": "一个时代结束了",
-      "content": "一个时代结束了"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509827.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-      "url": "https://www.qbitai.com/2026/11/509827.html",
-      "publishedAt": "2026-11-13T07:51:08.000Z",
-      "excerpt": "12.9 北京，来MEET2027现场",
-      "content": "12.9 北京，来MEET2027现场"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509796.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-      "url": "https://www.qbitai.com/2026/11/509796.html",
-      "publishedAt": "2026-11-13T07:43:03.000Z",
-      "excerpt": "250名国内顶尖三甲医院医生联合评测",
-      "content": "250名国内顶尖三甲医院医生联合评测"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509730.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-      "url": "https://www.qbitai.com/2026/11/509730.html",
-      "publishedAt": "2026-11-13T07:17:54.000Z",
-      "excerpt": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-      "content": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509716.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-      "url": "https://www.qbitai.com/2026/11/509716.html",
-      "publishedAt": "2026-11-13T07:12:42.000Z",
-      "excerpt": "比亚迪正在把规模优势转化为技术与品牌价值",
-      "content": "比亚迪正在把规模优势转化为技术与品牌价值"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509710.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-      "url": "https://www.qbitai.com/2026/11/509710.html",
-      "publishedAt": "2026-11-13T07:09:05.000Z",
-      "excerpt": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
-      "content": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509663.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-      "url": "https://www.qbitai.com/2026/11/509663.html",
-      "publishedAt": "2026-11-13T07:06:32.000Z",
-      "excerpt": "数据不出域、本地可部署",
-      "content": "数据不出域、本地可部署"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/509653.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-      "url": "https://www.qbitai.com/2026/11/509653.html",
-      "publishedAt": "2026-11-13T06:54:44.000Z",
-      "excerpt": "想要什么功能，让Agent自己开发",
-      "content": "想要什么功能，让Agent自己开发"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25905.htm",
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "中国科大“理实交融”马理学科系列讲座第36讲通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25905.htm",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "excerpt": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18",
-      "content": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25873.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之张晓亮副教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25873.htm",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
-      "excerpt": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精...",
-      "content": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精..."
+      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
+      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 1,
     "byCategory": {
-      "campus_notices": 2,
+      "campus_notices": 1,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 0
     }
   }
 }
