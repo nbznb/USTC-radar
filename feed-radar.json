@@ -1,102 +1,69 @@
 {
-  "generatedAt": "2026-11-16T14:39:28.860Z",
+  "generatedAt": "2026-11-17T15:27:03.544Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510542.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510688.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "url": "https://www.qbitai.com/2026/11/510542.html",
-      "publishedAt": "2026-11-16T10:57:31.000Z",
-      "excerpt": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-      "content": "具身智能的真正价值是“把人的经验、技能复刻出来”"
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "url": "https://www.qbitai.com/2026/11/510688.html",
+      "publishedAt": "2026-11-17T11:40:37.000Z",
+      "excerpt": "瞄准「产业级世界模型」",
+      "content": "瞄准「产业级世界模型」"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510526.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510652.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」 甲子引力",
-      "url": "https://www.qbitai.com/2026/11/510526.html",
-      "publishedAt": "2026-11-16T08:45:17.000Z",
-      "excerpt": "12月1日，细数AI的未竟之问。",
-      "content": "12月1日，细数AI的未竟之问。"
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "url": "https://www.qbitai.com/2026/11/510652.html",
+      "publishedAt": "2026-11-17T06:09:40.000Z",
+      "excerpt": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "content": "筛材料、找配方、开发新模型…拿下多项科研任务"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510496.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510610.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "url": "https://www.qbitai.com/2026/11/510496.html",
-      "publishedAt": "2026-11-16T08:02:07.000Z",
-      "excerpt": "在华为待了快10000天。",
-      "content": "在华为待了快10000天。"
+      "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+      "url": "https://www.qbitai.com/2026/11/510610.html",
+      "publishedAt": "2026-11-17T04:35:03.000Z",
+      "excerpt": "斩获80000元奖金",
+      "content": "斩获80000元奖金"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510493.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510592.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-      "url": "https://www.qbitai.com/2026/11/510493.html",
-      "publishedAt": "2026-11-16T07:58:57.000Z",
-      "excerpt": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-      "content": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。"
+      "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+      "url": "https://www.qbitai.com/2026/11/510592.html",
+      "publishedAt": "2026-11-17T02:33:13.000Z",
+      "excerpt": "奥特曼首谈黄仁勋离职",
+      "content": "奥特曼首谈黄仁勋离职"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510486.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510561.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "url": "https://www.qbitai.com/2026/11/510486.html",
-      "publishedAt": "2026-11-16T07:51:57.000Z",
-      "excerpt": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-      "content": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510436.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-      "url": "https://www.qbitai.com/2026/11/510436.html",
-      "publishedAt": "2026-11-16T07:26:33.000Z",
-      "excerpt": "余承东重新明确分工",
-      "content": "余承东重新明确分工"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510416.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
-      "url": "https://www.qbitai.com/2026/11/510416.html",
-      "publishedAt": "2026-11-16T05:05:22.000Z",
-      "excerpt": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
-      "content": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510404.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "url": "https://www.qbitai.com/2026/11/510404.html",
-      "publishedAt": "2026-11-16T03:54:30.000Z",
-      "excerpt": "50岁，以“华为董事”之名退休，又有几人？",
-      "content": "50岁，以“华为董事”之名退休，又有几人？"
+      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+      "url": "https://www.qbitai.com/2026/11/510561.html",
+      "publishedAt": "2026-11-17T02:03:22.000Z",
+      "excerpt": "",
+      "content": ""
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 5,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 5
     }
   }
 }
