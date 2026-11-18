@@ -1,69 +1,102 @@
 {
-  "generatedAt": "2026-11-17T15:27:03.544Z",
+  "generatedAt": "2026-11-18T15:01:00.754Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510688.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510922.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-      "url": "https://www.qbitai.com/2026/11/510688.html",
-      "publishedAt": "2026-11-17T11:40:37.000Z",
-      "excerpt": "瞄准「产业级世界模型」",
-      "content": "瞄准「产业级世界模型」"
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "publishedAt": "2026-11-18T09:41:55.000Z",
+      "excerpt": "氖人寻味！",
+      "content": "氖人寻味！"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510652.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510914.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "url": "https://www.qbitai.com/2026/11/510652.html",
-      "publishedAt": "2026-11-17T06:09:40.000Z",
-      "excerpt": "筛材料、找配方、开发新模型…拿下多项科研任务",
-      "content": "筛材料、找配方、开发新模型…拿下多项科研任务"
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "publishedAt": "2026-11-18T07:53:29.000Z",
+      "excerpt": "OpenAI也终于活成了2022年谷歌的样子",
+      "content": "OpenAI也终于活成了2022年谷歌的样子"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510610.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510916.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-      "url": "https://www.qbitai.com/2026/11/510610.html",
-      "publishedAt": "2026-11-17T04:35:03.000Z",
-      "excerpt": "斩获80000元奖金",
-      "content": "斩获80000元奖金"
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "url": "https://www.qbitai.com/2026/11/510916.html",
+      "publishedAt": "2026-11-18T07:24:50.000Z",
+      "excerpt": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "content": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510592.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510811.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
-      "url": "https://www.qbitai.com/2026/11/510592.html",
-      "publishedAt": "2026-11-17T02:33:13.000Z",
-      "excerpt": "奥特曼首谈黄仁勋离职",
-      "content": "奥特曼首谈黄仁勋离职"
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "publishedAt": "2026-11-18T04:49:51.000Z",
+      "excerpt": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "content": "入职Meta刚满一年出头，竟然直接提桶跑路了！"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/510561.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510821.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-      "url": "https://www.qbitai.com/2026/11/510561.html",
-      "publishedAt": "2026-11-17T02:03:22.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "publishedAt": "2026-11-18T04:28:57.000Z",
+      "excerpt": "具身全栈玩家",
+      "content": "具身全栈玩家"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510737.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "publishedAt": "2026-11-18T02:49:23.000Z",
+      "excerpt": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "content": "小红书校招沙龙，一群技术高手认真对待年轻人的野心"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510726.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "publishedAt": "2026-11-18T01:03:42.000Z",
+      "excerpt": "英伟达公布了老黄离职后的首份财报",
+      "content": "英伟达公布了老黄离职后的首份财报"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/510707.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "publishedAt": "2026-11-18T00:49:14.000Z",
+      "excerpt": "Sol逼近旗舰性能",
+      "content": "Sol逼近旗舰性能"
     }
   ],
   "stats": {
-    "totalItems": 5,
+    "totalItems": 8,
     "byCategory": {
       "campus_notices": 0,
       "community": 0,
-      "tech_news": 5
+      "tech_news": 8
     }
   }
 }
