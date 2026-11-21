@@ -1,58 +1,113 @@
 {
-  "generatedAt": "2026-11-20T14:50:25.239Z",
+  "generatedAt": "2026-11-21T14:07:59.804Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511610.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511779.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-      "url": "https://www.qbitai.com/2026/11/511610.html",
-      "publishedAt": "2026-11-20T08:04:58.000Z",
-      "excerpt": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
-      "content": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。"
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "publishedAt": "2026-11-21T06:35:59.000Z",
+      "excerpt": "还实现可变形物体操控全球首通",
+      "content": "还实现可变形物体操控全球首通"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511603.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511570.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "url": "https://www.qbitai.com/2026/11/511603.html",
-      "publishedAt": "2026-11-20T06:16:06.000Z",
-      "excerpt": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-      "content": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。"
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "publishedAt": "2026-11-21T06:32:31.000Z",
+      "excerpt": "专为本地部署而生",
+      "content": "专为本地部署而生"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511582.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511757.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "publishedAt": "2026-11-20T05:24:11.000Z",
-      "excerpt": "已开源Agnes Harness",
-      "content": "已开源Agnes Harness"
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "publishedAt": "2026-11-21T06:30:55.000Z",
+      "excerpt": "还透露了不少训练背后的秘诀",
+      "content": "还透露了不少训练背后的秘诀"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511426.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511740.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "publishedAt": "2026-11-20T01:07:38.000Z",
-      "excerpt": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "content": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。"
+      "title": "米哈游发了个VLA论文",
+      "url": "https://www.qbitai.com/2026/11/511740.html",
+      "publishedAt": "2026-11-20T16:25:26.000Z",
+      "excerpt": "8B参数，50小时自主运行",
+      "content": "8B参数，50小时自主运行"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511727.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "url": "https://www.qbitai.com/2026/11/511727.html",
+      "publishedAt": "2026-11-20T16:07:39.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511722.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "url": "https://www.qbitai.com/2026/11/511722.html",
+      "publishedAt": "2026-11-20T12:18:01.000Z",
+      "excerpt": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+      "content": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511679.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+      "url": "https://www.qbitai.com/2026/11/511679.html",
+      "publishedAt": "2026-11-20T08:59:15.000Z",
+      "excerpt": "联合华为昇腾，五年冲刺十万卡",
+      "content": "联合华为昇腾，五年冲刺十万卡"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25905.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "中国科大“理实交融”马理学科系列讲座第36讲通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25905.htm",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "excerpt": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18",
+      "content": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18"
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25873.htm",
+      "sourceId": "ustc-notices",
+      "sourceName": "中国科大通知公告",
+      "category": "campus_notices",
+      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之张晓亮副教授报告会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25873.htm",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "excerpt": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精...",
+      "content": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精..."
     }
   ],
   "stats": {
-    "totalItems": 4,
+    "totalItems": 9,
     "byCategory": {
-      "campus_notices": 0,
+      "campus_notices": 2,
       "community": 0,
-      "tech_news": 4
+      "tech_news": 7
     }
   }
 }
