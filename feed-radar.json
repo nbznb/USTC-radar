@@ -1,111 +1,100 @@
 {
-  "generatedAt": "2026-11-21T14:07:59.804Z",
+  "generatedAt": "2026-11-22T13:58:44.397Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511779.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511904.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-      "url": "https://www.qbitai.com/2026/11/511779.html",
-      "publishedAt": "2026-11-21T06:35:59.000Z",
-      "excerpt": "还实现可变形物体操控全球首通",
-      "content": "还实现可变形物体操控全球首通"
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "url": "https://www.qbitai.com/2026/11/511904.html",
+      "publishedAt": "2026-11-22T06:21:47.000Z",
+      "excerpt": "用葡萄糖发电控制血糖。",
+      "content": "用葡萄糖发电控制血糖。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511570.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511870.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-      "url": "https://www.qbitai.com/2026/11/511570.html",
-      "publishedAt": "2026-11-21T06:32:31.000Z",
-      "excerpt": "专为本地部署而生",
-      "content": "专为本地部署而生"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511757.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-      "url": "https://www.qbitai.com/2026/11/511757.html",
-      "publishedAt": "2026-11-21T06:30:55.000Z",
-      "excerpt": "还透露了不少训练背后的秘诀",
-      "content": "还透露了不少训练背后的秘诀"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511740.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "米哈游发了个VLA论文",
-      "url": "https://www.qbitai.com/2026/11/511740.html",
-      "publishedAt": "2026-11-20T16:25:26.000Z",
-      "excerpt": "8B参数，50小时自主运行",
-      "content": "8B参数，50小时自主运行"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511727.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-      "url": "https://www.qbitai.com/2026/11/511727.html",
-      "publishedAt": "2026-11-20T16:07:39.000Z",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "url": "https://www.qbitai.com/2026/11/511870.html",
+      "publishedAt": "2026-11-22T06:03:54.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511722.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511855.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
-      "url": "https://www.qbitai.com/2026/11/511722.html",
-      "publishedAt": "2026-11-20T12:18:01.000Z",
-      "excerpt": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-      "content": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals"
+      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+      "url": "https://www.qbitai.com/2026/11/511855.html",
+      "publishedAt": "2026-11-21T14:14:09.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511679.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511849.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
-      "url": "https://www.qbitai.com/2026/11/511679.html",
-      "publishedAt": "2026-11-20T08:59:15.000Z",
-      "excerpt": "联合华为昇腾，五年冲刺十万卡",
-      "content": "联合华为昇腾，五年冲刺十万卡"
+      "title": "中国计算，走出新的登峰之路",
+      "url": "https://www.qbitai.com/2026/11/511849.html",
+      "publishedAt": "2026-11-21T14:09:59.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25905.htm",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511841.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "url": "https://www.qbitai.com/2026/11/511841.html",
+      "publishedAt": "2026-11-21T11:40:11.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511830.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "url": "https://www.qbitai.com/2026/11/511830.html",
+      "publishedAt": "2026-11-21T11:34:18.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/511791.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "url": "https://www.qbitai.com/2026/11/511791.html",
+      "publishedAt": "2026-11-21T11:24:29.000Z",
+      "excerpt": "",
+      "content": ""
+    },
+    {
+      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25927.htm",
       "sourceId": "ustc-notices",
       "sourceName": "中国科大通知公告",
       "category": "campus_notices",
-      "title": "中国科大“理实交融”马理学科系列讲座第36讲通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25905.htm",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "excerpt": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18",
-      "content": "中国科大“理实交融”马理学科系列讲座第36讲将于10月22日（周四）上午9:00在东校区5教101教室举行，特邀中国人民大学刘建军教授作《“两个结合”的学理阐释》专题报告。欢迎广大师生积极参加！特此通知。马克思主义学院 2026年10月18"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/25873.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之张晓亮副教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/25873.htm",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
-      "excerpt": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精...",
-      "content": "渡江精神内涵为坚定信念、革命到底，军民团结、一往无前，勇于担当、无私无畏。面对长江天堑与外部干涉的顾虑，党引导指战员摒弃幻想；沿江百姓划着小船冒死支前，军民同心赢得胜利。新时代传承渡江精神，要把握历史大势，发扬革命到底的斗争精神；坚持党的全面领导，强化系统观念谋划发展；厚植军民鱼水情谊，凝聚奋进合力；持续锤炼优良作风，严明纪律规矩，赓续红色血脉。我们仍行进在新时代的 “渡江”征程上，要当好渡江精..."
+      "title": "关于举办中国科学技术大学第五十七届学生体育运动大会的通知",
+      "url": "https://www.ustc.edu.cn/info/1360/25927.htm",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "excerpt": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区...",
+      "content": "中国科学技术大学第五十七届学生体育运动大会将于2026年10月30日（周五）、10月31日（周六）在东校区田径场举行，现将有关事项通知如下：一、本科生、研究生课程安排运动会期间理论课停上，实验课照常进行。二、运动会开幕式开幕式将于10月30日（周五）上午8:00在东校区田径场举行。三、增开班车安排为了方便高新校区和南校区学生参加开幕式和比赛，特在比赛期间增加班车，具体安排如下：10月30日（周五）上午，车队在高新校区..."
     }
   ],
   "stats": {
-    "totalItems": 9,
+    "totalItems": 8,
     "byCategory": {
-      "campus_notices": 2,
+      "campus_notices": 1,
       "community": 0,
       "tech_news": 7
     }
