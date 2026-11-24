@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-23T17:16:14.944Z",
+  "generatedAt": "2026-11-24T16:54:54.204Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512195.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512370.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-      "url": "https://www.qbitai.com/2026/11/512195.html",
-      "publishedAt": "2026-11-23T11:01:15.000Z",
-      "excerpt": "零Token成本，断网也能自由Vibe Coding",
-      "content": "零Token成本，断网也能自由Vibe Coding"
+      "title": "Google Cloud 出海峰会报名开启",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
+      "publishedAt": "2026-11-24T06:52:29.000Z",
+      "excerpt": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "content": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512179.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512362.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
-      "url": "https://www.qbitai.com/2026/11/512179.html",
-      "publishedAt": "2026-11-23T09:10:08.000Z",
-      "excerpt": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
-      "content": "企业核心需求不是交付设备，而是能持续上岗的劳动力"
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "publishedAt": "2026-11-24T06:35:06.000Z",
+      "excerpt": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "content": "端侧老炮辛米尔，打通物理AI规模化落地之路"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512017.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512354.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
-      "url": "https://www.qbitai.com/2026/11/512017.html",
-      "publishedAt": "2026-11-23T07:42:01.000Z",
-      "excerpt": "阿福大升级：让模型像医生一样思考",
-      "content": "阿福大升级：让模型像医生一样思考"
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "publishedAt": "2026-11-24T06:22:28.000Z",
+      "excerpt": "",
+      "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512004.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512348.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-      "url": "https://www.qbitai.com/2026/11/512004.html",
-      "publishedAt": "2026-11-23T06:59:38.000Z",
-      "excerpt": "一个完全由AI组成的科学家社会，是什么样？",
-      "content": "一个完全由AI组成的科学家社会，是什么样？"
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "url": "https://www.qbitai.com/2026/11/512348.html",
+      "publishedAt": "2026-11-24T06:15:38.000Z",
+      "excerpt": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "content": "11月19日，方程豹钛9上市，售价27.99万元起"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511998.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512343.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
-      "url": "https://www.qbitai.com/2026/11/511998.html",
-      "publishedAt": "2026-11-23T03:56:34.000Z",
-      "excerpt": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
-      "content": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领"
+      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+      "url": "https://www.qbitai.com/2026/11/512343.html",
+      "publishedAt": "2026-11-24T06:12:16.000Z",
+      "excerpt": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+      "content": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511989.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512329.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
-      "url": "https://www.qbitai.com/2026/11/511989.html",
-      "publishedAt": "2026-11-23T03:47:46.000Z",
-      "excerpt": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
-      "content": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。"
+      "title": "报名从速 来MEET2027！听AI前沿实践者交出“判断”",
+      "url": "https://www.qbitai.com/2026/11/512329.html",
+      "publishedAt": "2026-11-24T03:33:48.000Z",
+      "excerpt": "12.9 北京，来MEET2027现场",
+      "content": "12.9 北京，来MEET2027现场"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511978.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512330.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
-      "url": "https://www.qbitai.com/2026/11/511978.html",
-      "publishedAt": "2026-11-23T03:13:06.000Z",
-      "excerpt": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
-      "content": "RoboChallenge正式发布全新评测基准RoboChallenge Zero"
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "url": "https://www.qbitai.com/2026/11/512330.html",
+      "publishedAt": "2026-11-24T03:30:46.000Z",
+      "excerpt": "中国AI数据平台加速崛起",
+      "content": "中国AI数据平台加速崛起"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/511933.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512305.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
-      "url": "https://www.qbitai.com/2026/11/511933.html",
-      "publishedAt": "2026-11-23T02:29:24.000Z",
-      "excerpt": "豆包工作是目前字节优先级最高的产品",
-      "content": "豆包工作是目前字节优先级最高的产品"
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "url": "https://www.qbitai.com/2026/11/512305.html",
+      "publishedAt": "2026-11-24T03:21:12.000Z",
+      "excerpt": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "content": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
     }
   ],
   "stats": {
