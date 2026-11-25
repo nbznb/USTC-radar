@@ -1,101 +1,123 @@
 {
-  "generatedAt": "2026-11-24T16:54:54.204Z",
+  "generatedAt": "2026-11-25T16:43:57.067Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512370.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512727.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Google Cloud 出海峰会报名开启",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "publishedAt": "2026-11-24T06:52:29.000Z",
-      "excerpt": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "content": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512362.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "publishedAt": "2026-11-24T06:35:06.000Z",
-      "excerpt": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-      "content": "端侧老炮辛米尔，打通物理AI规模化落地之路"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512354.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "url": "https://www.qbitai.com/2026/11/512354.html",
-      "publishedAt": "2026-11-24T06:22:28.000Z",
+      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "url": "https://www.qbitai.com/2026/11/512727.html",
+      "publishedAt": "2026-11-25T14:51:06.000Z",
       "excerpt": "",
       "content": ""
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512348.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512715.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "url": "https://www.qbitai.com/2026/11/512348.html",
-      "publishedAt": "2026-11-24T06:15:38.000Z",
-      "excerpt": "11月19日，方程豹钛9上市，售价27.99万元起",
-      "content": "11月19日，方程豹钛9上市，售价27.99万元起"
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "publishedAt": "2026-11-25T14:32:57.000Z",
+      "excerpt": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "content": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512343.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512582.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "url": "https://www.qbitai.com/2026/11/512343.html",
-      "publishedAt": "2026-11-24T06:12:16.000Z",
-      "excerpt": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-      "content": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "url": "https://www.qbitai.com/2026/11/512582.html",
+      "publishedAt": "2026-11-25T14:21:20.000Z",
+      "excerpt": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "content": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512329.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512683.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "报名从速 来MEET2027！听AI前沿实践者交出“判断”",
-      "url": "https://www.qbitai.com/2026/11/512329.html",
-      "publishedAt": "2026-11-24T03:33:48.000Z",
-      "excerpt": "12.9 北京，来MEET2027现场",
-      "content": "12.9 北京，来MEET2027现场"
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "url": "https://www.qbitai.com/2026/11/512683.html",
+      "publishedAt": "2026-11-25T14:20:24.000Z",
+      "excerpt": "贯通具⾝智能研发流程",
+      "content": "贯通具⾝智能研发流程"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512330.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512565.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "url": "https://www.qbitai.com/2026/11/512330.html",
-      "publishedAt": "2026-11-24T03:30:46.000Z",
-      "excerpt": "中国AI数据平台加速崛起",
-      "content": "中国AI数据平台加速崛起"
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "url": "https://www.qbitai.com/2026/11/512565.html",
+      "publishedAt": "2026-11-25T11:07:14.000Z",
+      "excerpt": "揭秘General Looped Model",
+      "content": "揭秘General Looped Model"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512305.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512538.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "url": "https://www.qbitai.com/2026/11/512305.html",
-      "publishedAt": "2026-11-24T03:21:12.000Z",
-      "excerpt": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-      "content": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
+      "title": "Anthropic还藏着2个最强模型…",
+      "url": "https://www.qbitai.com/2026/11/512538.html",
+      "publishedAt": "2026-11-25T08:23:24.000Z",
+      "excerpt": "Fable5.2已经很旧了。",
+      "content": "Fable5.2已经很旧了。"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512532.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "url": "https://www.qbitai.com/2026/11/512532.html",
+      "publishedAt": "2026-11-25T08:18:54.000Z",
+      "excerpt": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+      "content": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办"
+    },
+    {
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512515.html",
+      "sourceId": "qbitai-news",
+      "sourceName": "量子位",
+      "category": "tech_news",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "url": "https://www.qbitai.com/2026/11/512515.html",
+      "publishedAt": "2026-11-25T07:46:52.000Z",
+      "excerpt": "OpenAI这下要有俩Tibo了",
+      "content": "OpenAI这下要有俩Tibo了"
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/97034.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "中国科大提出面向人工智能任务的能效建模与优化方法",
+      "url": "https://news.ustc.edu.cn/info/1055/97034.htm",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学计算机科学与技术学院孙广中、孙经纬团队与南方科技大学唐珂、刘晟材团队合作，提出面向人工智能任务的轻量级能效建模与优化框架EMO。该方法通过分析程序执行中的计算与通信依赖，识别可以适当降频的非关键计算，在控制任务耗时增长的同时降低GPU能耗。相关成果以“EMO: Energy Efficiency Modeling and Optimization for AI Workloads”为题，发表于11月15日-20日召开的的国际高性能计算、网络、存储与...",
+      "content": "近日，中国科学技术大学计算机科学与技术学院孙广中、孙经纬团队与南方科技大学唐珂、刘晟材团队合作，提出面向人工智能任务的轻量级能效建模与优化框架EMO。该方法通过分析程序执行中的计算与通信依赖，识别可以适当降频的非关键计算，在控制任务耗时增长的同时降低GPU能耗。相关成果以“EMO: Energy Efficiency Modeling and Optimization for AI Workloads”为题，发表于11月15日-20日召开的的国际高性能计算、网络、存储与..."
+    },
+    {
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/97032.htm",
+      "sourceId": "ustc-news",
+      "sourceName": "中国科大新闻网",
+      "category": "community",
+      "title": "合肥先进光源储存环实现全线真空贯通",
+      "url": "https://news.ustc.edu.cn/info/1055/97032.htm",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "excerpt": "11月23日，国家重大科技基础设施合肥先进光源（HALF）项目取得关键进展：储存环完成最后一段真空室安装到位并检漏合格，全环真空实现贯通，标志着储存环隧道内设备安装顺利完成。HALF储存环为衍射极限储存环，设计能量2.2GeV，周长约480米，采用H6BA磁聚焦结构，自然发射度约85pm・rad。电子束由直线加速器加速后注入储存环，在储存环超高真空环境下实现长时间稳定回旋，通过弯铁、插入件辐射出高亮度、高相干的中红外至软X射线...",
+      "content": "11月23日，国家重大科技基础设施合肥先进光源（HALF）项目取得关键进展：储存环完成最后一段真空室安装到位并检漏合格，全环真空实现贯通，标志着储存环隧道内设备安装顺利完成。HALF储存环为衍射极限储存环，设计能量2.2GeV，周长约480米，采用H6BA磁聚焦结构，自然发射度约85pm・rad。电子束由直线加速器加速后注入储存环，在储存环超高真空环境下实现长时间稳定回旋，通过弯铁、插入件辐射出高亮度、高相干的中红外至软X射线..."
     }
   ],
   "stats": {
-    "totalItems": 8,
+    "totalItems": 10,
     "byCategory": {
       "campus_notices": 0,
-      "community": 0,
+      "community": 2,
       "tech_news": 8
     }
   }
