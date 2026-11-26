@@ -1,123 +1,112 @@
 {
-  "generatedAt": "2026-11-25T16:43:57.067Z",
+  "generatedAt": "2026-11-26T16:18:53.660Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512727.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/513021.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
-      "url": "https://www.qbitai.com/2026/11/512727.html",
-      "publishedAt": "2026-11-25T14:51:06.000Z",
-      "excerpt": "",
-      "content": ""
+      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "url": "https://www.qbitai.com/2026/11/513021.html",
+      "publishedAt": "2026-11-26T13:56:01.000Z",
+      "excerpt": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+      "content": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512715.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512981.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-      "url": "https://www.qbitai.com/2026/11/512715.html",
-      "publishedAt": "2026-11-25T14:32:57.000Z",
-      "excerpt": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
-      "content": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA"
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "url": "https://www.qbitai.com/2026/11/512981.html",
+      "publishedAt": "2026-11-26T12:39:08.000Z",
+      "excerpt": "还得是科班尖子生",
+      "content": "还得是科班尖子生"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512582.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512972.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-      "url": "https://www.qbitai.com/2026/11/512582.html",
-      "publishedAt": "2026-11-25T14:21:20.000Z",
-      "excerpt": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
-      "content": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。"
+      "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+      "url": "https://www.qbitai.com/2026/11/512972.html",
+      "publishedAt": "2026-11-26T10:07:55.000Z",
+      "excerpt": "全栈方案破解工业机器人连续作业难题",
+      "content": "全栈方案破解工业机器人连续作业难题"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512683.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512952.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
-      "url": "https://www.qbitai.com/2026/11/512683.html",
-      "publishedAt": "2026-11-25T14:20:24.000Z",
-      "excerpt": "贯通具⾝智能研发流程",
-      "content": "贯通具⾝智能研发流程"
+      "title": "极客公园创新大会 2027 全议程公布！",
+      "url": "https://www.qbitai.com/2026/11/512952.html",
+      "publishedAt": "2026-11-26T08:19:20.000Z",
+      "excerpt": "今天，IF 2027 全议程揭晓。",
+      "content": "今天，IF 2027 全议程揭晓。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512565.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512942.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
-      "url": "https://www.qbitai.com/2026/11/512565.html",
-      "publishedAt": "2026-11-25T11:07:14.000Z",
-      "excerpt": "揭秘General Looped Model",
-      "content": "揭秘General Looped Model"
+      "title": "报名最后2天 AI浪潮之中，来认识创造未来的人",
+      "url": "https://www.qbitai.com/2026/11/512942.html",
+      "publishedAt": "2026-11-26T07:36:04.000Z",
+      "excerpt": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+      "content": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512538.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512916.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "Anthropic还藏着2个最强模型…",
-      "url": "https://www.qbitai.com/2026/11/512538.html",
-      "publishedAt": "2026-11-25T08:23:24.000Z",
-      "excerpt": "Fable5.2已经很旧了。",
-      "content": "Fable5.2已经很旧了。"
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "publishedAt": "2026-11-26T06:41:23.000Z",
+      "excerpt": "30秒一镜到底，可自动编排镜头",
+      "content": "30秒一镜到底，可自动编排镜头"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512532.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512897.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
-      "url": "https://www.qbitai.com/2026/11/512532.html",
-      "publishedAt": "2026-11-25T08:18:54.000Z",
-      "excerpt": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
-      "content": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办"
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "url": "https://www.qbitai.com/2026/11/512897.html",
+      "publishedAt": "2026-11-26T03:23:35.000Z",
+      "excerpt": "李斌坦言：不做AI变革可能活不下去",
+      "content": "李斌坦言：不做AI变革可能活不下去"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/512515.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/512840.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
-      "url": "https://www.qbitai.com/2026/11/512515.html",
-      "publishedAt": "2026-11-25T07:46:52.000Z",
-      "excerpt": "OpenAI这下要有俩Tibo了",
-      "content": "OpenAI这下要有俩Tibo了"
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "url": "https://www.qbitai.com/2026/11/512840.html",
+      "publishedAt": "2026-11-26T03:13:16.000Z",
+      "excerpt": "“灵巧手是人类最后的尊严”",
+      "content": "“灵巧手是人类最后的尊严”"
     },
     {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/97034.htm",
+      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/97052.htm",
       "sourceId": "ustc-news",
       "sourceName": "中国科大新闻网",
       "category": "community",
-      "title": "中国科大提出面向人工智能任务的能效建模与优化方法",
-      "url": "https://news.ustc.edu.cn/info/1055/97034.htm",
-      "publishedAt": "2026-11-25T00:00:00.000Z",
-      "excerpt": "近日，中国科学技术大学计算机科学与技术学院孙广中、孙经纬团队与南方科技大学唐珂、刘晟材团队合作，提出面向人工智能任务的轻量级能效建模与优化框架EMO。该方法通过分析程序执行中的计算与通信依赖，识别可以适当降频的非关键计算，在控制任务耗时增长的同时降低GPU能耗。相关成果以“EMO: Energy Efficiency Modeling and Optimization for AI Workloads”为题，发表于11月15日-20日召开的的国际高性能计算、网络、存储与...",
-      "content": "近日，中国科学技术大学计算机科学与技术学院孙广中、孙经纬团队与南方科技大学唐珂、刘晟材团队合作，提出面向人工智能任务的轻量级能效建模与优化框架EMO。该方法通过分析程序执行中的计算与通信依赖，识别可以适当降频的非关键计算，在控制任务耗时增长的同时降低GPU能耗。相关成果以“EMO: Energy Efficiency Modeling and Optimization for AI Workloads”为题，发表于11月15日-20日召开的的国际高性能计算、网络、存储与..."
-    },
-    {
-      "id": "ustc-news:https://news.ustc.edu.cn/info/1055/97032.htm",
-      "sourceId": "ustc-news",
-      "sourceName": "中国科大新闻网",
-      "category": "community",
-      "title": "合肥先进光源储存环实现全线真空贯通",
-      "url": "https://news.ustc.edu.cn/info/1055/97032.htm",
-      "publishedAt": "2026-11-25T00:00:00.000Z",
-      "excerpt": "11月23日，国家重大科技基础设施合肥先进光源（HALF）项目取得关键进展：储存环完成最后一段真空室安装到位并检漏合格，全环真空实现贯通，标志着储存环隧道内设备安装顺利完成。HALF储存环为衍射极限储存环，设计能量2.2GeV，周长约480米，采用H6BA磁聚焦结构，自然发射度约85pm・rad。电子束由直线加速器加速后注入储存环，在储存环超高真空环境下实现长时间稳定回旋，通过弯铁、插入件辐射出高亮度、高相干的中红外至软X射线...",
-      "content": "11月23日，国家重大科技基础设施合肥先进光源（HALF）项目取得关键进展：储存环完成最后一段真空室安装到位并检漏合格，全环真空实现贯通，标志着储存环隧道内设备安装顺利完成。HALF储存环为衍射极限储存环，设计能量2.2GeV，周长约480米，采用H6BA磁聚焦结构，自然发射度约85pm・rad。电子束由直线加速器加速后注入储存环，在储存环超高真空环境下实现长时间稳定回旋，通过弯铁、插入件辐射出高亮度、高相干的中红外至软X射线..."
+      "title": "中国科大揭示宽带激光与等离子体相互作用中超热电子反常增强机制",
+      "url": "https://news.ustc.edu.cn/info/1055/97052.htm",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "excerpt": "近日，中国科学技术大学等离子体物理与聚变工程系李俊研究团队在宽带激光驱动等离子体不稳定性及超热电子产生研究方面取得重要进展，揭示了中等带宽激光条件下超热电子反常增强的关键物理机制。相关成果以“Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses”为题，发表于国际物理学知名期刊《物理评论快报》（Physical Review Letters，PRL...",
+      "content": "近日，中国科学技术大学等离子体物理与聚变工程系李俊研究团队在宽带激光驱动等离子体不稳定性及超热电子产生研究方面取得重要进展，揭示了中等带宽激光条件下超热电子反常增强的关键物理机制。相关成果以“Laser-intensity-spike-dominated hot electron generation from two-plasmon decay instability driven by moderate-bandwidth pulses”为题，发表于国际物理学知名期刊《物理评论快报》（Physical Review Letters，PRL..."
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 9,
     "byCategory": {
       "campus_notices": 0,
-      "community": 2,
+      "community": 1,
       "tech_news": 8
     }
   }
