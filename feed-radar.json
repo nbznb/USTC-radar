@@ -1,124 +1,58 @@
 {
-  "generatedAt": "2026-11-27T16:03:02.342Z",
+  "generatedAt": "2026-11-28T14:58:51.026Z",
   "lookbackHours": 72,
   "items": [
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513352.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/513507.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-      "url": "https://www.qbitai.com/2026/11/513352.html",
-      "publishedAt": "2026-11-27T14:07:33.000Z",
-      "excerpt": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
-      "content": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。"
+      "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+      "url": "https://www.qbitai.com/2026/11/513507.html",
+      "publishedAt": "2026-11-28T12:53:02.000Z",
+      "excerpt": "这还只是热身",
+      "content": "这还只是热身"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513346.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/513484.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
-      "url": "https://www.qbitai.com/2026/11/513346.html",
-      "publishedAt": "2026-11-27T11:18:24.000Z",
-      "excerpt": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
-      "content": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证"
+      "title": "最新：黎曼猜想证明通过独立验证！",
+      "url": "https://www.qbitai.com/2026/11/513484.html",
+      "publishedAt": "2026-11-28T12:42:37.000Z",
+      "excerpt": "六种检查全通过",
+      "content": "六种检查全通过"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513320.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/513463.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
-      "url": "https://www.qbitai.com/2026/11/513320.html",
-      "publishedAt": "2026-11-27T07:39:18.000Z",
-      "excerpt": "淡泊名利，实至名归🎉",
-      "content": "淡泊名利，实至名归🎉"
+      "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
+      "url": "https://www.qbitai.com/2026/11/513463.html",
+      "publishedAt": "2026-11-28T12:25:48.000Z",
+      "excerpt": "为了证明黎曼猜想，他已经准备了十几年",
+      "content": "为了证明黎曼猜想，他已经准备了十几年"
     },
     {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513305.html",
+      "id": "qbitai-news:https://www.qbitai.com/2026/11/513428.html",
       "sourceId": "qbitai-news",
       "sourceName": "量子位",
       "category": "tech_news",
-      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
-      "url": "https://www.qbitai.com/2026/11/513305.html",
-      "publishedAt": "2026-11-27T07:29:10.000Z",
-      "excerpt": "网页App双端亮出聊天账单",
-      "content": "网页App双端亮出聊天账单"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513227.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
-      "url": "https://www.qbitai.com/2026/11/513227.html",
-      "publishedAt": "2026-11-27T07:01:20.000Z",
-      "excerpt": "地图能随时修，记忆能跨任务用",
-      "content": "地图能随时修，记忆能跨任务用"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513194.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
-      "url": "https://www.qbitai.com/2026/11/513194.html",
-      "publishedAt": "2026-11-27T04:05:56.000Z",
-      "excerpt": "企业需要有用的 AI",
-      "content": "企业需要有用的 AI"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513211.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
-      "url": "https://www.qbitai.com/2026/11/513211.html",
-      "publishedAt": "2026-11-27T04:05:18.000Z",
-      "excerpt": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
-      "content": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0"
-    },
-    {
-      "id": "qbitai-news:https://www.qbitai.com/2026/11/513163.html",
-      "sourceId": "qbitai-news",
-      "sourceName": "量子位",
-      "category": "tech_news",
-      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-      "url": "https://www.qbitai.com/2026/11/513163.html",
-      "publishedAt": "2026-11-27T03:53:49.000Z",
-      "excerpt": "Quickwit查询总耗时降31%，最高降87%",
-      "content": "Quickwit查询总耗时降31%，最高降87%"
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=26155",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "中国科学技术大学统一身份认证",
-      "url": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1359&wbnewsid=26155",
-      "publishedAt": "2026-11-27T00:00:00.000Z",
-      "excerpt": "",
-      "content": ""
-    },
-    {
-      "id": "ustc-notices:https://www.ustc.edu.cn/info/1360/26157.htm",
-      "sourceId": "ustc-notices",
-      "sourceName": "中国科大通知公告",
-      "category": "campus_notices",
-      "title": "关于“习近平新时代中国特色社会主义思想”系列讲座之刘红运教授报告会的通知",
-      "url": "https://www.ustc.edu.cn/info/1360/26157.htm",
-      "publishedAt": "2026-11-27T00:00:00.000Z",
-      "excerpt": "本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重要组成部分。本期邀请中共安徽省委党校（安徽行政学院）党的建设教研部主任刘红运教授开展专题报告。报告主题：持之以恒推进全面从严治党——学习领会党的二十届五中全会精神报告内容：一、深刻领会持之以恒推进全面从严治党的重大意义和总体要求（一）持之以恒推进全面从严治党的重大意义（二）持之以恒推进全面从严治党的总体要求二、全面落实...",
-      "content": "本系列讲座是“习近平新时代中国特色社会主义思想概论”课和“形势与政策”课的重要组成部分。本期邀请中共安徽省委党校（安徽行政学院）党的建设教研部主任刘红运教授开展专题报告。报告主题：持之以恒推进全面从严治党——学习领会党的二十届五中全会精神报告内容：一、深刻领会持之以恒推进全面从严治党的重大意义和总体要求（一）持之以恒推进全面从严治党的重大意义（二）持之以恒推进全面从严治党的总体要求二、全面落实..."
+      "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "url": "https://www.qbitai.com/2026/11/513428.html",
+      "publishedAt": "2026-11-28T05:54:46.000Z",
+      "excerpt": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+      "content": "这种大模型现做的即时交互工具，能不能来一波知识付费？"
     }
   ],
   "stats": {
-    "totalItems": 10,
+    "totalItems": 4,
     "byCategory": {
-      "campus_notices": 2,
+      "campus_notices": 0,
       "community": 0,
-      "tech_news": 8
+      "tech_news": 4
     }
   }
 }
